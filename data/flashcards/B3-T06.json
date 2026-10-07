@@ -1,0 +1,155 @@
+[
+  {
+    "id": "FC-00130",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La responsabilidad patrimonial es objetiva: no exige culpa ni negligencia, basta el funcionamiento normal o anormal del servicio — ¿por qué se diferencian?",
+    "reverso": "La responsabilidad patrimonial es objetiva: no exige culpa ni negligencia, basta el funcionamiento normal o anormal del servicio — el único límite real es la fuerza mayor.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c130"
+    }
+  },
+  {
+    "id": "FC-00131",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Fuerza mayor vs. imprevisible o inevitable — ¿cuál es la diferencia clave?",
+    "reverso": "Fuerza mayor = hecho imprevisible o inevitable conforme al estado de la ciencia/técnica; no confundir con el \"caso fortuito\" del Derecho civil, ni asimilar a cualquier causa externa.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c131"
+    }
+  },
+  {
+    "id": "FC-00132",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La ______ el derecho a indemnización — deben concurrir todos los requisitos (daño efectivo, nexo causal, etc.).",
+    "reverso": "La anulación de un acto administrativo NO presupone automáticamente el derecho a indemnización — deben concurrir todos los requisitos (daño efectivo, nexo causal, etc.).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c132"
+    }
+  },
+  {
+    "id": "FC-00133",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Prescripción de la acción: 1 año desde el hecho (o desde la manifestación del efecto lesivo); en daños físicos/psíquicos, desde la curación o consolidación de secuelas — ¿por qué se diferencian?",
+    "reverso": "Prescripción de la acción: 1 año desde el hecho (o desde la manifestación del efecto lesivo); en daños físicos/psíquicos, desde la curación o consolidación de secuelas — plazo distinto que otros del Derecho administrativo (no confundir con los 4 años de otras acciones).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c133"
+    }
+  },
+  {
+    "id": "FC-00134",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Dictamen del Consejo de Estado obligatorio cuando la reclamación es ≥ 50.000 € — ¿por qué se diferencian?",
+    "reverso": "Dictamen del Consejo de Estado obligatorio cuando la reclamación es ≥ 50.000 € — cifra fácil de confundir con otros umbrales del temario.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c134"
+    }
+  },
+  {
+    "id": "FC-00135",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El silencio en responsabilidad patrimonial es positivo transcurridos 6 meses, salvo que una ley o norma europea diga lo contrario — ¿por qué se diferencian?",
+    "reverso": "El silencio en responsabilidad patrimonial es positivo transcurridos 6 meses, salvo que una ley o norma europea diga lo contrario — no confundir con el silencio negativo que rige en otros procedimientos (p.ej., revisión de oficio a instancia del interesado).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c135"
+    }
+  },
+  {
+    "id": "FC-00136",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Error judicial (jueces, en el ejercicio de la función jurisdiccional) vs. funcionamiento anormal de la Administración de Justicia (personal no jurisdiccional) — ¿por qué se diferencian?",
+    "reverso": "Error judicial (jueces, en el ejercicio de la función jurisdiccional) vs. funcionamiento anormal de la Administración de Justicia (personal no jurisdiccional) — dos vías procedimentales distintas dentro del art. 121 CE, aunque ambas acaban tramitándose ante el Ministerio de Justicia.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c136"
+    }
+  },
+  {
+    "id": "FC-00137",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La prisión preventiva indebida exige haber sufrido perjuicios tras la absolución o el sobreseimiento libre — ¿por qué se diferencian?",
+    "reverso": "La prisión preventiva indebida exige haber sufrido perjuicios tras la absolución o el sobreseimiento libre — el requisito de que fuera \"por inexistencia del hecho\" fue declarado inconstitucional, ampliando el derecho a la indemnización.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c137"
+    }
+  },
+  {
+    "id": "FC-00138",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Responsabilidad del poder legislativo por ley inconstitucional o contraria al Derecho de la UE: exige haber obtenido sentencia firme desestimatoria previa de un recurso contra la actuación administrativa dañosa, habiendo alegado ya entonces el vicio que luego se declaró — ¿por qué se diferencian?",
+    "reverso": "Responsabilidad del poder legislativo por ley inconstitucional o contraria al Derecho de la UE: exige haber obtenido sentencia firme desestimatoria previa de un recurso contra la actuación administrativa dañosa, habiendo alegado ya entonces el vicio que luego se declaró — no basta con la mera declaración de inconstitucionalidad o infracción europea posterior sin ese litigio previo.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c138"
+    }
+  }
+]

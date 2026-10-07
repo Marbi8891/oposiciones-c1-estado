@@ -1,0 +1,20 @@
+[
+  {
+    "id": "VER-0001",
+    "norma": "Real Decreto Legislativo 5/2015 (TREBEP)",
+    "articulo": "art. 10.1.d",
+    "texto_literal": "El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses",
+    "fuente": {
+      "tipo": "boe",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "fecha_consulta": "2026-10-07",
+      "version_consolidada": "última actualización 03/10/2026"
+    },
+    "modificaciones": [
+      "Real Decreto-ley 14/2021, de 6 de julio (BOE-A-2021-11233)",
+      "Ley 20/2021, de 28 de diciembre (BOE-A-2021-21651)"
+    ],
+    "estado": "VERIFICADO VIGENTE",
+    "nota": "Coincide con la clave de T01_Bloque_IV_test.md P7 y T03_Bloque_IV_test.md P2 (enunciado duplicado)."
+  }
+]

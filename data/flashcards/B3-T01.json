@@ -1,0 +1,172 @@
+[
+  {
+    "id": "FC-00149",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Jerarquía normativa (subordinación entre normas según el rango del órgano) vs. principio de competencia (reparto de materias entre órganos, sin relación de subordinación) — ¿por qué se diferencian?",
+    "reverso": "Jerarquía normativa (subordinación entre normas según el rango del órgano) vs. principio de competencia (reparto de materias entre órganos, sin relación de subordinación) — son dos principios distintos que se aplican de forma complementaria.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c149"
+    }
+  },
+  {
+    "id": "FC-00150",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Reserva material de ley vs. reserva formal de ley — ¿cuál es la diferencia clave?",
+    "reverso": "Reserva material de ley (la CE exige que cierta materia se regule por ley) vs. reserva formal de ley (una vez una materia se ha regulado por ley, ya no puede \"bajar\" a reglamento, aunque sea intrascendente).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c150"
+    }
+  },
+  {
+    "id": "FC-00151",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Las Leyes Orgánicas requieren mayoría absoluta del Congreso en votación final sobre el conjunto; no se exige mayoría especial en el Senado — ¿por qué se diferencian?",
+    "reverso": "Las Leyes Orgánicas requieren mayoría absoluta del Congreso en votación final sobre el conjunto; no se exige mayoría especial en el Senado — error típico es pensar que también se exige en el Senado.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c151"
+    }
+  },
+  {
+    "id": "FC-00152",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Decreto-Ley (extraordinaria y urgente necesidad, control parlamentario en 30 días, convalidación o derogación en bloque sin enmiendas) vs. Decreto Legislativo (delegación legislativa previa de las Cortes, texto articulado o refundido) — ¿por qué se diferencian?",
+    "reverso": "Decreto-Ley (extraordinaria y urgente necesidad, control parlamentario en 30 días, convalidación o derogación en bloque sin enmiendas) vs. Decreto Legislativo (delegación legislativa previa de las Cortes, texto articulado o refundido) — confusión clásica de examen.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c152"
+    }
+  },
+  {
+    "id": "FC-00153",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El Decreto-Ley ______ a: instituciones básicas del Estado, derechos del Título I, régimen de las CC.AA. ni Derecho electoral general — memorizar esta lista.",
+    "reverso": "El Decreto-Ley no puede afectar a: instituciones básicas del Estado, derechos del Título I, régimen de las CC.AA. ni Derecho electoral general — memorizar esta lista.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c153"
+    }
+  },
+  {
+    "id": "FC-00154",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Ley de Bases → Texto Articulado; Ley ordinaria de autorización → Texto Refundido — ¿por qué se diferencian?",
+    "reverso": "Ley de Bases → Texto Articulado; Ley ordinaria de autorización → Texto Refundido — no intercambiar los pares.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c154"
+    }
+  },
+  {
+    "id": "FC-00155",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El control judicial de Decretos-Leyes y Decretos Legislativos corresponde en exclusiva al ______ (no a la jurisdicción contencioso-administrativa ordinaria, por tratarse de normas con rango de ley).",
+    "reverso": "El control judicial de Decretos-Leyes y Decretos Legislativos corresponde en exclusiva al Tribunal Constitucional (no a la jurisdicción contencioso-administrativa ordinaria, por tratarse de normas con rango de ley).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c155"
+    }
+  },
+  {
+    "id": "FC-00156",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La costumbre es fuente supletoria de primer grado; los principios generales del Derecho, de segundo grado — ¿por qué se diferencian?",
+    "reverso": "La costumbre es fuente supletoria de primer grado; los principios generales del Derecho, de segundo grado — no invertir el orden.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c156"
+    }
+  },
+  {
+    "id": "FC-00157",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La ______ formalmente (no aparece en el art. 1.1 CC), aunque \"complementa\" el ordenamiento — matiz que se pregunta con frecuencia en examen tipo test.",
+    "reverso": "La jurisprudencia no es fuente del Derecho formalmente (no aparece en el art. 1.1 CC), aunque \"complementa\" el ordenamiento — matiz que se pregunta con frecuencia en examen tipo test.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c157"
+    }
+  },
+  {
+    "id": "FC-00158",
+    "version": 1,
+    "tema_id": "B3-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______ (no son fuente del Derecho, a diferencia del Reglamento): su incumplimiento no invalida el acto dictado, solo genera responsabilidad disciplinaria.",
+    "reverso": "Instrucciones y circulares carecen de carácter normativo (no son fuente del Derecho, a diferencia del Reglamento): su incumplimiento no invalida el acto dictado, solo genera responsabilidad disciplinaria.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c158"
+    }
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000161",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Título VIII de la Constitución, dedicado a la organización territorial del Estado, comprende los artículos:",
+    "opciones": {
+      "a": "Del 97 al 116",
+      "b": "Del 117 al 127",
+      "c": "Del 137 al 158",
+      "d": "Del 128 al 136"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "Del 97 al 116",
+        "Del 117 al 127",
+        "Del 137 al 158",
+        "Del 128 al 136"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000162",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el art. 137 CE, el Estado se organiza territorialmente en:",
+    "opciones": {
+      "a": "Solo Comunidades Autónomas",
+      "b": "Municipios, provincias y Comunidades Autónomas",
+      "c": "Regiones históricas exclusivamente",
+      "d": "Municipios y provincias únicamente"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "Municipios, provincias y Comunidades Autónomas",
+        "Solo Comunidades Autónomas",
+        "Regiones históricas exclusivamente",
+        "Municipios y provincias únicamente"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000163",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las provincias y municipios gozan de autonomía que, a diferencia de las Comunidades Autónomas, se limita a:",
+    "opciones": {
+      "a": "Potestad legislativa exclusivamente",
+      "b": "Potestad administrativa",
+      "c": "Potestad constituyente",
+      "d": "Potestad jurisdiccional"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "Potestad legislativa exclusivamente",
+        "Potestad administrativa",
+        "Potestad constituyente",
+        "Potestad jurisdiccional"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000164",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El principio que el Tribunal Constitucional ha calificado como \"esencia del modelo de organización del Estado\" es:",
+    "opciones": {
+      "a": "La unidad",
+      "b": "La cooperación",
+      "c": "La solidaridad",
+      "d": "La coordinación"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "La unidad",
+        "La solidaridad",
+        "La cooperación",
+        "La coordinación"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000165",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La totalidad de los Estatutos de Autonomía han optado por un sistema legislativo:",
+    "opciones": {
+      "a": "Bicameral",
+      "b": "Tricameral",
+      "c": "Mixto, según la Comunidad",
+      "d": "Unicameral"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Mixto, según la Comunidad"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000166",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Presidente de una Comunidad Autónoma es elegido por la Asamblea Legislativa y:",
+    "opciones": {
+      "a": "Nombrado por el propio Parlamento autonómico",
+      "b": "Nombrado por el Presidente del Gobierno",
+      "c": "Nombrado por el Rey",
+      "d": "Nombrado por el Tribunal Constitucional"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "Nombrado por el propio Parlamento autonómico",
+        "Nombrado por el Rey",
+        "Nombrado por el Presidente del Gobierno",
+        "Nombrado por el Tribunal Constitucional"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000167",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Tribunal Constitucional declaró inconstitucional que el refrendo del nombramiento del Presidente autonómico correspondiera a:",
+    "opciones": {
+      "a": "El Presidente del Gobierno de la Nación",
+      "b": "El Presidente del Parlamento autonómico",
+      "c": "El Rey directamente",
+      "d": "El Ministro de Política Territorial"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "El Presidente del Gobierno de la Nación",
+        "El Presidente del Parlamento autonómico",
+        "El Rey directamente",
+        "El Ministro de Política Territorial"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000168",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Tribunal Superior de Justicia, según el art. 152.1 CE:",
+    "opciones": {
+      "a": "Es un órgano propio de la Comunidad Autónoma",
+      "b": "Depende jerárquicamente del Consejo de Gobierno autonómico",
+      "c": "Sustituye al Tribunal Supremo en su territorio",
+      "d": "Es un órgano del Poder Judicial del Estado, no de la Comunidad Autónoma"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Es un órgano propio de la Comunidad Autónoma",
+        "Es un órgano del Poder Judicial del Estado, no de la Comunidad Autónoma",
+        "Depende jerárquicamente del Consejo de Gobierno autonómico",
+        "Sustituye al Tribunal Supremo en su territorio"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000169",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La vía \"especial\" de acceso a la autonomía (art. 151 CE) exige, entre otros requisitos:",
+    "opciones": {
+      "a": "Ratificación mediante referéndum",
+      "b": "Aprobación exclusiva del Congreso sin más trámite",
+      "c": "Autorización del Tribunal Constitucional",
+      "d": "Consulta previa a la ONU"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "Ratificación mediante referéndum",
+        "Aprobación exclusiva del Congreso sin más trámite",
+        "Autorización del Tribunal Constitucional",
+        "Consulta previa a la ONU"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000170",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El procedimiento \"excepcional\" (art. 144 CE) mediante el cual las Cortes Generales pueden autorizar una Comunidad Autónoma que no cumpla los requisitos del art. 143.1 se aplicó, entre otros casos, a:",
+    "opciones": {
+      "a": "Cataluña",
+      "b": "Andalucía",
+      "c": "Galicia",
+      "d": "La Comunidad de Madrid"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "Cataluña",
+        "La Comunidad de Madrid",
+        "Andalucía",
+        "Galicia"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000171",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las Comunidades Autónomas constituidas por la vía del art. 143 (\"autonomía gradual\") deben esperar, para ampliar sus competencias al listado del art. 149, un plazo de:",
+    "opciones": {
+      "a": "2 años",
+      "b": "10 años",
+      "c": "No hay plazo, pueden hacerlo desde el inicio",
+      "d": "5 años"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "2 años",
+        "5 años",
+        "10 años",
+        "No hay plazo, pueden hacerlo desde el inicio"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000172",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "¿Cuál de las siguientes materias corresponde a la competencia EXCLUSIVA del Estado según el art. 149 CE?",
+    "opciones": {
+      "a": "La artesanía",
+      "b": "La promoción del turismo",
+      "c": "La Administración de Justicia",
+      "d": "Los museos de interés para la Comunidad"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "La artesanía",
+        "La promoción del turismo",
+        "La Administración de Justicia",
+        "Los museos de interés para la Comunidad"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000173",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el art. 149.3 CE, el derecho estatal será, en todo caso:",
+    "opciones": {
+      "a": "Prevalente sobre cualquier norma autonómica",
+      "b": "Inaplicable en materia autonómica",
+      "c": "Supletorio del derecho de las Comunidades Autónomas",
+      "d": "Derogado automáticamente por las normas autonómicas"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "Prevalente sobre cualquier norma autonómica",
+        "Supletorio del derecho de las Comunidades Autónomas",
+        "Inaplicable en materia autonómica",
+        "Derogado automáticamente por las normas autonómicas"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000174",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las \"leyes marco\" (art. 150.1 CE) permiten a las Cortes Generales:",
+    "opciones": {
+      "a": "Transferir de forma permanente competencias exclusivas sin control",
+      "b": "Suprimir las competencias autonómicas ya asumidas",
+      "c": "Delegar en las Comunidades Autónomas la facultad de dictar normas legislativas dentro de un marco fijado por ley estatal",
+      "d": "Sustituir a los Estatutos de Autonomía"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "Delegar en las Comunidades Autónomas la facultad de dictar normas legislativas dentro de un marco fijado por ley estatal",
+        "Transferir de forma permanente competencias exclusivas sin control",
+        "Suprimir las competencias autonómicas ya asumidas",
+        "Sustituir a los Estatutos de Autonomía"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000175",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las \"leyes de transferencia o delegación\" del art. 150.2 CE se aprueban mediante:",
+    "opciones": {
+      "a": "Ley Orgánica",
+      "b": "Real Decreto",
+      "c": "Decreto-Ley",
+      "d": "Acuerdo del Consejo de Ministros sin intervención de las Cortes"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "Real Decreto",
+        "Ley Orgánica",
+        "Decreto-Ley",
+        "Acuerdo del Consejo de Ministros sin intervención de las Cortes"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000176",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La coerción estatal prevista en el art. 155 CE requiere, entre otros requisitos, la aprobación por:",
+    "opciones": {
+      "a": "Mayoría absoluta del Senado",
+      "b": "Mayoría simple del Congreso",
+      "c": "Unanimidad de ambas Cámaras",
+      "d": "Referéndum popular"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "Mayoría simple del Congreso",
+        "Mayoría absoluta del Senado",
+        "Unanimidad de ambas Cámaras",
+        "Referéndum popular"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000177",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El control del ámbito económico y presupuestario de las Comunidades Autónomas corresponde a:",
+    "opciones": {
+      "a": "El Tribunal de Cuentas",
+      "b": "El Tribunal Constitucional",
+      "c": "El Consejo de Estado",
+      "d": "La jurisdicción contencioso-administrativa"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "El Tribunal Constitucional",
+        "El Tribunal de Cuentas",
+        "El Consejo de Estado",
+        "La jurisdicción contencioso-administrativa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000178",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el art. 157 CE, entre los recursos de las Comunidades Autónomas se encuentra:",
+    "opciones": {
+      "a": "Los impuestos cedidos total o parcialmente por el Estado",
+      "b": "Las cuotas sindicales",
+      "c": "Los aranceles aduaneros exclusivamente",
+      "d": "El Fondo Monetario Internacional"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "Los impuestos cedidos total o parcialmente por el Estado",
+        "Las cuotas sindicales",
+        "Los aranceles aduaneros exclusivamente",
+        "El Fondo Monetario Internacional"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000179",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Estatuto de Autonomía tiene naturaleza jurídica de:",
+    "opciones": {
+      "a": "Ley ordinaria",
+      "b": "Ley Orgánica",
+      "c": "Real Decreto Legislativo",
+      "d": "Reglamento administrativo"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Ley ordinaria",
+        "Ley Orgánica",
+        "Real Decreto Legislativo",
+        "Reglamento administrativo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000180",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La reforma de un Estatuto de Autonomía requiere, en todo caso:",
+    "opciones": {
+      "a": "Solo el acuerdo del Parlamento autonómico",
+      "b": "Un decreto del Consejo de Ministros",
+      "c": "La autorización del Tribunal Constitucional exclusivamente",
+      "d": "La aprobación de las Cortes Generales mediante Ley Orgánica"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T09_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "Solo el acuerdo del Parlamento autonómico",
+        "La aprobación de las Cortes Generales mediante Ley Orgánica",
+        "Un decreto del Consejo de Ministros",
+        "La autorización del Tribunal Constitucional exclusivamente"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

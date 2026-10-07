@@ -1,0 +1,155 @@
+[
+  {
+    "id": "FC-00042",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El Consejo tiene ______: Presidente y Comisión de Transparencia y Buen Gobierno (no confundir \"el Consejo\" con solo la Comisión).",
+    "reverso": "El Consejo tiene dos órganos: Presidente y Comisión de Transparencia y Buen Gobierno (no confundir \"el Consejo\" con solo la Comisión).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c42"
+    }
+  },
+  {
+    "id": "FC-00043",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La Comisión tiene ______ (Presidente + Diputado + Senador + representantes de Tribunal de Cuentas, Defensor del Pueblo, AEPD, Secretaría de Estado de AAPP y AIReF).",
+    "reverso": "La Comisión tiene 8 miembros (Presidente + Diputado + Senador + representantes de Tribunal de Cuentas, Defensor del Pueblo, AEPD, Secretaría de Estado de AAPP y AIReF).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c43"
+    }
+  },
+  {
+    "id": "FC-00044",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "5 años, no renovable vs. mayoría absoluta — ¿cuál es la diferencia clave?",
+    "reverso": "Mandato del Presidente: 5 años, no renovable; refrendo del Congreso por mayoría absoluta en 1 mes.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c44"
+    }
+  },
+  {
+    "id": "FC-00045",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Plazo de resolución de solicitudes de acceso: 1 mes (ampliable otro mes) — ¿por qué se diferencian?",
+    "reverso": "Plazo de resolución de solicitudes de acceso: 1 mes (ampliable otro mes) — plazo de reclamación ante el Consejo: 1 mes para interponerla, 3 meses para resolverla.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c45"
+    }
+  },
+  {
+    "id": "FC-00046",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Excepción a la reclamación ante el Consejo: los sujetos del ______ (Casa del Rey, Congreso, Senado, TC, CGPJ...) van directos a la vía contencioso-administrativa.",
+    "reverso": "Excepción a la reclamación ante el Consejo: los sujetos del art. 2.1.f) (Casa del Rey, Congreso, Senado, TC, CGPJ...) van directos a la vía contencioso-administrativa.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c46"
+    }
+  },
+  {
+    "id": "FC-00047",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Contratos menores: publicidad ______ (no mensual).",
+    "reverso": "Contratos menores: publicidad trimestral (no mensual).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c47"
+    }
+  },
+  {
+    "id": "FC-00048",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": ">100.000€/año vs. ≥40% de ingresos — ¿cuál es la diferencia clave?",
+    "reverso": "Umbral de subvenciones para entidades privadas obligadas: >100.000€/año, o ≥40% de ingresos si alcanzan al menos 5.000€.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c48"
+    }
+  },
+  {
+    "id": "FC-00049",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Sanciones: leves = amonestación; muy graves = destitución + inhabilitación ______.",
+    "reverso": "Sanciones: leves = amonestación; muy graves = destitución + inhabilitación 5-10 años.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c49"
+    }
+  },
+  {
+    "id": "FC-00050",
+    "version": 1,
+    "tema_id": "B1-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El Consejo está adscrito actualmente al ______ (cambio respecto a la redacción original de la Ley, que lo adscribía a Hacienda y AAPP) — dato susceptible de actualización normativa, verificar vigencia si el examen es posterior a 2024.",
+    "reverso": "El Consejo está adscrito actualmente al Ministerio para la Transformación Digital y de la Función Pública (cambio respecto a la redacción original de la Ley, que lo adscribía a Hacienda y AAPP) — dato susceptible de actualización normativa, verificar vigencia si el examen es posterior a 2024.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c50"
+    }
+  }
+]

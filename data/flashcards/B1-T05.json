@@ -1,0 +1,138 @@
+[
+  {
+    "id": "FC-00026",
+    "version": 1,
+    "tema_id": "B1-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Gobierno (político, temporal) vs. Administración (gestora, permanente) — ¿por qué se diferencian?",
+    "reverso": "Gobierno (político, temporal) vs. Administración (gestora, permanente) — el Gobierno dirige la Administración (art. 97 CE).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c26"
+    }
+  },
+  {
+    "id": "FC-00027",
+    "version": 1,
+    "tema_id": "B1-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "mayoría absoluta vs. mayoría simple — ¿cuál es la diferencia clave?",
+    "reverso": "Investidura: mayoría absoluta en 1ª votación, mayoría simple en 2ª votación (48h después).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c27"
+    }
+  },
+  {
+    "id": "FC-00028",
+    "version": 1,
+    "tema_id": "B1-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El acta del Consejo de Ministros recoge circunstancias, asistentes, acuerdos e informes — ______.",
+    "reverso": "El acta del Consejo de Ministros recoge circunstancias, asistentes, acuerdos e informes — no el contenido de las deliberaciones.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c28"
+    }
+  },
+  {
+    "id": "FC-00029",
+    "version": 1,
+    "tema_id": "B1-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______ (no el Presidente del Gobierno, que preside pero no es el secretario).",
+    "reverso": "Secretario del Consejo de Ministros = Ministro de la Presidencia (no el Presidente del Gobierno, que preside pero no es el secretario).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c29"
+    }
+  },
+  {
+    "id": "FC-00030",
+    "version": 1,
+    "tema_id": "B1-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Reales Decretos-leyes (potestad legislativa de urgencia) vs. Reales Decretos Legislativos (desarrollo de delegación legislativa) — ¿por qué se diferencian?",
+    "reverso": "Reales Decretos-leyes (potestad legislativa de urgencia) vs. Reales Decretos Legislativos (desarrollo de delegación legislativa) — ambos los aprueba el Gobierno.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c30"
+    }
+  },
+  {
+    "id": "FC-00031",
+    "version": 1,
+    "tema_id": "B1-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "ordinario vs. extraordinario — ¿cuál es la diferencia clave?",
+    "reverso": "Control ordinario (ambas Cámaras, sin responsabilidad política) vs. extraordinario (solo Congreso, con responsabilidad política: moción de censura y cuestión de confianza).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c31"
+    }
+  },
+  {
+    "id": "FC-00032",
+    "version": 1,
+    "tema_id": "B1-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Igual que en el Tema 3: cuestión de confianza = mayoría simple, la plantea el Go...",
+    "reverso": "Igual que en el Tema 3: cuestión de confianza = mayoría simple, la plantea el Gobierno; moción de censura = mayoría absoluta, la plantea el Congreso (1/10 de Diputados) e incluye candidato alternativo.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c32"
+    }
+  },
+  {
+    "id": "FC-00033",
+    "version": 1,
+    "tema_id": "B1-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Vía extraordinaria de investidura = aprobación de una moción de censura con cand...",
+    "reverso": "Vía extraordinaria de investidura = aprobación de una moción de censura con candidato alternativo (el candidato queda investido automáticamente).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c33"
+    }
+  }
+]

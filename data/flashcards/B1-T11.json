@@ -1,0 +1,121 @@
+[
+  {
+    "id": "FC-00080",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Consejo Europeo (jefes de Estado/Gobierno, orientaciones políticas, sin función legislativa) vs. Consejo de la Unión Europea (Ministros, función legislativa junto al Parlamento) — ¿por qué se diferencian?",
+    "reverso": "Consejo Europeo (jefes de Estado/Gobierno, orientaciones políticas, sin función legislativa) vs. Consejo de la Unión Europea (Ministros, función legislativa junto al Parlamento) — son órganos distintos con nombres muy parecidos; error clásico de examen.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c80"
+    }
+  },
+  {
+    "id": "FC-00081",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "2 años y medio vs. 5 años — ¿cuál es la diferencia clave?",
+    "reverso": "Mandatos de 2 años y medio: Presidente del Consejo Europeo y Presidente del Parlamento Europeo. Mandato de 5 años: diputados del Parlamento y Comisión. Mandato de 6 años: jueces/abogados generales del TJUE y miembros del Tribunal de Cuentas (renovación parcial cada 3 años). Mandato de 8 años no renovable: Comité Ejecutivo del BCE.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c81"
+    }
+  },
+  {
+    "id": "FC-00082",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Reglamento (aplicación directa, sin transposición) vs. Directiva (obligación de resultado, requiere transposición nacional) — ¿por qué se diferencian?",
+    "reverso": "Reglamento (aplicación directa, sin transposición) vs. Directiva (obligación de resultado, requiere transposición nacional) — la pregunta más repetida de esta parte del temario.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c82"
+    }
+  },
+  {
+    "id": "FC-00083",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La ______ en el Consejo tiene dos fórmulas distintas según si actúa o no a propuesta de la Comisión (55%/15 miembros/65% población vs. 72%/65% población) — se presta a confusión numérica.",
+    "reverso": "La mayoría cualificada en el Consejo tiene dos fórmulas distintas según si actúa o no a propuesta de la Comisión (55%/15 miembros/65% población vs. 72%/65% población) — se presta a confusión numérica.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c83"
+    }
+  },
+  {
+    "id": "FC-00084",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "España se adhirió a las Comunidades Europeas en 1986 (entrada en vigor 1 de enero), tras firmar el Tratado en 1985 — ¿por qué se diferencian?",
+    "reverso": "España se adhirió a las Comunidades Europeas en 1986 (entrada en vigor 1 de enero), tras firmar el Tratado en 1985 — no confundir año de firma con año de entrada en vigor.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c84"
+    }
+  },
+  {
+    "id": "FC-00085",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El Tribunal de Justicia (27 jueces + 11 abogados generales) tiene abogados generales; el Tribunal General (2 jueces por Estado) no tiene abogados generales — ¿por qué se diferencian?",
+    "reverso": "El Tribunal de Justicia (27 jueces + 11 abogados generales) tiene abogados generales; el Tribunal General (2 jueces por Estado) no tiene abogados generales — diferencia clave.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c85"
+    }
+  },
+  {
+    "id": "FC-00086",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______ Consejo Europeo y Consejo de la UE → Bruselas; Parlamento Europeo → Estrasburgo (con sesiones en Bruselas); Comisión → Bruselas; TJUE y Tribunal de Cuentas → Luxemburgo; BCE → Frankfurt.",
+    "reverso": "Sede de las instituciones: Consejo Europeo y Consejo de la UE → Bruselas; Parlamento Europeo → Estrasburgo (con sesiones en Bruselas); Comisión → Bruselas; TJUE y Tribunal de Cuentas → Luxemburgo; BCE → Frankfurt.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c86"
+    }
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000461",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Para el acceso a los cuerpos o escalas del Grupo C, subgrupo C1, se exige estar en posesión de:",
+    "opciones": {
+      "a": "Título universitario de Grado",
+      "b": "Título de Técnico Superior",
+      "c": "Título de Graduado en Educación Secundaria Obligatoria",
+      "d": "Título de Bachiller o Técnico"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "Título universitario de Grado",
+        "Título de Técnico Superior",
+        "Título de Bachiller o Técnico",
+        "Título de Graduado en Educación Secundaria Obligatoria"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000462",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen:",
+    "opciones": {
+      "a": "Por Real Decreto del Consejo de Ministros",
+      "b": "Por orden del Ministro para las Administraciones Públicas",
+      "c": "Por ley de las Cortes Generales o de las asambleas legislativas de las Comunidades Autónomas",
+      "d": "Por resolución de la Dirección General de la Función Pública"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "Por Real Decreto del Consejo de Ministros",
+        "Por ley de las Cortes Generales o de las asambleas legislativas de las Comunidades Autónomas",
+        "Por orden del Ministro para las Administraciones Públicas",
+        "Por resolución de la Dirección General de la Función Pública"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000463",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La ejecución de la Oferta de Empleo Público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de:",
+    "opciones": {
+      "a": "3 años",
+      "b": "1 año",
+      "c": "2 años",
+      "d": "5 años"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "1 año",
+        "2 años",
+        "3 años",
+        "5 años"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000464",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Además de las plazas comprometidas en la Oferta de Empleo Público, existe obligación de convocar los correspondientes procesos selectivos hasta un:",
+    "opciones": {
+      "a": "5% adicional",
+      "b": "10% adicional",
+      "c": "7% adicional",
+      "d": "15% adicional"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "5% adicional",
+        "7% adicional",
+        "10% adicional",
+        "15% adicional"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000465",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Oferta de Empleo Público será aprobada, con carácter general, por:",
+    "opciones": {
+      "a": "El Gobierno, a propuesta del Ministro para las Administraciones Públicas, con informe favorable del Ministerio de Economía y Hacienda, en el primer trimestre de cada año",
+      "b": "Los Departamentos ministeriales, cada uno para su propio ámbito",
+      "c": "La Dirección General de la Función Pública, sin necesidad de informe previo",
+      "d": "El Congreso de los Diputados, mediante ley ordinaria"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "El Gobierno, a propuesta del Ministro para las Administraciones Públicas, con informe favorable del Ministerio de Economía y Hacienda, en el primer trimestre de cada año",
+        "Los Departamentos ministeriales, cada uno para su propio ámbito",
+        "La Dirección General de la Función Pública, sin necesidad de informe previo",
+        "El Congreso de los Diputados, mediante ley ordinaria"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000466",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Una vez aprobada la Oferta de Empleo Público, la competencia para convocar los procesos selectivos de las vacantes previstas corresponde a:",
+    "opciones": {
+      "a": "El Consejo de Ministros",
+      "b": "La Comisión Superior de Personal",
+      "c": "El Ministerio de Economía y Hacienda",
+      "d": "Los Departamentos a los que figuren adscritos los correspondientes Cuerpos y Escalas, previo informe favorable de la Dirección General de la Función Pública"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "El Consejo de Ministros",
+        "Los Departamentos a los que figuren adscritos los correspondientes Cuerpos y Escalas, previo informe favorable de la Dirección General de la Función Pública",
+        "La Comisión Superior de Personal",
+        "El Ministerio de Economía y Hacienda"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000467",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los sistemas selectivos de los funcionarios de carrera son la oposición y el concurso-oposición; el sistema de concurso, consistente únicamente en la valoración de méritos:",
+    "opciones": {
+      "a": "Es el sistema ordinario de ingreso",
+      "b": "Solo puede aplicarse, con carácter excepcional, en virtud de ley",
+      "c": "Está reservado exclusivamente al personal laboral temporal",
+      "d": "Ha sido suprimido por el TREBEP"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "Es el sistema ordinario de ingreso",
+        "Solo puede aplicarse, con carácter excepcional, en virtud de ley",
+        "Está reservado exclusivamente al personal laboral temporal",
+        "Ha sido suprimido por el TREBEP"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000468",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los sistemas selectivos del personal laboral fijo son:",
+    "opciones": {
+      "a": "Oposición, concurso-oposición o concurso de valoración de méritos",
+      "b": "Únicamente la oposición",
+      "c": "Únicamente el concurso de méritos",
+      "d": "Oposición y concurso, nunca concurso-oposición"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Únicamente la oposición",
+        "Oposición, concurso-oposición o concurso de valoración de méritos",
+        "Únicamente el concurso de méritos",
+        "Oposición y concurso, nunca concurso-oposición"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000469",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "No podrán formar parte de los órganos de selección:",
+    "opciones": {
+      "a": "Los funcionarios de carrera del mismo Cuerpo objeto de selección, en ningún caso",
+      "b": "El personal de elección o designación política, los funcionarios interinos y el personal eventual",
+      "c": "Los funcionarios que hayan superado el mismo proceso selectivo en convocatorias anteriores",
+      "d": "Los funcionarios de Cuerpos distintos al que se selecciona"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "Los funcionarios de carrera del mismo Cuerpo objeto de selección, en ningún caso",
+        "El personal de elección o designación política, los funcionarios interinos y el personal eventual",
+        "Los funcionarios que hayan superado el mismo proceso selectivo en convocatorias anteriores",
+        "Los funcionarios de Cuerpos distintos al que se selecciona"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000470",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Salvo las peculiaridades del personal docente e investigador, los órganos de selección:",
+    "opciones": {
+      "a": "Deben estar formados exclusivamente por personal ajeno a la Administración",
+      "b": "Deben estar formados en su totalidad por funcionarios del Cuerpo que se selecciona",
+      "c": "No tienen ninguna limitación legal en su composición",
+      "d": "No podrán estar formados mayoritariamente por funcionarios pertenecientes al mismo Cuerpo que se ha de seleccionar"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "Deben estar formados exclusivamente por personal ajeno a la Administración",
+        "No podrán estar formados mayoritariamente por funcionarios pertenecientes al mismo Cuerpo que se ha de seleccionar",
+        "Deben estar formados en su totalidad por funcionarios del Cuerpo que se selecciona",
+        "No tienen ninguna limitación legal en su composición"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000471",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Cuando el órgano de selección haya propuesto el nombramiento de igual número de aspirantes que de plazas convocadas y se produzcan renuncias antes del nombramiento o toma de posesión, el órgano convocante podrá:",
+    "opciones": {
+      "a": "Declarar desierto el proceso selectivo",
+      "b": "Ampliar directamente el número de plazas convocadas",
+      "c": "Convocar un nuevo proceso selectivo completo",
+      "d": "Requerir del órgano de selección una relación complementaria de los aspirantes siguientes en orden, para su posible nombramiento"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "Declarar desierto el proceso selectivo",
+        "Requerir del órgano de selección una relación complementaria de los aspirantes siguientes en orden, para su posible nombramiento",
+        "Ampliar directamente el número de plazas convocadas",
+        "Convocar un nuevo proceso selectivo completo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000472",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Entre los principios que, según el artículo 55.2 TREBEP, se añaden a los de igualdad, mérito y capacidad para los procedimientos de selección, se encuentran:",
+    "opciones": {
+      "a": "Gratuidad y confidencialidad",
+      "b": "Publicidad, transparencia, imparcialidad y profesionalidad, independencia y discrecionalidad técnica, adecuación entre pruebas y funciones, y agilidad",
+      "c": "Exclusivamente la paridad de género",
+      "d": "Descentralización territorial obligatoria en todo caso"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Gratuidad y confidencialidad",
+        "Publicidad, transparencia, imparcialidad y profesionalidad, independencia y discrecionalidad técnica, adecuación entre pruebas y funciones, y agilidad",
+        "Exclusivamente la paridad de género",
+        "Descentralización territorial obligatoria en todo caso"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000473",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En las ofertas de empleo público se reservará, conforme al artículo 59 TREBEP, un cupo para personas con discapacidad no inferior al:",
+    "opciones": {
+      "a": "5% de las vacantes",
+      "b": "10% de las vacantes",
+      "c": "7% de las vacantes",
+      "d": "2% de las vacantes"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "5% de las vacantes",
+        "7% de las vacantes",
+        "10% de las vacantes",
+        "2% de las vacantes"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000474",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Dentro del cupo de reserva para personas con discapacidad en la Oferta de Empleo Público general, al menos el 2% de las plazas ofertadas debe reservarse para personas que acrediten:",
+    "opciones": {
+      "a": "Discapacidad intelectual",
+      "b": "Discapacidad física",
+      "c": "Discapacidad sensorial",
+      "d": "Discapacidad sobrevenida por accidente laboral"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "Discapacidad física",
+        "Discapacidad intelectual",
+        "Discapacidad sensorial",
+        "Discapacidad sobrevenida por accidente laboral"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000475",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El objetivo progresivo que se persigue mediante la reserva de plazas para personas con discapacidad es alcanzar, en cada Administración Pública:",
+    "opciones": {
+      "a": "El 7% de los efectivos totales",
+      "b": "El 5% de los efectivos totales",
+      "c": "El 2% de los efectivos totales",
+      "d": "El 10% de los efectivos totales"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "El 7% de los efectivos totales",
+        "El 5% de los efectivos totales",
+        "El 2% de los efectivos totales",
+        "El 10% de los efectivos totales"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000476",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Si las plazas reservadas y cubiertas por personas con discapacidad no alcanzan el 3% de las plazas convocadas, las no cubiertas se acumulan al cupo de la oferta siguiente, con un límite máximo del:",
+    "opciones": {
+      "a": "5%",
+      "b": "7%",
+      "c": "10%",
+      "d": "15%"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "5%",
+        "7%",
+        "10%",
+        "15%"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000477",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En las convocatorias de pruebas selectivas de promoción interna, la reserva de plazas para personas con discapacidad es de un cupo no inferior al:",
+    "opciones": {
+      "a": "2%",
+      "b": "7%",
+      "c": "5%",
+      "d": "10%"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "2%",
+        "5%",
+        "7%",
+        "10%"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000478",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En las convocatorias de personal temporal que incluyan fase de oposición y convoquen 20 o más plazas en un mismo ámbito, la reserva para personas con discapacidad es de un cupo no inferior al:",
+    "opciones": {
+      "a": "2%",
+      "b": "5%",
+      "c": "3%",
+      "d": "7%"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "2%",
+        "3%",
+        "5%",
+        "7%"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000479",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Conforme al Real Decreto Legislativo 1/2013, tendrán la consideración de personas con discapacidad quienes tengan reconocido un grado de discapacidad:",
+    "opciones": {
+      "a": "Igual o superior al 33%",
+      "b": "Igual o superior al 25%",
+      "c": "Igual o superior al 50%",
+      "d": "Igual o superior al 65%"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Igual o superior al 25%",
+        "Igual o superior al 33%",
+        "Igual o superior al 50%",
+        "Igual o superior al 65%"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000480",
+    "version": 1,
+    "tema_id": "B4-T02",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Respecto a los órganos de representación de los funcionarios, las Juntas de Personal se constituyen en unidades electorales con un censo mínimo de:",
+    "opciones": {
+      "a": "6 funcionarios",
+      "b": "30 funcionarios",
+      "c": "100 funcionarios",
+      "d": "50 funcionarios"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T02_Bloque_IV_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "6 funcionarios",
+        "30 funcionarios",
+        "50 funcionarios",
+        "100 funcionarios"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

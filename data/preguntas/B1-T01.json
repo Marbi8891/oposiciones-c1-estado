@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000001",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Constitución Española fue aprobada en referéndum el:",
+    "opciones": {
+      "a": "15 de junio de 1977",
+      "b": "29 de diciembre de 1978",
+      "c": "6 de diciembre de 1978",
+      "d": "27 de diciembre de 1978"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "15 de junio de 1977",
+        "6 de diciembre de 1978",
+        "29 de diciembre de 1978",
+        "27 de diciembre de 1978"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000002",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Constitución Española consta de:",
+    "opciones": {
+      "a": "170 artículos y 10 disposiciones adicionales",
+      "b": "165 artículos, 9 adicionales y 4 transitorias",
+      "c": "169 artículos sin disposiciones adicionales",
+      "d": "169 artículos, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "169 artículos, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final",
+        "170 artículos y 10 disposiciones adicionales",
+        "165 artículos, 9 adicionales y 4 transitorias",
+        "169 artículos sin disposiciones adicionales"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000003",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La regulación de la Corona se encuentra en:",
+    "opciones": {
+      "a": "Título I",
+      "b": "Título II",
+      "c": "Título III",
+      "d": "Título IX"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "Título I",
+        "Título II",
+        "Título III",
+        "Título IX"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000004",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el art. 1.1 CE, la forma política del Estado español es:",
+    "opciones": {
+      "a": "La república parlamentaria",
+      "b": "La monarquía parlamentaria",
+      "c": "El Estado autonómico",
+      "d": "La democracia directa"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "La república parlamentaria",
+        "El Estado autonómico",
+        "La monarquía parlamentaria",
+        "La democracia directa"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000005",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Constitución española solo ha sido reformada, hasta la fecha, en relación con los artículos:",
+    "opciones": {
+      "a": "14 y 53",
+      "b": "13 y 135",
+      "c": "1 y 2",
+      "d": "167 y 168"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "14 y 53",
+        "13 y 135",
+        "1 y 2",
+        "167 y 168"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000006",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Son valores superiores del ordenamiento jurídico según el art. 1.1 CE:",
+    "opciones": {
+      "a": "Libertad, justicia, igualdad y pluralismo político",
+      "b": "Legalidad, jerarquía normativa, publicidad, seguridad jurídica",
+      "c": "Igualdad, responsabilidad e interdicción de la arbitrariedad",
+      "d": "Soberanía, unidad y solidaridad"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "Legalidad, jerarquía normativa, publicidad, seguridad jurídica",
+        "Libertad, justicia, igualdad y pluralismo político",
+        "Igualdad, responsabilidad e interdicción de la arbitrariedad",
+        "Soberanía, unidad y solidaridad"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000007",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los derechos y libertades fundamentales de la Sección 1ª del Capítulo 2º del Título I se protegen mediante:",
+    "opciones": {
+      "a": "Recurso ordinario y ley ordinaria",
+      "b": "Recurso preferente y sumario, y en su caso recurso de amparo ante el TC",
+      "c": "Solo por vía del Defensor del Pueblo",
+      "d": "Únicamente mediante ley orgánica de desarrollo, sin recurso judicial"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "Recurso ordinario y ley ordinaria",
+        "Recurso preferente y sumario, y en su caso recurso de amparo ante el TC",
+        "Solo por vía del Defensor del Pueblo",
+        "Únicamente mediante ley orgánica de desarrollo, sin recurso judicial"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000008",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho de reunión pacífica y sin armas (art. 21 CE):",
+    "opciones": {
+      "a": "Necesita siempre autorización previa",
+      "b": "Solo puede ejercerse en recinto cerrado",
+      "c": "Está reservado a los partidos políticos",
+      "d": "No necesita autorización previa, aunque en lugares de tránsito público requiere comunicación previa"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Necesita siempre autorización previa",
+        "No necesita autorización previa, aunque en lugares de tránsito público requiere comunicación previa",
+        "Solo puede ejercerse en recinto cerrado",
+        "Está reservado a los partidos políticos"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000009",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La detención preventiva no podrá durar, como máximo, más de:",
+    "opciones": {
+      "a": "24 horas",
+      "b": "48 horas",
+      "c": "96 horas",
+      "d": "72 horas"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "24 horas",
+        "48 horas",
+        "72 horas",
+        "96 horas"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000010",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El estado de alarma es declarado por:",
+    "opciones": {
+      "a": "El Gobierno mediante decreto en Consejo de Ministros, por un plazo máximo de 15 días",
+      "b": "El Congreso por mayoría absoluta",
+      "c": "El Rey, a propuesta del Gobierno",
+      "d": "El Senado, previa autorización del Congreso"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "El Congreso por mayoría absoluta",
+        "El Gobierno mediante decreto en Consejo de Ministros, por un plazo máximo de 15 días",
+        "El Rey, a propuesta del Gobierno",
+        "El Senado, previa autorización del Congreso"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000011",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Durante el estado de alarma:",
+    "opciones": {
+      "a": "No se suspenden derechos, solo se restringen",
+      "b": "Se suspenden los derechos del art. 20",
+      "c": "Se suspenden todos los derechos fundamentales",
+      "d": "Se suspende el derecho de huelga automáticamente"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "Se suspenden los derechos del art. 20",
+        "Se suspenden todos los derechos fundamentales",
+        "No se suspenden derechos, solo se restringen",
+        "Se suspende el derecho de huelga automáticamente"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000012",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El estado de excepción es declarado por el Gobierno:",
+    "opciones": {
+      "a": "Sin necesidad de autorización de las Cortes",
+      "b": "Por mayoría absoluta del Senado",
+      "c": "Mediante decreto en Consejo de Ministros, previa autorización del Congreso de los Diputados",
+      "d": "A propuesta del Defensor del Pueblo"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Sin necesidad de autorización de las Cortes",
+        "Mediante decreto en Consejo de Ministros, previa autorización del Congreso de los Diputados",
+        "Por mayoría absoluta del Senado",
+        "A propuesta del Defensor del Pueblo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000013",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El estado de sitio es declarado por:",
+    "opciones": {
+      "a": "El Gobierno mediante decreto",
+      "b": "El Rey",
+      "c": "El Congreso de los Diputados por mayoría absoluta, a propuesta exclusiva del Gobierno",
+      "d": "El Consejo General del Poder Judicial"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "El Gobierno mediante decreto",
+        "El Rey",
+        "El Congreso de los Diputados por mayoría absoluta, a propuesta exclusiva del Gobierno",
+        "El Consejo General del Poder Judicial"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000014",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Tribunal Constitucional se compone de:",
+    "opciones": {
+      "a": "15 miembros: 5 Congreso, 5 Senado, 3 Gobierno, 2 CGPJ",
+      "b": "12 miembros elegidos directamente por el Rey sin propuesta",
+      "c": "12 miembros: 4 Congreso, 4 Senado, 2 Gobierno, 2 CGPJ",
+      "d": "10 miembros: 4 Congreso, 4 Senado, 2 CGPJ"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "12 miembros: 4 Congreso, 4 Senado, 2 Gobierno, 2 CGPJ",
+        "15 miembros: 5 Congreso, 5 Senado, 3 Gobierno, 2 CGPJ",
+        "12 miembros elegidos directamente por el Rey sin propuesta",
+        "10 miembros: 4 Congreso, 4 Senado, 2 CGPJ"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000015",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El mandato de los magistrados del Tribunal Constitucional es de:",
+    "opciones": {
+      "a": "5 años, sin renovación parcial",
+      "b": "6 años, renovándose por mitades cada 3",
+      "c": "4 años, renovables indefinidamente",
+      "d": "9 años, renovándose por terceras partes cada 3"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "5 años, sin renovación parcial",
+        "6 años, renovándose por mitades cada 3",
+        "9 años, renovándose por terceras partes cada 3",
+        "4 años, renovables indefinidamente"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000016",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Están legitimados para interponer el recurso de amparo ante el TC:",
+    "opciones": {
+      "a": "Toda persona física o jurídica con interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal",
+      "b": "Solo el Presidente del Gobierno y 50 Diputados",
+      "c": "Únicamente las Comunidades Autónomas",
+      "d": "Solo el Ministerio Fiscal"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "Solo el Presidente del Gobierno y 50 Diputados",
+        "Toda persona física o jurídica con interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal",
+        "Únicamente las Comunidades Autónomas",
+        "Solo el Ministerio Fiscal"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000017",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Defensor del Pueblo es elegido por las Cortes Generales para un mandato de:",
+    "opciones": {
+      "a": "5 años, reelegible",
+      "b": "4 años, no reelegible",
+      "c": "6 años, no reelegible",
+      "d": "9 años, como los magistrados del TC"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "4 años, no reelegible",
+        "5 años, reelegible",
+        "6 años, no reelegible",
+        "9 años, como los magistrados del TC"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000018",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La institución del Defensor del Pueblo se organiza con:",
+    "opciones": {
+      "a": "Un consejo de 5 miembros",
+      "b": "El propio Defensor y 2 adjuntos",
+      "c": "El Defensor y un Secretario General únicamente",
+      "d": "Ninguna estructura de apoyo, actúa en solitario"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "El propio Defensor y 2 adjuntos",
+        "Un consejo de 5 miembros",
+        "El Defensor y un Secretario General únicamente",
+        "Ninguna estructura de apoyo, actúa en solitario"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000019",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El procedimiento agravado de reforma constitucional (art. 168) se aplica cuando se propone:",
+    "opciones": {
+      "a": "Cualquier modificación de un artículo, sin excepción",
+      "b": "Solo la reforma del Título X",
+      "c": "Cualquier reforma que afecte a la Administración Local",
+      "d": "La revisión total de la Constitución, o parcial que afecte al Título Preliminar, a la Sección 1ª del Capítulo II del Título I, o al Título II"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Cualquier modificación de un artículo, sin excepción",
+        "La revisión total de la Constitución, o parcial que afecte al Título Preliminar, a la Sección 1ª del Capítulo II del Título I, o al Título II",
+        "Solo la reforma del Título X",
+        "Cualquier reforma que afecte a la Administración Local"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000020",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En el procedimiento agravado de reforma constitucional, tras la aprobación del principio de reforma por 2/3 de cada Cámara:",
+    "opciones": {
+      "a": "Se somete directamente a referéndum",
+      "b": "Se remite al Tribunal Constitucional para su validación",
+      "c": "Se disuelven las Cortes y las nuevas Cámaras deben ratificar la decisión y aprobar el nuevo texto por 2/3 de ambas",
+      "d": "No se requiere ninguna actuación adicional ---"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "Se somete directamente a referéndum",
+        "Se disuelven las Cortes y las nuevas Cámaras deben ratificar la decisión y aprobar el nuevo texto por 2/3 de ambas",
+        "Se remite al Tribunal Constitucional para su validación",
+        "No se requiere ninguna actuación adicional ---"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

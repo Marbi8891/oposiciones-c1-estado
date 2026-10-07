@@ -1,0 +1,44 @@
+{
+  "examen": {
+    "fecha_estimada": "2027-05",
+    "es_estimacion": true,
+    "formato": null,
+    "formato_nota": "Pendiente de verificar en la convocatoria (BOE-A-2025-26262, Anexo III)."
+  },
+  "disponibilidad": {
+    "horas_semana_min": 10,
+    "horas_semana_max": 15
+  },
+  "prioridades": [
+    "DAW",
+    "C1",
+    "ciberseguridad"
+  ],
+  "daw": {
+    "horas_semana": null,
+    "semanas_criticas": [],
+    "nota": "Pendiente: el alumno aún no ha dado su carga DAW."
+  },
+  "politica_repasos": {
+    "decision": "D2",
+    "regla": "La academia marca los repasos de tema; el sistema solo sugiere a nivel de concepto.",
+    "intervalos_dias": {
+      "R1": 1,
+      "R2": 3,
+      "R3": 7,
+      "R4": 14,
+      "R5": 30,
+      "R6": 60
+    }
+  },
+  "test": {
+    "preguntas_por_defecto": 20,
+    "dificultad_objetivo": {
+      "facil": 15,
+      "media": 45,
+      "dificil": 30,
+      "muy_dificil": 10
+    }
+  },
+  "origen": "legacy/sistema_anterior/CONFIG.yaml + diseño aprobado el 07/10/2026"
+}

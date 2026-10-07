@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000381",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Atendiendo al efecto que causa en la libertad y derechos de los particulares, las tres formas clásicas de la actividad administrativa son:",
+    "opciones": {
+      "a": "Sancionadora, arbitral y de limitación",
+      "b": "Reglamentaria, ejecutiva y sancionadora",
+      "c": "De gestión directa, indirecta y mixta",
+      "d": "Limitación (policía), fomento y servicio público (prestación)"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "Sancionadora, arbitral y de limitación",
+        "Limitación (policía), fomento y servicio público (prestación)",
+        "Reglamentaria, ejecutiva y sancionadora",
+        "De gestión directa, indirecta y mixta"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000382",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El denominado principio de intercambiabilidad de las técnicas de intervención administrativa significa que:",
+    "opciones": {
+      "a": "La Administración debe usar siempre la misma técnica para cada sector de intervención",
+      "b": "Un mismo fin público puede lograrse combinando o sustituyendo distintas formas de actividad administrativa",
+      "c": "Solo cabe intercambiar la actividad de limitación por la sancionadora",
+      "d": "Las Comunidades Autónomas pueden intercambiar sus competencias libremente"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "Un mismo fin público puede lograrse combinando o sustituyendo distintas formas de actividad administrativa",
+        "La Administración debe usar siempre la misma técnica para cada sector de intervención",
+        "Solo cabe intercambiar la actividad de limitación por la sancionadora",
+        "Las Comunidades Autónomas pueden intercambiar sus competencias libremente"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000383",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el artículo 3 de la Ley 40/2015, entre los principios que deben respetar las Administraciones Públicas en su actuación se encuentran:",
+    "opciones": {
+      "a": "Servicio efectivo a los ciudadanos, simplicidad, buena fe, confianza legítima y eficacia",
+      "b": "Exclusivamente la eficacia y la jerarquía",
+      "c": "Únicamente la economía y la suficiencia presupuestaria",
+      "d": "Solo los principios de coordinación y descentralización"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "Exclusivamente la eficacia y la jerarquía",
+        "Servicio efectivo a los ciudadanos, simplicidad, buena fe, confianza legítima y eficacia",
+        "Únicamente la economía y la suficiencia presupuestaria",
+        "Solo los principios de coordinación y descentralización"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000384",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El principio de legalidad, aplicado a las distintas formas de actividad administrativa, exige:",
+    "opciones": {
+      "a": "El mismo grado de precisión legal en todos los casos",
+      "b": "Habilitación legal únicamente en la actividad de fomento",
+      "c": "Máxima precisión legal en la actividad de limitación y sancionadora, mientras que basta un simple apoderamiento legal en fomento y servicio público",
+      "d": "Que la actividad sancionadora se regule exclusivamente por reglamento"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "El mismo grado de precisión legal en todos los casos",
+        "Máxima precisión legal en la actividad de limitación y sancionadora, mientras que basta un simple apoderamiento legal en fomento y servicio público",
+        "Habilitación legal únicamente en la actividad de fomento",
+        "Que la actividad sancionadora se regule exclusivamente por reglamento"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000385",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Para que se dé la confianza legítima, la jurisprudencia comunitaria exige, entre otras condiciones:",
+    "opciones": {
+      "a": "Que exista siempre un acto administrativo expreso previo",
+      "b": "Que el administrado haya recurrido previamente en vía judicial",
+      "c": "Que se trate necesariamente de una actividad de fomento",
+      "d": "Una acción de la Administración que justifique expectativas objetivamente reconocibles, y que los intereses afectados no sean contrarios a intereses públicos"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "Que exista siempre un acto administrativo expreso previo",
+        "Una acción de la Administración que justifique expectativas objetivamente reconocibles, y que los intereses afectados no sean contrarios a intereses públicos",
+        "Que el administrado haya recurrido previamente en vía judicial",
+        "Que se trate necesariamente de una actividad de fomento"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000386",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En la escala de intensidad de la actividad administrativa de limitación, el grado menor de intervención corresponde a:",
+    "opciones": {
+      "a": "La prohibición formal de una conducta",
+      "b": "La expropiación forzosa",
+      "c": "Los deberes o cargas (comunicación, identificación, soportar inspecciones)",
+      "d": "La imposición de una conducta positiva sin compensación"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "La prohibición formal de una conducta",
+        "Los deberes o cargas (comunicación, identificación, soportar inspecciones)",
+        "La expropiación forzosa",
+        "La imposición de una conducta positiva sin compensación"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000387",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La principal diferencia entre la autorización y la concesión radica en que:",
+    "opciones": {
+      "a": "En la autorización el derecho nace con el acto administrativo, mientras que en la concesión el derecho es preexistente",
+      "b": "En la autorización el derecho es preexistente al particular y no hay limitación de beneficiarios, mientras que en la concesión el derecho nace con el acto concesional y los beneficiarios están limitados",
+      "c": "Ambas figuras son idénticas y solo cambia el nombre",
+      "d": "La autorización siempre es modulable discrecionalmente y la concesión nunca lo es"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "En la autorización el derecho nace con el acto administrativo, mientras que en la concesión el derecho es preexistente",
+        "En la autorización el derecho es preexistente al particular y no hay limitación de beneficiarios, mientras que en la concesión el derecho nace con el acto concesional y los beneficiarios están limitados",
+        "Ambas figuras son idénticas y solo cambia el nombre",
+        "La autorización siempre es modulable discrecionalmente y la concesión nunca lo es"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000388",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Toda autorización administrativa se otorga con la cláusula:",
+    "opciones": {
+      "a": "\"Salvo mejor derecho\"",
+      "b": "\"Sin perjuicio de tercero\"",
+      "c": "\"A resultas de ulterior comprobación\"",
+      "d": "\"Con reserva de revocación\""
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "\"Salvo mejor derecho\"",
+        "\"Sin perjuicio de tercero\"",
+        "\"A resultas de ulterior comprobación\"",
+        "\"Con reserva de revocación\""
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000389",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El cambio de paradigma derivado de la trasposición de la normativa europea ha supuesto que, como regla general:",
+    "opciones": {
+      "a": "Se exija siempre autorización o licencia previa",
+      "b": "Desaparezca por completo cualquier control administrativo",
+      "c": "La solicitud de autorización se sustituya, salvo casos excepcionales, por la declaración responsable o comunicación previa, con control a posteriori",
+      "d": "Todas las actividades queden sujetas a concesión administrativa"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "Se exija siempre autorización o licencia previa",
+        "La solicitud de autorización se sustituya, salvo casos excepcionales, por la declaración responsable o comunicación previa, con control a posteriori",
+        "Desaparezca por completo cualquier control administrativo",
+        "Todas las actividades queden sujetas a concesión administrativa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000390",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Conforme al artículo 25.3 de la Constitución Española, la Administración Pública:",
+    "opciones": {
+      "a": "Tiene vedada la imposición de sanciones que impliquen privación de libertad",
+      "b": "Puede imponer cualquier tipo de sanción, incluida la privación de libertad",
+      "c": "Solo puede sancionar mediante multa pecuniaria",
+      "d": "No tiene potestad sancionadora alguna"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "Puede imponer cualquier tipo de sanción, incluida la privación de libertad",
+        "Tiene vedada la imposición de sanciones que impliquen privación de libertad",
+        "Solo puede sancionar mediante multa pecuniaria",
+        "No tiene potestad sancionadora alguna"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000391",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El procedimiento sancionador, según la Ley 39/2015, debe iniciarse:",
+    "opciones": {
+      "a": "Siempre de oficio, con separación entre la fase instructora y la sancionadora",
+      "b": "A instancia del propio infractor",
+      "c": "Únicamente mediante denuncia de un particular",
+      "d": "A petición del Ministerio Fiscal"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "A instancia del propio infractor",
+        "Siempre de oficio, con separación entre la fase instructora y la sancionadora",
+        "Únicamente mediante denuncia de un particular",
+        "A petición del Ministerio Fiscal"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000392",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La mera presentación de una denuncia en el procedimiento sancionador:",
+    "opciones": {
+      "a": "Confiere automáticamente al denunciante la condición de interesado",
+      "b": "Obliga siempre a la apertura de expediente sancionador",
+      "c": "Equivale a una acusación formal con plenos efectos procesales",
+      "d": "No confiere por sí sola la condición de interesado en el procedimiento"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Confiere automáticamente al denunciante la condición de interesado",
+        "No confiere por sí sola la condición de interesado en el procedimiento",
+        "Obliga siempre a la apertura de expediente sancionador",
+        "Equivale a una acusación formal con plenos efectos procesales"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000393",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Si el infractor reconoce su responsabilidad en un procedimiento sancionador con sanción de carácter pecuniario, se aplicará una reducción de:",
+    "opciones": {
+      "a": "El 10%",
+      "b": "El 50%",
+      "c": "No cabe reducción alguna",
+      "d": "El 20%"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "El 10%",
+        "El 20%",
+        "El 50%",
+        "No cabe reducción alguna"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000394",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los hechos declarados probados por resoluciones judiciales penales firmes, en relación con el procedimiento administrativo sancionador:",
+    "opciones": {
+      "a": "Vinculan a las Administraciones Públicas respecto de los procedimientos sancionadores que se sustancien",
+      "b": "No tienen efecto alguno sobre dicho procedimiento",
+      "c": "Solo vinculan si la sanción penal es superior a un año",
+      "d": "Deben ser nuevamente probados en el procedimiento administrativo"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "No tienen efecto alguno sobre dicho procedimiento",
+        "Vinculan a las Administraciones Públicas respecto de los procedimientos sancionadores que se sustancien",
+        "Solo vinculan si la sanción penal es superior a un año",
+        "Deben ser nuevamente probados en el procedimiento administrativo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000395",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La actividad arbitral de la Administración se caracteriza por:",
+    "opciones": {
+      "a": "Perseguir directamente el interés público y el beneficio de la Administración",
+      "b": "Ser siempre recurrible únicamente ante la jurisdicción civil",
+      "c": "La neutralidad de la Administración en la resolución de conflictos entre administrados sobre derechos disponibles",
+      "d": "No requerir ninguna base legal para su ejercicio"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "Perseguir directamente el interés público y el beneficio de la Administración",
+        "La neutralidad de la Administración en la resolución de conflictos entre administrados sobre derechos disponibles",
+        "Ser siempre recurrible únicamente ante la jurisdicción civil",
+        "No requerir ninguna base legal para su ejercicio"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000396",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Cuando la Administración actúa conforme a la Ley de Arbitraje (y no en ejercicio de una potestad administrativa propiamente dicha), el laudo resultante:",
+    "opciones": {
+      "a": "Se enjuicia por la jurisdicción contencioso-administrativa y tiene ejecutoriedad propia",
+      "b": "Es inatacable por cualquier vía",
+      "c": "Debe ser ratificado por el Consejo de Estado",
+      "d": "No se enjuicia por la jurisdicción contencioso-administrativa, carece de ejecutoriedad propia y solo cabe recurso de anulación ante el Tribunal Superior de Justicia"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "Se enjuicia por la jurisdicción contencioso-administrativa y tiene ejecutoriedad propia",
+        "No se enjuicia por la jurisdicción contencioso-administrativa, carece de ejecutoriedad propia y solo cabe recurso de anulación ante el Tribunal Superior de Justicia",
+        "Es inatacable por cualquier vía",
+        "Debe ser ratificado por el Consejo de Estado"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000397",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La actividad de servicio público, según sus características esenciales, se distingue de la función pública en que:",
+    "opciones": {
+      "a": "Ambas son idénticas y consisten en el ejercicio de autoridad",
+      "b": "La función pública siempre se presta mediante concesión",
+      "c": "La actividad de servicio público es prestacional, de contenido económico o asistencial, mientras que la función pública implica ejercicio de autoridad (justicia, defensa, seguridad)",
+      "d": "El servicio público nunca puede prestarse de forma directa"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "Ambas son idénticas y consisten en el ejercicio de autoridad",
+        "La actividad de servicio público es prestacional, de contenido económico o asistencial, mientras que la función pública implica ejercicio de autoridad (justicia, defensa, seguridad)",
+        "La función pública siempre se presta mediante concesión",
+        "El servicio público nunca puede prestarse de forma directa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000398",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En el transporte público, el denominado servicio público \"propio\" (regular) se gestiona mediante:",
+    "opciones": {
+      "a": "Autorización",
+      "b": "Concesión",
+      "c": "Concierto",
+      "d": "Gestión interesada"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "Autorización",
+        "Concesión",
+        "Concierto",
+        "Gestión interesada"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000399",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el artículo 15 de la LCSP de 2017, lo que caracteriza al contrato de concesión de servicios frente al contrato de servicios ordinario es:",
+    "opciones": {
+      "a": "La transferencia del riesgo operacional al concesionario",
+      "b": "La ausencia total de contraprestación económica",
+      "c": "Que solo puede celebrarse con Administraciones Locales",
+      "d": "Que su duración máxima es siempre de un año"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "La transferencia del riesgo operacional al concesionario",
+        "La ausencia total de contraprestación económica",
+        "Que solo puede celebrarse con Administraciones Locales",
+        "Que su duración máxima es siempre de un año"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000400",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "No pueden prestarse mediante gestión indirecta:",
+    "opciones": {
+      "a": "Los servicios de suministro de agua",
+      "b": "Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos",
+      "c": "Los servicios de transporte público regular",
+      "d": "Los servicios educativos y sanitarios concertados"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T05_Bloque_III_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "Los servicios de suministro de agua",
+        "Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos",
+        "Los servicios de transporte público regular",
+        "Los servicios educativos y sanitarios concertados"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

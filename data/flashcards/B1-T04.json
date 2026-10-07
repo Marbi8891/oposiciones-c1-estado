@@ -1,0 +1,138 @@
+[
+  {
+    "id": "FC-00018",
+    "version": 1,
+    "tema_id": "B1-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "20 vocales + Presidente del TS vs. 5 años — ¿cuál es la diferencia clave?",
+    "reverso": "El CGPJ tiene 20 vocales + Presidente del TS (21 total); 12 de origen judicial, 4 Congreso, 4 Senado (mayoría 3/5), mandato 5 años.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c18"
+    }
+  },
+  {
+    "id": "FC-00019",
+    "version": 1,
+    "tema_id": "B1-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La Audiencia Nacional ______ (solo Apelación, Penal, Contencioso-Administrativo y Social).",
+    "reverso": "La Audiencia Nacional NO tiene competencia civil (solo Apelación, Penal, Contencioso-Administrativo y Social).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c19"
+    }
+  },
+  {
+    "id": "FC-00020",
+    "version": 1,
+    "tema_id": "B1-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El TS tiene ______ + la Sala Especial del art. 61 (no permanente).",
+    "reverso": "El TS tiene 5 Salas ordinarias + la Sala Especial del art. 61 (no permanente).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c20"
+    }
+  },
+  {
+    "id": "FC-00021",
+    "version": 1,
+    "tema_id": "B1-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Comisión Permanente del CGPJ: 7 vocales (elección anual) — ¿por qué se diferencian?",
+    "reverso": "Comisión Permanente del CGPJ: 7 vocales (elección anual) — Comisión Disciplinaria: 7 vocales (mandato 5 años) — no confundirlas.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c21"
+    }
+  },
+  {
+    "id": "FC-00022",
+    "version": 1,
+    "tema_id": "B1-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "90 euros vs. 4 años — ¿cuál es la diferencia clave?",
+    "reverso": "Juzgados de Paz: competencia civil hasta 90 euros, nombrados por 4 años.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c22"
+    }
+  },
+  {
+    "id": "FC-00023",
+    "version": 1,
+    "tema_id": "B1-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Rey vs. Gobierno — ¿cuál es la diferencia clave?",
+    "reverso": "Fiscal General del Estado: nombrado por el Rey, a propuesta del Gobierno, oído el CGPJ (no lo nombra directamente el CGPJ).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c23"
+    }
+  },
+  {
+    "id": "FC-00024",
+    "version": 1,
+    "tema_id": "B1-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El TSJ ______ un \"poder judicial autonómico\": el Poder Judicial es único para todo el Estado.",
+    "reverso": "El TSJ no es un \"poder judicial autonómico\": el Poder Judicial es único para todo el Estado.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c24"
+    }
+  },
+  {
+    "id": "FC-00025",
+    "version": 1,
+    "tema_id": "B1-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Cuestión de inconstitucionalidad (norma con rango de ley posterior a la CE) vs....",
+    "reverso": "Cuestión de inconstitucionalidad (norma con rango de ley posterior a la CE) vs. inaplicación directa (rango inferior a ley, o norma anterior a la CE).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c25"
+    }
+  }
+]

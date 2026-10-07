@@ -1,0 +1,172 @@
+[
+  {
+    "id": "FC-00051",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Subdirectores generales vs. no — ¿cuál es la diferencia clave?",
+    "reverso": "Los Subdirectores generales son el único nivel directivo que no tiene la consideración de alto cargo.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c51"
+    }
+  },
+  {
+    "id": "FC-00052",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Nombramiento del Ministro: por el Jefe del Estado (Rey), a propuesta del Presidente del Gobierno — ¿por qué se diferencian?",
+    "reverso": "Nombramiento del Ministro: por el Jefe del Estado (Rey), a propuesta del Presidente del Gobierno — no requiere Real Decreto de creación previa del órgano.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c52"
+    }
+  },
+  {
+    "id": "FC-00053",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Delegado del Gobierno: nombrado por RD del Consejo de Ministros a propuesta del Presidente del Gobierno — Subdelegado: ______ (no requiere RD del Consejo de Ministros).",
+    "reverso": "Delegado del Gobierno: nombrado por RD del Consejo de Ministros a propuesta del Presidente del Gobierno — Subdelegado: libre designación entre funcionarios A1 (no requiere RD del Consejo de Ministros).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c53"
+    }
+  },
+  {
+    "id": "FC-00054",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Sede de la Delegación del Gobierno = capital autonómica (regla general) — sede de la Subdelegación = ______.",
+    "reverso": "Sede de la Delegación del Gobierno = capital autonómica (regla general) — sede de la Subdelegación = provincia.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c54"
+    }
+  },
+  {
+    "id": "FC-00055",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La jefatura de las FCSE en la CC.AA. corresponde al ______ (no al Subdelegado, que las dirige a nivel provincial).",
+    "reverso": "La jefatura de las FCSE en la CC.AA. corresponde al Delegado del Gobierno (no al Subdelegado, que las dirige a nivel provincial).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c55"
+    }
+  },
+  {
+    "id": "FC-00056",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "CICAPE: Pleno se reúne ______ como mínimo — no confundir su Presidencia (titular del Ministerio de Política Territorial y Función Pública en el Pleno; titular de la Secretaría General de Coordinación Territorial en la Comisión Permanente).",
+    "reverso": "CICAPE: Pleno se reúne 1 vez al año como mínimo — no confundir su Presidencia (titular del Ministerio de Política Territorial y Función Pública en el Pleno; titular de la Secretaría General de Coordinación Territorial en la Comisión Permanente).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c56"
+    }
+  },
+  {
+    "id": "FC-00057",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "OOAA vs. EPEs — ¿cuál es la diferencia clave?",
+    "reverso": "OOAA vs. EPEs: la diferencia clave hoy es el régimen de financiación (EPEs = mayoritariamente ingresos de mercado); ambos pueden producir bienes de interés público con contraprestación tras la Ley 40/2015 (antes solo las EPEs).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c57"
+    }
+  },
+  {
+    "id": "FC-00058",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Participación pública para que una sociedad mercantil sea \"estatal\": ______.",
+    "reverso": "Participación pública para que una sociedad mercantil sea \"estatal\": superior al 50%.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c58"
+    }
+  },
+  {
+    "id": "FC-00059",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Causa de disolución de un organismo público por desequilibrio financiero: ______.",
+    "reverso": "Causa de disolución de un organismo público por desequilibrio financiero: 2 ejercicios presupuestarios consecutivos.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c59"
+    }
+  },
+  {
+    "id": "FC-00060",
+    "version": 1,
+    "tema_id": "B1-T08",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Ley 40/2015: ______ (Preliminar no cuenta como título numerado en algunos esquemas, pero conviene recordar que el Título I regula la AGE y el Título II el sector público institucional).",
+    "reverso": "Ley 40/2015: 158 artículos, 3 Títulos (Preliminar no cuenta como título numerado en algunos esquemas, pero conviene recordar que el Título I regula la AGE y el Título II el sector público institucional).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c60"
+    }
+  }
+]

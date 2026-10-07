@@ -1,0 +1,121 @@
+[
+  {
+    "id": "FC-00159",
+    "version": 1,
+    "tema_id": "B3-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Silencio positivo (regla general en procedimientos a instancia de parte) vs. silencio negativo (lista tasada de excepciones: derecho de petición, dominio/servicio público, medio ambiente, responsabilidad patrimonial, revisión de oficio a instancia, impugnación de actos) — ¿por qué se diferencian?",
+    "reverso": "Silencio positivo (regla general en procedimientos a instancia de parte) vs. silencio negativo (lista tasada de excepciones: derecho de petición, dominio/servicio público, medio ambiente, responsabilidad patrimonial, revisión de oficio a instancia, impugnación de actos) — memorizar la lista de excepciones, no la regla general.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c159"
+    }
+  },
+  {
+    "id": "FC-00160",
+    "version": 1,
+    "tema_id": "B3-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Nulidad vs. anulabilidad — ¿cuál es la diferencia clave?",
+    "reverso": "Nulidad (vicio más grave, efecto retroactivo, causas tasadas del art. 47.1) vs. anulabilidad (cualquier infracción no tasada como nulidad, incluida la desviación de poder) vs. irregularidad no invalidante (defectos puramente formales sin trascendencia).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c160"
+    }
+  },
+  {
+    "id": "FC-00161",
+    "version": 1,
+    "tema_id": "B3-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Revisión de actos nulos (cualquier momento, previo dictamen del Consejo de Estado) vs. declaración de lesividad de actos anulables favorables (plazo de 4 años, exige audiencia, y posterior impugnación judicial) — ¿por qué se diferencian?",
+    "reverso": "Revisión de actos nulos (cualquier momento, previo dictamen del Consejo de Estado) vs. declaración de lesividad de actos anulables favorables (plazo de 4 años, exige audiencia, y posterior impugnación judicial) — no confundir procedimientos ni plazos.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c161"
+    }
+  },
+  {
+    "id": "FC-00162",
+    "version": 1,
+    "tema_id": "B3-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El plazo de ______ aparece dos veces con significados distintos: plazo para notificar un acto ya dictado, y plazo para publicarlo — no confundir con los 30 días del Decreto-Ley (Tema 1) ni con los 6 meses de caducidad de la revisión de oficio.",
+    "reverso": "El plazo de 10 días aparece dos veces con significados distintos: plazo para notificar un acto ya dictado, y plazo para publicarlo — no confundir con los 30 días del Decreto-Ley (Tema 1) ni con los 6 meses de caducidad de la revisión de oficio.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c162"
+    }
+  },
+  {
+    "id": "FC-00163",
+    "version": 1,
+    "tema_id": "B3-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Notificación en papel: ______ puede hacerse cargo de ella — cifra fácil de confundir con la mayoría de edad civil (18 años).",
+    "reverso": "Notificación en papel: mayor de 14 años puede hacerse cargo de ella — cifra fácil de confundir con la mayoría de edad civil (18 años).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c163"
+    }
+  },
+  {
+    "id": "FC-00164",
+    "version": 1,
+    "tema_id": "B3-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Convalidación (subsana el vicio, mantiene el acto) vs. conversión (el acto vicioso produce los efectos de otro distinto que sí cumple) vs. conservación (mantiene los actos/trámites no afectados por la parte viciada) — ¿por qué se diferencian?",
+    "reverso": "Convalidación (subsana el vicio, mantiene el acto) vs. conversión (el acto vicioso produce los efectos de otro distinto que sí cumple) vs. conservación (mantiene los actos/trámites no afectados por la parte viciada) — tres figuras vecinas del principio de conservación de actos que se prestan a confusión.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c164"
+    }
+  },
+  {
+    "id": "FC-00165",
+    "version": 1,
+    "tema_id": "B3-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Actividad discrecional (varias soluciones igualmente válidas, elegidas motivadamente) vs. conceptos jurídicos indeterminados (una única solución correcta, sin margen de elección) — ¿por qué se diferencian?",
+    "reverso": "Actividad discrecional (varias soluciones igualmente válidas, elegidas motivadamente) vs. conceptos jurídicos indeterminados (una única solución correcta, sin margen de elección) — distinción clásica y muy preguntada.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c165"
+    }
+  }
+]

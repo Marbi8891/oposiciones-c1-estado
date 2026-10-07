@@ -1,0 +1,172 @@
+[
+  {
+    "id": "FC-00070",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Diputados Provinciales vs. indirecta — ¿cuál es la diferencia clave?",
+    "reverso": "Diputados Provinciales se eligen de forma indirecta (entre concejales), circunscripción = Partido Judicial; no confundir con la elección directa de Concejales (sufragio universal).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c70"
+    }
+  },
+  {
+    "id": "FC-00071",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El baremo de Diputados Provinciales (25/27/31/51) ______ que el de Concejales (tabla de 3 a 25+, según art. 179 LOREG) — son tablas distintas para órganos distintos.",
+    "reverso": "El baremo de Diputados Provinciales (25/27/31/51) no es el mismo que el de Concejales (tabla de 3 a 25+, según art. 179 LOREG) — son tablas distintas para órganos distintos.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c71"
+    }
+  },
+  {
+    "id": "FC-00072",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______; no confundir con el umbral de servicios mínimos adicionales (que también usa 5.000, pero para otra cosa) ni con el umbral de Gran Población (75.000/175.000/250.000).",
+    "reverso": "Junta de Gobierno Local obligatoria a partir de >5.000 habitantes; no confundir con el umbral de servicios mínimos adicionales (que también usa 5.000, pero para otra cosa) ni con el umbral de Gran Población (75.000/175.000/250.000).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c72"
+    }
+  },
+  {
+    "id": "FC-00073",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "En Régimen Común el Alcalde no puede delegar la convocatoria/presidencia del Pleno; en Régimen de Gran Población sí puede delegarla en un concejal — ¿por qué se diferencian?",
+    "reverso": "En Régimen Común el Alcalde no puede delegar la convocatoria/presidencia del Pleno; en Régimen de Gran Población sí puede delegarla en un concejal — es una de las diferencias clave que se pregunta.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c73"
+    }
+  },
+  {
+    "id": "FC-00074",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Comisión Especial de Cuentas vs. preceptiva en todos los municipios y provincias — ¿cuál es la diferencia clave?",
+    "reverso": "La Comisión Especial de Cuentas es de existencia preceptiva en todos los municipios y provincias (no es potestativa, a diferencia de otros órganos complementarios).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c74"
+    }
+  },
+  {
+    "id": "FC-00075",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "CC.AA. uniprovinciales (Asturias, Cantabria, Murcia, La Rioja, Madrid, Navarra, Baleares): asumen las competencias de las Diputaciones — ¿por qué se diferencian?",
+    "reverso": "CC.AA. uniprovinciales (Asturias, Cantabria, Murcia, La Rioja, Madrid, Navarra, Baleares): asumen las competencias de las Diputaciones — pero Baleares tiene régimen especial (Consejos Insulares) y Ceuta/Melilla no son CC.AA., son Ciudades Autónomas.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c75"
+    }
+  },
+  {
+    "id": "FC-00076",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______ la cifra de \"menos de 100 residentes\" es la que permite al Alcalde convocarlo *ad hoc*; no confundir con el procedimiento general de constitución en Concejo Abierto (mayoría de vecinos + 2/3 del Ayuntamiento + aprobación CCAA), que no tiene ese límite poblacional fijo.",
+    "reverso": "Concejo Abierto: la cifra de \"menos de 100 residentes\" es la que permite al Alcalde convocarlo *ad hoc*; no confundir con el procedimiento general de constitución en Concejo Abierto (mayoría de vecinos + 2/3 del Ayuntamiento + aprobación CCAA), que no tiene ese límite poblacional fijo.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c76"
+    }
+  },
+  {
+    "id": "FC-00077",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______ memorizar bien los 4 supuestos y sus umbrales — >250.000 (directo); capital de provincia >175.000 (directo); capital de provincia/autonómica o sede de instituciones autonómicas (potestativo); >75.000 con circunstancias especiales (potestativo).",
+    "reverso": "Municipios de Gran Población: memorizar bien los 4 supuestos y sus umbrales — >250.000 (directo); capital de provincia >175.000 (directo); capital de provincia/autonómica o sede de instituciones autonómicas (potestativo); >75.000 con circunstancias especiales (potestativo).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c77"
+    }
+  },
+  {
+    "id": "FC-00078",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La fusión voluntaria de municipios (art. 13 LRBRL, introducida por Ley 27/2013) no puede segregarse hasta pasados 10 años — ¿por qué se diferencian?",
+    "reverso": "La fusión voluntaria de municipios (art. 13 LRBRL, introducida por Ley 27/2013) no puede segregarse hasta pasados 10 años — distinto del requisito de 5.000 habitantes para crear un municipio nuevo.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c78"
+    }
+  },
+  {
+    "id": "FC-00079",
+    "version": 1,
+    "tema_id": "B1-T10",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "PERE vs. nunca — ¿cuál es la diferencia clave?",
+    "reverso": "Los inscritos en el PERE cuentan a efectos de sufragio pero nunca como población del municipio.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c79"
+    }
+  }
+]

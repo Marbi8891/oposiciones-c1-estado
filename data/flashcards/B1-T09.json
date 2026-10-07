@@ -1,0 +1,155 @@
+[
+  {
+    "id": "FC-00061",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "legislativa vs. administrativa — ¿cuál es la diferencia clave?",
+    "reverso": "CC.AA. tienen potestad legislativa; provincias y municipios solo potestad administrativa.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c61"
+    }
+  },
+  {
+    "id": "FC-00062",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "cooperación vs. coordinación — ¿cuál es la diferencia clave?",
+    "reverso": "Solo la cooperación es voluntaria (dimensión negativa: lealtad institucional; positiva: auxilio interadministrativo); la coordinación requiere título competencial y cierto poder de dirección.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c62"
+    }
+  },
+  {
+    "id": "FC-00063",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El ______, es órgano del Estado (Poder Judicial único).",
+    "reverso": "El TSJ no es órgano propio de la CC.AA., es órgano del Estado (Poder Judicial único).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c63"
+    }
+  },
+  {
+    "id": "FC-00064",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Vía normal (art. 143, espera 5 años, competencias solo art. 148 al inicio) vs. vía especial (art. 151, con referéndum, competencias art. 148+149 desde el inicio) vs. vía excepcional (art. 144, Ley Orgánica — ¿por qué se diferencian?",
+    "reverso": "Vía normal (art. 143, espera 5 años, competencias solo art. 148 al inicio) vs. vía especial (art. 151, con referéndum, competencias art. 148+149 desde el inicio) vs. vía excepcional (art. 144, Ley Orgánica — casos de Madrid, Ceuta y Melilla).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c64"
+    }
+  },
+  {
+    "id": "FC-00065",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Refrendo del Presidente autonómico: corresponde al ______, no al Presidente del Parlamento autonómico (declarado inconstitucional en el caso vasco).",
+    "reverso": "Refrendo del Presidente autonómico: corresponde al Presidente del Gobierno de la Nación, no al Presidente del Parlamento autonómico (declarado inconstitucional en el caso vasco).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c65"
+    }
+  },
+  {
+    "id": "FC-00066",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Leyes marco (delegan la facultad de legislar dentro de un marco fijado por el Estado, con control de las Cortes) vs. leyes de transferencia/delegación (Ley Orgánica, transfieren facultades de titularidad estatal con medios financieros) — ¿por qué se diferencian?",
+    "reverso": "Leyes marco (delegan la facultad de legislar dentro de un marco fijado por el Estado, con control de las Cortes) vs. leyes de transferencia/delegación (Ley Orgánica, transfieren facultades de titularidad estatal con medios financieros) — no confundir ambas figuras del art. 150.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c66"
+    }
+  },
+  {
+    "id": "FC-00067",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Art. 155 vs. mayoría absoluta del Senado — ¿cuál es la diferencia clave?",
+    "reverso": "Art. 155 (coerción estatal): requiere requerimiento previo al Presidente autonómico y mayoría absoluta del Senado.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c67"
+    }
+  },
+  {
+    "id": "FC-00068",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Cláusula de prevalencia (conflicto entre normas) vs. cláusula de supletoriedad (el derecho estatal suple lagunas del autonómico, no atribuye competencias nuevas al Estado — ¿por qué se diferencian?",
+    "reverso": "Cláusula de prevalencia (conflicto entre normas) vs. cláusula de supletoriedad (el derecho estatal suple lagunas del autonómico, no atribuye competencias nuevas al Estado — doctrina del TC).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c68"
+    }
+  },
+  {
+    "id": "FC-00069",
+    "version": 1,
+    "tema_id": "B1-T09",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El Estatuto de Autonomía es ______ (art. 81 CE) — su reforma siempre pasa por las Cortes Generales, y en la vía del art. 151 además requiere referéndum.",
+    "reverso": "El Estatuto de Autonomía es Ley Orgánica (art. 81 CE) — su reforma siempre pasa por las Cortes Generales, y en la vía del art. 151 además requiere referéndum.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c69"
+    }
+  }
+]

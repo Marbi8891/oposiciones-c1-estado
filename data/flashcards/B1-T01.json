@@ -1,0 +1,70 @@
+[
+  {
+    "id": "FC-00001",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Estado de alarma ______ derechos, solo los restringe; excepción y sitio sí suspenden.",
+    "reverso": "Estado de alarma no suspende derechos, solo los restringe; excepción y sitio sí suspenden.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c1"
+    }
+  },
+  {
+    "id": "FC-00002",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "TC: 2+2+4+4 = 12, pero cuidado con quién propone a quién (Gobierno y CGPJ propon...",
+    "reverso": "TC: 2+2+4+4 = 12, pero cuidado con quién propone a quién (Gobierno y CGPJ proponen 2 cada uno, no 4).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c2"
+    }
+  },
+  {
+    "id": "FC-00003",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Reforma agravada exige ______, no solo mayoría reforzada.",
+    "reverso": "Reforma agravada exige disolución de las Cortes, no solo mayoría reforzada.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c3"
+    }
+  },
+  {
+    "id": "FC-00004",
+    "version": 1,
+    "tema_id": "B1-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Los derechos de los arts. 30 (defensa) y 31 (tributario) son ______, no derechos, aunque estén numerados entre los arts. 14-38.",
+    "reverso": "Los derechos de los arts. 30 (defensa) y 31 (tributario) son deberes, no derechos, aunque estén numerados entre los arts. 14-38.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c4"
+    }
+  }
+]

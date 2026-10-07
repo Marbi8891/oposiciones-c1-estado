@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000261",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La primera ley que reconoció a los ciudadanos el **derecho** exigible a relacionarse electrónicamente con la Administración fue:",
+    "opciones": {
+      "a": "La Ley 11/2007, de acceso electrónico de los ciudadanos a los servicios públicos",
+      "b": "La Ley 30/1992",
+      "c": "La Ley 39/2015",
+      "d": "La Ley 59/2003 de firma electrónica"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "La Ley 30/1992",
+        "La Ley 11/2007, de acceso electrónico de los ciudadanos a los servicios públicos",
+        "La Ley 39/2015",
+        "La Ley 59/2003 de firma electrónica"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000262",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las relaciones \"ad extra\" se regulan en:",
+    "opciones": {
+      "a": "La Ley 40/2015",
+      "b": "El RD 203/2021 exclusivamente",
+      "c": "La Ley 39/2015",
+      "d": "La Ley 11/2007"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "La Ley 40/2015",
+        "La Ley 39/2015",
+        "El RD 203/2021 exclusivamente",
+        "La Ley 11/2007"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000263",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las relaciones \"ad intra\" son:",
+    "opciones": {
+      "a": "Entre la Administración y el ciudadano",
+      "b": "Solo entre Ministerios",
+      "c": "Entre el Defensor del Pueblo y la Administración",
+      "d": "Entre las distintas Administraciones Públicas entre sí"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "Entre la Administración y el ciudadano",
+        "Entre las distintas Administraciones Públicas entre sí",
+        "Solo entre Ministerios",
+        "Entre el Defensor del Pueblo y la Administración"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000264",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Están obligados a relacionarse electrónicamente con la Administración, entre otros:",
+    "opciones": {
+      "a": "Todas las personas físicas sin excepción",
+      "b": "Solo las Comunidades Autónomas",
+      "c": "Las personas jurídicas y quienes ejerzan una profesión de colegiación obligatoria",
+      "d": "Únicamente los menores de edad"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "Todas las personas físicas sin excepción",
+        "Las personas jurídicas y quienes ejerzan una profesión de colegiación obligatoria",
+        "Solo las Comunidades Autónomas",
+        "Únicamente los menores de edad"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000265",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Ley 6/2020, de servicios electrónicos de confianza, deroga a:",
+    "opciones": {
+      "a": "La Ley 39/2015",
+      "b": "La Ley 59/2003 de firma electrónica",
+      "c": "La Ley 11/2007",
+      "d": "El RD 3/2010"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "La Ley 39/2015",
+        "La Ley 59/2003 de firma electrónica",
+        "La Ley 11/2007",
+        "El RD 3/2010"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000266",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Esquema Nacional de Seguridad fue aprobado por:",
+    "opciones": {
+      "a": "El RD 3/2010",
+      "b": "La Ley 40/2015",
+      "c": "El RD 203/2021",
+      "d": "La Ley 6/2020"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "El RD 3/2010",
+        "La Ley 40/2015",
+        "El RD 203/2021",
+        "La Ley 6/2020"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000267",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Entre los principios de las relaciones \"ad intra\" NO se encuentra:",
+    "opciones": {
+      "a": "Lealtad institucional",
+      "b": "Cooperación",
+      "c": "Iniciativa legislativa popular",
+      "d": "Solidaridad interterritorial"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "Lealtad institucional",
+        "Cooperación",
+        "Solidaridad interterritorial",
+        "Iniciativa legislativa popular"
+      ],
+      "correcta_original": "d"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000268",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las características de seguridad de un documento electrónico son:",
+    "opciones": {
+      "a": "Legalidad, jerarquía, publicidad, seguridad y responsabilidad",
+      "b": "Confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad",
+      "c": "Eficacia, eficiencia, economía y celeridad",
+      "d": "Solo confidencialidad e integridad"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad",
+        "Legalidad, jerarquía, publicidad, seguridad y responsabilidad",
+        "Eficacia, eficiencia, economía y celeridad",
+        "Solo confidencialidad e integridad"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000269",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Sistema RED, gestionado por la Tesorería General de la Seguridad Social, garantiza entre otras cosas:",
+    "opciones": {
+      "a": "Solo la firma electrónica",
+      "b": "Exclusivamente la confidencialidad",
+      "c": "La gratuidad de todos los trámites",
+      "d": "Autenticación, constancia, confidencialidad, integridad y no repudio"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "Autenticación, constancia, confidencialidad, integridad y no repudio",
+        "Solo la firma electrónica",
+        "Exclusivamente la confidencialidad",
+        "La gratuidad de todos los trámites"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000270",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Una notificación electrónica de la Agencia Tributaria se entiende producida, si no se accede a ella, transcurridos:",
+    "opciones": {
+      "a": "5 días naturales",
+      "b": "15 días hábiles",
+      "c": "10 días naturales",
+      "d": "30 días naturales"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "5 días naturales",
+        "10 días naturales",
+        "15 días hábiles",
+        "30 días naturales"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000271",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las notificaciones y comunicaciones de la Agencia Tributaria están disponibles en la DEH durante:",
+    "opciones": {
+      "a": "30 días naturales",
+      "b": "90 días naturales",
+      "c": "60 días naturales",
+      "d": "1 año"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "30 días naturales",
+        "60 días naturales",
+        "90 días naturales",
+        "1 año"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000272",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Contrat@ es un sistema gestionado por:",
+    "opciones": {
+      "a": "El SEPE, para comunicar la contratación laboral",
+      "b": "La Agencia Tributaria",
+      "c": "La Tesorería General de la Seguridad Social",
+      "d": "El Ministerio de Industria"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "La Agencia Tributaria",
+        "El SEPE, para comunicar la contratación laboral",
+        "La Tesorería General de la Seguridad Social",
+        "El Ministerio de Industria"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000273",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las Oficinas Integradas de Atención al Ciudadano se implantaron mediante:",
+    "opciones": {
+      "a": "La Ley 39/2015",
+      "b": "El RD 203/2021",
+      "c": "El Acuerdo del Consejo de Ministros de 15 de julio de 2005",
+      "d": "La Ley 11/2007"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "La Ley 39/2015",
+        "El Acuerdo del Consejo de Ministros de 15 de julio de 2005",
+        "El RD 203/2021",
+        "La Ley 11/2007"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000274",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los niveles de servicio de las oficinas integradas son:",
+    "opciones": {
+      "a": "Básico, medio y superior",
+      "b": "Primario, intermedio y avanzado",
+      "c": "Local, autonómico y estatal",
+      "d": "Presencial, telefónico y telemático"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "Básico, medio y superior",
+        "Primario, intermedio y avanzado",
+        "Local, autonómico y estatal",
+        "Presencial, telefónico y telemático"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000275",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Red PAGe se caracteriza por ser:",
+    "opciones": {
+      "a": "Vertical, unicanal y de nivel único",
+      "b": "Exclusiva de la Administración General del Estado",
+      "c": "Solo accesible por internet",
+      "d": "Horizontal, multicanal y multinivel"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "Vertical, unicanal y de nivel único",
+        "Horizontal, multicanal y multinivel",
+        "Exclusiva de la Administración General del Estado",
+        "Solo accesible por internet"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000276",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El teléfono 060 ofrece información especializada, entre otros ámbitos, sobre:",
+    "opciones": {
+      "a": "Solo temas de Hacienda",
+      "b": "Empleo público, becas, ayudas y subvenciones",
+      "c": "Exclusivamente trámites de extranjería",
+      "d": "Solo temas de Seguridad Social"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "Empleo público, becas, ayudas y subvenciones",
+        "Solo temas de Hacienda",
+        "Exclusivamente trámites de extranjería",
+        "Solo temas de Seguridad Social"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000277",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El RD 127/2015 integra las ventanillas únicas empresariales en:",
+    "opciones": {
+      "a": "Las Oficinas Integradas de Atención al Ciudadano",
+      "b": "El Punto de Acceso General",
+      "c": "La Red PAGe",
+      "d": "Los Puntos de Atención al Emprendedor (PAE)"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "Los Puntos de Atención al Emprendedor (PAE)",
+        "Las Oficinas Integradas de Atención al Ciudadano",
+        "El Punto de Acceso General",
+        "La Red PAGe"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000278",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La tramitación telemática de los PAE se realiza mediante:",
+    "opciones": {
+      "a": "La Sede Electrónica de la Agencia Tributaria",
+      "b": "El Sistema RED",
+      "c": "Contrat@",
+      "d": "El sistema CIRCE y el Documento Único Electrónico (DUE)"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "La Sede Electrónica de la Agencia Tributaria",
+        "El sistema CIRCE y el Documento Único Electrónico (DUE)",
+        "El Sistema RED",
+        "Contrat@"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000279",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Punto de Acceso General (PAGe) de la AGE es gestionado por:",
+    "opciones": {
+      "a": "El Ministerio de Política Territorial y Función Pública, en colaboración con la Secretaría General de Administración Digital",
+      "b": "El Ministerio de Industria, Energía y Turismo",
+      "c": "La Agencia Tributaria",
+      "d": "El Consejo de Transparencia y Buen Gobierno"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "El Ministerio de Industria, Energía y Turismo",
+        "El Ministerio de Política Territorial y Función Pública, en colaboración con la Secretaría General de Administración Digital",
+        "La Agencia Tributaria",
+        "El Consejo de Transparencia y Buen Gobierno"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000280",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El PAGe permite verificar la autenticidad de los documentos mediante:",
+    "opciones": {
+      "a": "El Código Seguro de Verificación (CSV)",
+      "b": "El Sistema RED",
+      "c": "La huella electrónica de contrat@",
+      "d": "El DUE ---"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_II_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "El Código Seguro de Verificación (CSV)",
+        "El Sistema RED",
+        "La huella electrónica de contrat@",
+        "El DUE ---"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

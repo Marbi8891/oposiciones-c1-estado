@@ -1,0 +1,70 @@
+[
+  {
+    "id": "FC-00087",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "No confundir el plazo de contestación de reclamaciones/sugerencias generales (15...",
+    "reverso": "No confundir el plazo de contestación de reclamaciones/sugerencias generales (15 días hábiles) con el del programa RD 951/2005 (20 días hábiles).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c87"
+    }
+  },
+  {
+    "id": "FC-00088",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Proxémica = distancia; Kinésica = movimiento corporal; Paralingüística = voz",
+    "reverso": "Proxémica = distancia; Kinésica = movimiento corporal; Paralingüística = voz — se cruzan con frecuencia en el examen.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c88"
+    }
+  },
+  {
+    "id": "FC-00089",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "no exige legitimación vs. sí exige — ¿cuál es la diferencia clave?",
+    "reverso": "La información general no exige legitimación; la particular sí exige ser interesado.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c89"
+    }
+  },
+  {
+    "id": "FC-00090",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El derecho de petición se apoya en el art. 29 CE, no en el art. 20 (información)...",
+    "reverso": "El derecho de petición se apoya en el art. 29 CE, no en el art. 20 (información) ni en el 23 (participación política).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c90"
+    }
+  }
+]

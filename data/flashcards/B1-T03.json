@@ -1,0 +1,155 @@
+[
+  {
+    "id": "FC-00009",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Congreso: 300-400 diputados (actualmente 350) — ¿por qué se diferencian?",
+    "reverso": "Congreso: 300-400 diputados (actualmente 350) — Senado: representación territorial (4 por provincia + islas + CC.AA.), no un número fijo cerrado en la CE.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c9"
+    }
+  },
+  {
+    "id": "FC-00010",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Inviolabilidad (opiniones) vs. inmunidad (detención solo en flagrante delito + suplicatorio) — ¿por qué se diferencian?",
+    "reverso": "Inviolabilidad (opiniones) vs. inmunidad (detención solo en flagrante delito + suplicatorio) — no confundir los dos conceptos del art. 71.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c10"
+    }
+  },
+  {
+    "id": "FC-00011",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Cuestión de confianza vs. moción de censura — ¿cuál es la diferencia clave?",
+    "reverso": "Cuestión de confianza (mayoría simple, la plantea el Gobierno) vs. moción de censura (mayoría absoluta, la plantea el Congreso, es \"constructiva\" porque incluye candidato alternativo).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c11"
+    }
+  },
+  {
+    "id": "FC-00012",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "3% vs. 5% — ¿cuál es la diferencia clave?",
+    "reverso": "Umbral electoral: 3% general, 5% en municipales.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c12"
+    }
+  },
+  {
+    "id": "FC-00013",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Firmas iniciativa popular: ______.",
+    "reverso": "Firmas iniciativa popular: 500.000.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c13"
+    }
+  },
+  {
+    "id": "FC-00014",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Plazo del Senado para vetar/enmendar: ______ (20 días si urgente).",
+    "reverso": "Plazo del Senado para vetar/enmendar: 2 meses (20 días si urgente).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c14"
+    }
+  },
+  {
+    "id": "FC-00015",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Plazo de sanción real de las leyes: ______.",
+    "reverso": "Plazo de sanción real de las leyes: 15 días.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c15"
+    }
+  },
+  {
+    "id": "FC-00016",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Diputación Permanente: mínimo ______.",
+    "reverso": "Diputación Permanente: mínimo 21 miembros.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c16"
+    }
+  },
+  {
+    "id": "FC-00017",
+    "version": 1,
+    "tema_id": "B1-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "septiembre-diciembre vs. febrero-junio — ¿cuál es la diferencia clave?",
+    "reverso": "Periodos ordinarios de sesiones: septiembre-diciembre y febrero-junio.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c17"
+    }
+  }
+]
