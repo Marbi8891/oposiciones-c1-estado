@@ -1,0 +1,70 @@
+[
+  {
+    "id": "FC-00091",
+    "version": 1,
+    "tema_id": "B2-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Archivo central = un solo organismo (microsistema); archivo intermedio = varios...",
+    "reverso": "Archivo central = un solo organismo (microsistema); archivo intermedio = varios organismos (macrosistema).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c91"
+    }
+  },
+  {
+    "id": "FC-00092",
+    "version": 1,
+    "tema_id": "B2-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Providencia (no decide el fondo) vs. Resolución (decide, motivada) vs. Acuerdo (...",
+    "reverso": "Providencia (no decide el fondo) vs. Resolución (decide, motivada) vs. Acuerdo (resolución de órgano colegiado).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c92"
+    }
+  },
+  {
+    "id": "FC-00093",
+    "version": 1,
+    "tema_id": "B2-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Ampliación de plazos: máximo la mitad del plazo, nunca sobre plazo vencido....",
+    "reverso": "Ampliación de plazos: máximo la mitad del plazo, nunca sobre plazo vencido.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c93"
+    }
+  },
+  {
+    "id": "FC-00094",
+    "version": 1,
+    "tema_id": "B2-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Plazo de reclamación de copias auténticas: 15 días (no confundir con los 20 días...",
+    "reverso": "Plazo de reclamación de copias auténticas: 15 días (no confundir con los 20 días del programa de quejas del Tema 1).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c94"
+    }
+  }
+]

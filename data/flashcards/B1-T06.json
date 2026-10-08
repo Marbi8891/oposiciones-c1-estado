@@ -1,0 +1,138 @@
+[
+  {
+    "id": "FC-00034",
+    "version": 1,
+    "tema_id": "B1-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "3 vs. 4 — ¿cuál es la diferencia clave?",
+    "reverso": "Pilares del Gobierno Abierto (3: Transparencia, Colaboración, Participación) vs. principios informadores enumerados (4, añadiendo Rendición de cuentas).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c34"
+    }
+  },
+  {
+    "id": "FC-00035",
+    "version": 1,
+    "tema_id": "B1-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "España se adhiere a la OGP en ______ (no confundir con la fecha de creación de la propia OGP).",
+    "reverso": "España se adhiere a la OGP en abril de 2011 (no confundir con la fecha de creación de la propia OGP).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c35"
+    }
+  },
+  {
+    "id": "FC-00036",
+    "version": 1,
+    "tema_id": "B1-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "III Plan de Acción: 2017-2019, 5 ejes, 20 medidas — ¿por qué se diferencian?",
+    "reverso": "III Plan de Acción: 2017-2019, 5 ejes, 20 medidas — IV Plan de Acción: 2020-2024 (acordado 29/10/2020), 4 objetivos, 10 compromisos.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c36"
+    }
+  },
+  {
+    "id": "FC-00037",
+    "version": 1,
+    "tema_id": "B1-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Foro de Gobierno Abierto: ______ (32 AAPP + 32 sociedad civil) — no confundir con la Comisión Sectorial (sin número fijo de vocales, es cooperación interadministrativa) ni con el Consejo de Desarrollo Sostenible (60 vocalías, distinto ámbito — Agenda 2030, no Gobierno Abierto en general).",
+    "reverso": "Foro de Gobierno Abierto: 64 vocales (32 AAPP + 32 sociedad civil) — no confundir con la Comisión Sectorial (sin número fijo de vocales, es cooperación interadministrativa) ni con el Consejo de Desarrollo Sostenible (60 vocalías, distinto ámbito — Agenda 2030, no Gobierno Abierto en general).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c37"
+    }
+  },
+  {
+    "id": "FC-00038",
+    "version": 1,
+    "tema_id": "B1-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "25 de septiembre de 2015 vs. 193 países — ¿cuál es la diferencia clave?",
+    "reverso": "Agenda 2030: 25 de septiembre de 2015, 193 países, 70ª Asamblea de la ONU, 17 ODS y 169 metas, 5 ejes (Planeta, Personas, Prosperidad, Paz, Alianzas).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c38"
+    }
+  },
+  {
+    "id": "FC-00039",
+    "version": 1,
+    "tema_id": "B1-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Metas numéricas (hitos) vs. metas con letras (medios de implementación)....",
+    "reverso": "Metas numéricas (hitos) vs. metas con letras (medios de implementación).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c39"
+    }
+  },
+  {
+    "id": "FC-00040",
+    "version": 1,
+    "tema_id": "B1-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "ODM (Objetivos del Milenio, 8 objetivos, vigentes hasta 2015) fueron sustituidos...",
+    "reverso": "ODM (Objetivos del Milenio, 8 objetivos, vigentes hasta 2015) fueron sustituidos por los ODS (17 objetivos, Agenda 2030).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c40"
+    }
+  },
+  {
+    "id": "FC-00041",
+    "version": 1,
+    "tema_id": "B1-T06",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Consejo de Desarrollo Sostenible: Pleno ordinario ______.",
+    "reverso": "Consejo de Desarrollo Sostenible: Pleno ordinario 2 veces al año.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c41"
+    }
+  }
+]

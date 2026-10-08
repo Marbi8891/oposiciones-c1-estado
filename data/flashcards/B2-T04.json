@@ -1,0 +1,70 @@
+[
+  {
+    "id": "FC-00099",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "RGPD entra en vigor el 24/05/2016 pero su aplicación plena (régimen sancionador) es el 25/05/2018",
+    "reverso": "RGPD entra en vigor el 24/05/2016 pero su aplicación plena (régimen sancionador) es el 25/05/2018 — dos fechas distintas, muy preguntadas.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c99"
+    }
+  },
+  {
+    "id": "FC-00100",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La LOPDGDD entra en vigor el 7/12/2018, coincidiendo con el 40º aniversario de l...",
+    "reverso": "La LOPDGDD entra en vigor el 7/12/2018, coincidiendo con el 40º aniversario de la Constitución.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c100"
+    }
+  },
+  {
+    "id": "FC-00101",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Portabilidad exige BASE (consentimiento o contrato) + MEDIO (automatizado) simul...",
+    "reverso": "Portabilidad exige BASE (consentimiento o contrato) + MEDIO (automatizado) simultáneamente.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c101"
+    }
+  },
+  {
+    "id": "FC-00102",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "No confundir \"poderes investigadores\" (recabar información) con \"poderes correct...",
+    "reverso": "No confundir \"poderes investigadores\" (recabar información) con \"poderes correctores\" (sancionar, ordenar, limitar).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c102"
+    }
+  }
+]

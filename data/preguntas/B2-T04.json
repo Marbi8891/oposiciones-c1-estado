@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000281",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El RGPD (Reglamento UE 2016/679) fue aprobado el:",
+    "opciones": {
+      "a": "24 de mayo de 2016",
+      "b": "25 de mayo de 2018",
+      "c": "27 de abril de 2016",
+      "d": "7 de diciembre de 2018"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "24 de mayo de 2016",
+        "27 de abril de 2016",
+        "25 de mayo de 2018",
+        "7 de diciembre de 2018"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000282",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El régimen sancionador del RGPD resultó de aplicación plena a partir del:",
+    "opciones": {
+      "a": "24 de mayo de 2016",
+      "b": "25 de mayo de 2018",
+      "c": "27 de abril de 2016",
+      "d": "7 de diciembre de 2018"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "24 de mayo de 2016",
+        "27 de abril de 2016",
+        "25 de mayo de 2018",
+        "7 de diciembre de 2018"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000283",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La LOPDGDD (LO 3/2018) entró en vigor el 7 de diciembre de 2018, coincidiendo con:",
+    "opciones": {
+      "a": "El Día de la Constitución",
+      "b": "El aniversario del RGPD",
+      "c": "El Día Europeo de la Protección de Datos",
+      "d": "El 40º aniversario del referéndum de la Constitución de 1978"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "El Día de la Constitución",
+        "El 40º aniversario del referéndum de la Constitución de 1978",
+        "El aniversario del RGPD",
+        "El Día Europeo de la Protección de Datos"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000284",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La norma que reguló por primera vez en España la limitación del uso de la informática para proteger la intimidad fue:",
+    "opciones": {
+      "a": "La LO 15/1999",
+      "b": "El RD 1720/2007",
+      "c": "El RGPD",
+      "d": "La LO 5/1992 (LORTAD)"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "La LO 15/1999",
+        "La LO 5/1992 (LORTAD)",
+        "El RD 1720/2007",
+        "El RGPD"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000285",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El principio según el cual el responsable debe ser capaz de demostrar el cumplimiento de todos los principios del tratamiento se denomina:",
+    "opciones": {
+      "a": "Responsabilidad proactiva",
+      "b": "Minimización de datos",
+      "c": "Limitación de la finalidad",
+      "d": "Integridad y confidencialidad"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "Minimización de datos",
+        "Responsabilidad proactiva",
+        "Limitación de la finalidad",
+        "Integridad y confidencialidad"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000286",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho de portabilidad de datos se aplica quando el tratamiento:",
+    "opciones": {
+      "a": "Se basa en el consentimiento o en un contrato y se efectúa por medios automatizados",
+      "b": "Se basa en el interés legítimo del responsable",
+      "c": "Es realizado por una autoridad pública en ejercicio de sus funciones",
+      "d": "Afecta a menores de edad exclusivamente"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "Se basa en el interés legítimo del responsable",
+        "Se basa en el consentimiento o en un contrato y se efectúa por medios automatizados",
+        "Es realizado por una autoridad pública en ejercicio de sus funciones",
+        "Afecta a menores de edad exclusivamente"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000287",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho al olvido (supresión) tiene su origen jurisprudencial en:",
+    "opciones": {
+      "a": "Una sentencia del Tribunal Constitucional español de 1999",
+      "b": "La Directiva 95/46/CE",
+      "c": "La Sentencia del TJUE de 13 de mayo de 2014",
+      "d": "La LO 15/1999"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "Una sentencia del Tribunal Constitucional español de 1999",
+        "La Sentencia del TJUE de 13 de mayo de 2014",
+        "La Directiva 95/46/CE",
+        "La LO 15/1999"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000288",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los clásicos derechos ARCO son:",
+    "opciones": {
+      "a": "Acceso, reclamación, cesión y olvido",
+      "b": "Acceso, rectificación, cancelación y oposición",
+      "c": "Autenticidad, rectificación, cancelación y oposición",
+      "d": "Acceso, registro, custodia y olvido"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Acceso, rectificación, cancelación y oposición",
+        "Acceso, reclamación, cesión y olvido",
+        "Autenticidad, rectificación, cancelación y oposición",
+        "Acceso, registro, custodia y olvido"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000289",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho a la transparencia e información, a diferencia de los demás derechos del interesado:",
+    "opciones": {
+      "a": "Debe solicitarse expresamente ante la Agencia",
+      "b": "No existe en el RGPD",
+      "c": "Solo aplica a menores de edad",
+      "d": "Es una obligación del responsable del tratamiento, no un derecho que se ejercite"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "Debe solicitarse expresamente ante la Agencia",
+        "Es una obligación del responsable del tratamiento, no un derecho que se ejercite",
+        "No existe en el RGPD",
+        "Solo aplica a menores de edad"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000290",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El plazo general para que el responsable del tratamiento conteste a las peticiones del interesado es de:",
+    "opciones": {
+      "a": "10 días hábiles",
+      "b": "1 mes",
+      "c": "15 días",
+      "d": "3 meses"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "10 días hábiles",
+        "15 días",
+        "1 mes",
+        "3 meses"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000291",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho a no ser objeto de decisiones automatizadas, incluida la elaboración de perfiles, admite excepción cuando existe:",
+    "opciones": {
+      "a": "Cualquier interés legítimo del responsable",
+      "b": "Consentimiento explícito del interesado",
+      "c": "Autorización verbal de un tercero",
+      "d": "Reiteración de la solicitud"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "Consentimiento explícito del interesado",
+        "Cualquier interés legítimo del responsable",
+        "Autorización verbal de un tercero",
+        "Reiteración de la solicitud"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000292",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Territorialmente, el RGPD se aplica también a responsables NO establecidos en la UE cuando:",
+    "opciones": {
+      "a": "Tengan empleados de nacionalidad europea",
+      "b": "Estén registrados en cualquier país del mundo",
+      "c": "El interesado lo solicite expresamente",
+      "d": "Ofrezcan bienes o servicios a interesados en la UE, o controlen su comportamiento"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Ofrezcan bienes o servicios a interesados en la UE, o controlen su comportamiento",
+        "Tengan empleados de nacionalidad europea",
+        "Estén registrados en cualquier país del mundo",
+        "El interesado lo solicite expresamente"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000293",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El RGPD NO se aplica al tratamiento de datos:",
+    "opciones": {
+      "a": "Realizado por empresas privadas",
+      "b": "Realizado por Administraciones Públicas",
+      "c": "De trabajadores por parte de su empresa",
+      "d": "Efectuado por una persona física en actividades exclusivamente personales o domésticas"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "Realizado por empresas privadas",
+        "Efectuado por una persona física en actividades exclusivamente personales o domésticas",
+        "Realizado por Administraciones Públicas",
+        "De trabajadores por parte de su empresa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000294",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El \"responsable del tratamiento\" es:",
+    "opciones": {
+      "a": "Quien determina los fines y medios del tratamiento",
+      "b": "Quien trata los datos por cuenta de otro",
+      "c": "Siempre una autoridad pública",
+      "d": "El propio interesado"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "Quien trata los datos por cuenta de otro",
+        "Quien determina los fines y medios del tratamiento",
+        "Siempre una autoridad pública",
+        "El propio interesado"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000295",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Entre las obligaciones derivadas de la responsabilidad proactiva se encuentra:",
+    "opciones": {
+      "a": "La eliminación de la Agencia de Protección de Datos",
+      "b": "El registro de actividades de tratamiento",
+      "c": "La prohibición de nombrar un Delegado de Protección de Datos",
+      "d": "La obligación de tratar datos sin informar al interesado"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "El registro de actividades de tratamiento",
+        "La eliminación de la Agencia de Protección de Datos",
+        "La prohibición de nombrar un Delegado de Protección de Datos",
+        "La obligación de tratar datos sin informar al interesado"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000296",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La autoridad de control española encargada de supervisar el RGPD es:",
+    "opciones": {
+      "a": "El Consejo de Transparencia y Buen Gobierno",
+      "b": "El Defensor del Pueblo",
+      "c": "La Agencia Española de Protección de Datos",
+      "d": "El Tribunal Constitucional"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "El Consejo de Transparencia y Buen Gobierno",
+        "La Agencia Española de Protección de Datos",
+        "El Defensor del Pueblo",
+        "El Tribunal Constitucional"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000297",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Entre los poderes correctores de la Agencia de Protección de Datos se encuentra:",
+    "opciones": {
+      "a": "Llevar a cabo auditorías",
+      "b": "Notificar infracciones presuntas",
+      "c": "Imponer sanciones",
+      "d": "Ordenar información al responsable"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "Llevar a cabo auditorías",
+        "Imponer sanciones",
+        "Notificar infracciones presuntas",
+        "Ordenar información al responsable"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000298",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Llevar a cabo investigaciones en forma de auditorías es un poder de tipo:",
+    "opciones": {
+      "a": "Corrector",
+      "b": "Consultivo",
+      "c": "Investigador",
+      "d": "Sancionador exclusivamente"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "Corrector",
+        "Consultivo",
+        "Investigador",
+        "Sancionador exclusivamente"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000299",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El interesado puede ejercer la tutela judicial efectiva contra la Autoridad de Control cuando:",
+    "opciones": {
+      "a": "Esta no dé curso a su reclamación o no le informe en 3 meses",
+      "b": "Pasen más de 10 días sin respuesta",
+      "c": "Nunca es posible recurrir a la Autoridad de Control",
+      "d": "Solo si el responsable es una empresa privada"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Esta no dé curso a su reclamación o no le informe en 3 meses",
+        "Pasen más de 10 días sin respuesta",
+        "Nunca es posible recurrir a la Autoridad de Control",
+        "Solo si el responsable es una empresa privada"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000300",
+    "version": 1,
+    "tema_id": "B2-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho de oposición permite al interesado:",
+    "opciones": {
+      "a": "Oponerse en cualquier momento a que sus datos sean tratados, en los supuestos legalmente previstos",
+      "b": "Impedir cualquier tratamiento de datos sin excepción",
+      "c": "Eliminar automáticamente todos sus datos de cualquier fichero",
+      "d": "Exigir una indemnización automática ---"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_II_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "Oponerse en cualquier momento a que sus datos sean tratados, en los supuestos legalmente previstos",
+        "Impedir cualquier tratamiento de datos sin excepción",
+        "Eliminar automáticamente todos sus datos de cualquier fichero",
+        "Exigir una indemnización automática ---"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

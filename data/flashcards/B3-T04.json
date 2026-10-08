@@ -1,0 +1,172 @@
+[
+  {
+    "id": "FC-00111",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Los ______ son obra, concesión de obra, concesión de servicios, suministro y servicios — no existe ya el contrato de gestión de servicios públicos como figura autónoma.",
+    "reverso": "Los 5 contratos típicos son obra, concesión de obra, concesión de servicios, suministro y servicios — no existe ya el contrato de gestión de servicios públicos como figura autónoma.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c111"
+    }
+  },
+  {
+    "id": "FC-00112",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______: es una cualificación transversal (sujeto + objeto + cuantía) que puede combinarse con administrativo o privado.",
+    "reverso": "SARA no es un tipo de contrato: es una cualificación transversal (sujeto + objeto + cuantía) que puede combinarse con administrativo o privado.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c112"
+    }
+  },
+  {
+    "id": "FC-00113",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Garantía provisional (potestativa, 3%) vs. garantía definitiva (obligatoria, 5%) — ¿por qué se diferencian?",
+    "reverso": "Garantía provisional (potestativa, 3%) vs. garantía definitiva (obligatoria, 5%) — no confundir cuál es obligatoria.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c113"
+    }
+  },
+  {
+    "id": "FC-00114",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______: < 40.000 € obras / < 15.000 € suministros y servicios — cifras que cambian con cada reforma, memorizar las vigentes.",
+    "reverso": "Contrato menor: < 40.000 € obras / < 15.000 € suministros y servicios — cifras que cambian con cada reforma, memorizar las vigentes.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c114"
+    }
+  },
+  {
+    "id": "FC-00115",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Modificados previstos en el PCAP (máx. 20% con IVA) vs. no previstos/imprevisibles (máx. 50% sin IVA) — ¿por qué se diferencian?",
+    "reverso": "Modificados previstos en el PCAP (máx. 20% con IVA) vs. no previstos/imprevisibles (máx. 50% sin IVA) — límites y bases de cálculo distintas (con IVA vs. sin IVA).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c115"
+    }
+  },
+  {
+    "id": "FC-00116",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______: regla muy restrictiva — solo obra, armamento, energía o inversión recuperable en ≥5 años, y solo tras ejecutar el 20% y transcurrir 1 año (salvo concesión de servicios).",
+    "reverso": "Revisión de precios: regla muy restrictiva — solo obra, armamento, energía o inversión recuperable en ≥5 años, y solo tras ejecutar el 20% y transcurrir 1 año (salvo concesión de servicios).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c116"
+    }
+  },
+  {
+    "id": "FC-00117",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Recurso de alzada/reposición (LPAC) para la invalidez de derecho administrativo del acto vs. REC (recurso especial, distinto y previo a la vía contencioso-administrativa) para los actos cualificados del procedimiento de adjudicación en contratos de cierto umbral — ¿por qué se diferencian?",
+    "reverso": "Recurso de alzada/reposición (LPAC) para la invalidez de derecho administrativo del acto vs. REC (recurso especial, distinto y previo a la vía contencioso-administrativa) para los actos cualificados del procedimiento de adjudicación en contratos de cierto umbral — son dos vías distintas, no alternativas para el mismo acto.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c117"
+    }
+  },
+  {
+    "id": "FC-00118",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El ______, resuelto por un órgano especializado e independiente (TARC), no por el propio órgano de contratación.",
+    "reverso": "El REC es potestativo y gratuito, resuelto por un órgano especializado e independiente (TARC), no por el propio órgano de contratación.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c118"
+    }
+  },
+  {
+    "id": "FC-00119",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Procedimiento abierto (sin negociación, cualquiera licita) vs. restringido (sin negociación, pero con selección previa de candidatos) vs. negociado (sí hay negociación) — ¿por qué se diferencian?",
+    "reverso": "Procedimiento abierto (sin negociación, cualquiera licita) vs. restringido (sin negociación, pero con selección previa de candidatos) vs. negociado (sí hay negociación) — la clave distintiva es si cabe negociación y si hay fase de selección previa.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c119"
+    }
+  },
+  {
+    "id": "FC-00120",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Penalidades por demora: ______ del precio por día — cifra fácil de confundir con otros porcentajes del tema.",
+    "reverso": "Penalidades por demora: 0,60 €/1.000 € del precio por día — cifra fácil de confundir con otros porcentajes del tema.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c120"
+    }
+  }
+]

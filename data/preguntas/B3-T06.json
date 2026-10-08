@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000401",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el artículo 106.2 de la Constitución Española, los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes o derechos, siempre que sea consecuencia del funcionamiento de los servicios públicos, salvo en caso de:",
+    "opciones": {
+      "a": "Fuerza mayor",
+      "b": "Funcionamiento normal del servicio",
+      "c": "Que el daño sea de escasa cuantía",
+      "d": "Que el servicio sea gestionado indirectamente"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "Funcionamiento normal del servicio",
+        "Fuerza mayor",
+        "Que el daño sea de escasa cuantía",
+        "Que el servicio sea gestionado indirectamente"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000402",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El sistema de responsabilidad patrimonial de las Administraciones Públicas es \"unitario\" porque:",
+    "opciones": {
+      "a": "Cada Comunidad Autónoma puede regular su propio sistema de responsabilidad",
+      "b": "Solo se aplica a la Administración General del Estado",
+      "c": "Solo el Estado tiene competencia exclusiva para regular el sistema de responsabilidad de todas las Administraciones Públicas",
+      "d": "Unifica en un solo procedimiento la responsabilidad civil, penal y administrativa"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "Cada Comunidad Autónoma puede regular su propio sistema de responsabilidad",
+        "Solo el Estado tiene competencia exclusiva para regular el sistema de responsabilidad de todas las Administraciones Públicas",
+        "Solo se aplica a la Administración General del Estado",
+        "Unifica en un solo procedimiento la responsabilidad civil, penal y administrativa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000403",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La responsabilidad patrimonial de las Administraciones Públicas se califica como \"objetiva\" porque:",
+    "opciones": {
+      "a": "Exige la prueba de dolo o culpa grave del empleado público",
+      "b": "Solo se aplica cuando existe funcionamiento anormal del servicio",
+      "c": "Requiere sentencia penal firme previa",
+      "d": "No exige culpa ni negligencia, bastando que el daño derive del funcionamiento normal o anormal del servicio público"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "Exige la prueba de dolo o culpa grave del empleado público",
+        "No exige culpa ni negligencia, bastando que el daño derive del funcionamiento normal o anormal del servicio público",
+        "Solo se aplica cuando existe funcionamiento anormal del servicio",
+        "Requiere sentencia penal firme previa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000404",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los daños derivados de hechos que no se hayan podido prever o evitar conforme al estado de la ciencia o la técnica en el momento de su producción constituyen:",
+    "opciones": {
+      "a": "Un supuesto de responsabilidad objetiva agravada",
+      "b": "La definición legal de fuerza mayor, que excluye la indemnización",
+      "c": "Un supuesto de responsabilidad solidaria",
+      "d": "Un caso de nulidad de pleno derecho"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "Un supuesto de responsabilidad objetiva agravada",
+        "La definición legal de fuerza mayor, que excluye la indemnización",
+        "Un supuesto de responsabilidad solidaria",
+        "Un caso de nulidad de pleno derecho"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000405",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La anulación de un acto o disposición administrativa en vía administrativa o judicial:",
+    "opciones": {
+      "a": "No presupone por sí misma derecho a indemnización, siendo necesarios los demás requisitos",
+      "b": "Presupone automáticamente el derecho a indemnización",
+      "c": "Excluye siempre la posibilidad de indemnización",
+      "d": "Solo genera derecho a indemnización si la anulación es por motivos de forma"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "Presupone automáticamente el derecho a indemnización",
+        "No presupone por sí misma derecho a indemnización, siendo necesarios los demás requisitos",
+        "Excluye siempre la posibilidad de indemnización",
+        "Solo genera derecho a indemnización si la anulación es por motivos de forma"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000406",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Cuando la Administración indemniza a un lesionado, puede exigir de oficio a la autoridad o empleado público responsable la responsabilidad correspondiente cuando hubiera concurrido:",
+    "opciones": {
+      "a": "Cualquier grado de negligencia, por leve que sea",
+      "b": "Dolo, o culpa o negligencia graves",
+      "c": "Únicamente dolo, nunca culpa",
+      "d": "Solo cuando exista sentencia penal condenatoria firme"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "Cualquier grado de negligencia, por leve que sea",
+        "Dolo, o culpa o negligencia graves",
+        "Únicamente dolo, nunca culpa",
+        "Solo cuando exista sentencia penal condenatoria firme"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000407",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Para que exista responsabilidad patrimonial, el daño debe reunir, entre otros, los siguientes requisitos:",
+    "opciones": {
+      "a": "Ser hipotético, individualizado y de cuantía elevada",
+      "b": "Derivar necesariamente de una sentencia penal condenatoria",
+      "c": "Afectar exclusivamente a bienes inmuebles",
+      "d": "Ser efectivo, económicamente evaluable e individualizado en relación con una persona o grupo"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "Ser hipotético, individualizado y de cuantía elevada",
+        "Ser efectivo, económicamente evaluable e individualizado en relación con una persona o grupo",
+        "Derivar necesariamente de una sentencia penal condenatoria",
+        "Afectar exclusivamente a bienes inmuebles"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000408",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Cuando el daño se produce en el ámbito de fórmulas de actuación conjunta entre varias Administraciones, la responsabilidad de estas será:",
+    "opciones": {
+      "a": "Solidaria",
+      "b": "Individual y separada para cada Administración",
+      "c": "Exclusiva de la Administración que materialmente causó el daño",
+      "d": "Inexistente, al no poder determinarse un único responsable"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Individual y separada para cada Administración",
+        "Solidaria",
+        "Exclusiva de la Administración que materialmente causó el daño",
+        "Inexistente, al no poder determinarse un único responsable"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000409",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Tratándose de la Administración General del Estado, la resolución del procedimiento de responsabilidad patrimonial corresponde, con carácter general, a:",
+    "opciones": {
+      "a": "El Consejo de Ministros en todo caso",
+      "b": "El Ministro respectivo, salvo que se trate de responsabilidad patrimonial del Estado, en cuyo caso corresponde al Consejo de Ministros",
+      "c": "El Consejo de Estado",
+      "d": "El Defensor del Pueblo"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "El Consejo de Ministros en todo caso",
+        "El Ministro respectivo, salvo que se trate de responsabilidad patrimonial del Estado, en cuyo caso corresponde al Consejo de Ministros",
+        "El Consejo de Estado",
+        "El Defensor del Pueblo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000410",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho a reclamar la indemnización por responsabilidad patrimonial prescribe, como regla general, en el plazo de:",
+    "opciones": {
+      "a": "6 meses desde el hecho",
+      "b": "1 año desde el hecho que motivó la indemnización o desde que se manifestó su efecto lesivo",
+      "c": "4 años desde el hecho",
+      "d": "2 años desde el hecho"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "6 meses desde el hecho",
+        "1 año desde el hecho que motivó la indemnización o desde que se manifestó su efecto lesivo",
+        "4 años desde el hecho",
+        "2 años desde el hecho"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000411",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En los casos de daños de carácter físico o psíquico, el plazo de prescripción de la acción de responsabilidad patrimonial se cuenta:",
+    "opciones": {
+      "a": "Desde la fecha del hecho causante, sin excepción",
+      "b": "Desde la fecha de la denuncia policial",
+      "c": "Desde la fecha de curación o de la determinación de las secuelas invalidantes",
+      "d": "Nunca prescribe en estos casos"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "Desde la fecha del hecho causante, sin excepción",
+        "Desde la fecha de curación o de la determinación de las secuelas invalidantes",
+        "Desde la fecha de la denuncia policial",
+        "Nunca prescribe en estos casos"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000412",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Será obligatorio solicitar dictamen del Consejo de Estado (u órgano consultivo autonómico equivalente) cuando la indemnización reclamada sea de cuantía igual o superior a:",
+    "opciones": {
+      "a": "15.000 euros",
+      "b": "50.000 euros",
+      "c": "30.000 euros",
+      "d": "100.000 euros"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "15.000 euros",
+        "30.000 euros",
+        "50.000 euros",
+        "100.000 euros"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000413",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El dictamen del Consejo de Estado en materia de responsabilidad patrimonial debe emitirse en el plazo de:",
+    "opciones": {
+      "a": "2 meses",
+      "b": "15 días",
+      "c": "1 mes",
+      "d": "3 meses"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "15 días",
+        "1 mes",
+        "2 meses",
+        "3 meses"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000414",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Transcurridos 6 meses desde el inicio del procedimiento de responsabilidad patrimonial sin que se haya notificado resolución expresa, el silencio administrativo, como regla general, se entiende:",
+    "opciones": {
+      "a": "Negativo en todo caso",
+      "b": "Inexistente, pues este procedimiento no admite silencio",
+      "c": "Siempre negativo si la cuantía supera los 50.000 euros",
+      "d": "Positivo, salvo que la ley o una norma de Derecho europeo establezca lo contrario"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "Negativo en todo caso",
+        "Positivo, salvo que la ley o una norma de Derecho europeo establezca lo contrario",
+        "Inexistente, pues este procedimiento no admite silencio",
+        "Siempre negativo si la cuantía supera los 50.000 euros"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000415",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El procedimiento simplificado de responsabilidad patrimonial puede utilizarse cuando el órgano competente considere inequívocos el nexo causal, el daño y la cuantía, y se caracteriza por:",
+    "opciones": {
+      "a": "La ampliación de todos los plazos ordinarios",
+      "b": "La necesidad de dictamen preceptivo del Consejo de Estado en todo caso",
+      "c": "La imposibilidad de resolver antes de 6 meses",
+      "d": "La inexistencia de fase de prueba y el acortamiento de plazos, resolviéndose en 30 días desde la notificación del acuerdo de tramitación simplificada"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "La ampliación de todos los plazos ordinarios",
+        "La inexistencia de fase de prueba y el acortamiento de plazos, resolviéndose en 30 días desde la notificación del acuerdo de tramitación simplificada",
+        "La necesidad de dictamen preceptivo del Consejo de Estado en todo caso",
+        "La imposibilidad de resolver antes de 6 meses"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000416",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El artículo 121 de la Constitución distingue, dentro de la responsabilidad por funcionamiento de la Administración de Justicia:",
+    "opciones": {
+      "a": "El error judicial y el funcionamiento anormal de la Administración de Justicia",
+      "b": "La responsabilidad civil y la penal exclusivamente",
+      "c": "La responsabilidad del Estado y de las Comunidades Autónomas",
+      "d": "Solo la responsabilidad de los funcionarios de justicia"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "La responsabilidad civil y la penal exclusivamente",
+        "El error judicial y el funcionamiento anormal de la Administración de Justicia",
+        "La responsabilidad del Estado y de las Comunidades Autónomas",
+        "Solo la responsabilidad de los funcionarios de justicia"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000417",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La reclamación de indemnización por error judicial debe ir precedida de:",
+    "opciones": {
+      "a": "Una simple solicitud administrativa sin más trámite",
+      "b": "Un dictamen previo del Defensor del Pueblo",
+      "c": "Una decisión judicial que expresamente reconozca el error, obtenida mediante recurso de revisión civil o solicitud de declaración de error ante el Tribunal Supremo",
+      "d": "La apertura de un expediente disciplinario contra el juez"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "Una simple solicitud administrativa sin más trámite",
+        "Una decisión judicial que expresamente reconozca el error, obtenida mediante recurso de revisión civil o solicitud de declaración de error ante el Tribunal Supremo",
+        "Un dictamen previo del Defensor del Pueblo",
+        "La apertura de un expediente disciplinario contra el juez"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000418",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El plazo para formular la solicitud de declaración de error judicial ante el Tribunal Supremo es de:",
+    "opciones": {
+      "a": "1 mes desde que se tuvo oportunidad para ello",
+      "b": "6 meses desde que se tuvo oportunidad para ello",
+      "c": "3 meses desde que se tuvo oportunidad para ello",
+      "d": "1 año desde que se tuvo oportunidad para ello"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "1 mes desde que se tuvo oportunidad para ello",
+        "3 meses desde que se tuvo oportunidad para ello",
+        "6 meses desde que se tuvo oportunidad para ello",
+        "1 año desde que se tuvo oportunidad para ello"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000419",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El requisito de que la absolución fuera \"por inexistencia del hecho\" para tener derecho a indemnización por prisión preventiva indebida:",
+    "opciones": {
+      "a": "Sigue vigente sin modificación alguna",
+      "b": "Nunca ha existido en nuestro ordenamiento",
+      "c": "Fue declarado inconstitucional por el Tribunal Constitucional, por vulneración de los artículos 14 y 24 de la Constitución",
+      "d": "Solo se aplica a los procedimientos penales por delitos leves"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Sigue vigente sin modificación alguna",
+        "Fue declarado inconstitucional por el Tribunal Constitucional, por vulneración de los artículos 14 y 24 de la Constitución",
+        "Nunca ha existido en nuestro ordenamiento",
+        "Solo se aplica a los procedimientos penales por delitos leves"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000420",
+    "version": 1,
+    "tema_id": "B3-T06",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Para que proceda la responsabilidad patrimonial del Estado legislador por la aplicación de una ley declarada inconstitucional, es necesario que el particular:",
+    "opciones": {
+      "a": "Se limite a esperar la declaración de inconstitucionalidad, sin necesidad de haber recurrido antes",
+      "b": "Haya sido parte en el propio recurso de inconstitucionalidad",
+      "c": "Renuncie expresamente a cualquier otra vía de reclamación",
+      "d": "Haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, habiendo alegado la inconstitucionalidad posteriormente declarada"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T06_Bloque_III_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "Se limite a esperar la declaración de inconstitucionalidad, sin necesidad de haber recurrido antes",
+        "Haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, habiendo alegado la inconstitucionalidad posteriormente declarada",
+        "Haya sido parte en el propio recurso de inconstitucionalidad",
+        "Renuncie expresamente a cualquier otra vía de reclamación"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

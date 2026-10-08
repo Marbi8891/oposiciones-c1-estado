@@ -1,0 +1,70 @@
+[
+  {
+    "id": "FC-00095",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Ad extra = LPAC 39/2015 (ciudadano); ad intra = LRJSP 40/2015 (entre Administrac...",
+    "reverso": "Ad extra = LPAC 39/2015 (ciudadano); ad intra = LRJSP 40/2015 (entre Administraciones). Se cruzan con facilidad en el examen.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c95"
+    }
+  },
+  {
+    "id": "FC-00096",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Las 5 características de seguridad del documento electrónico (CIDAT) no son las mismas que las garantías del Sistema RED (autenticación, constancia, confidencialidad, integridad, no repudio)",
+    "reverso": "Las 5 características de seguridad del documento electrónico (CIDAT) no son las mismas que las garantías del Sistema RED (autenticación, constancia, confidencialidad, integridad, no repudio) — comparten nombres pero son listas distintas para contextos distintos.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c96"
+    }
+  },
+  {
+    "id": "FC-00097",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El plazo de notificación electrónica de la AEAT: 10 días naturales para entenderse producida (por no acceso) / 90 días naturales de disponibilidad en la DEH — ¿por qué se diferencian?",
+    "reverso": "El plazo de notificación electrónica de la AEAT: 10 días naturales para entenderse producida (por no acceso) / 90 días naturales de disponibilidad en la DEH — no confundir ambos plazos.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c97"
+    }
+  },
+  {
+    "id": "FC-00098",
+    "version": 1,
+    "tema_id": "B2-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "PAE / CIRCE / DUE van siempre juntos: PAE es la red de oficinas, CIRCE el sistem...",
+    "reverso": "PAE / CIRCE / DUE van siempre juntos: PAE es la red de oficinas, CIRCE el sistema de tramitación, DUE el documento electrónico único.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c98"
+    }
+  }
+]

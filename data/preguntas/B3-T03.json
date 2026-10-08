@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000341",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El régimen jurídico-administrativo español, tras la reforma de 2015, se estructura en dos leyes: la LPAC (Ley 39/2015) y:",
+    "opciones": {
+      "a": "La Ley Orgánica del Poder Judicial",
+      "b": "La Ley 30/1992, aún vigente en paralelo",
+      "c": "La Ley 40/2015, de Régimen Jurídico del Sector Público (LRJSP)",
+      "d": "La Ley de Bases del Régimen Local"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "La Ley Orgánica del Poder Judicial",
+        "La Ley 40/2015, de Régimen Jurídico del Sector Público (LRJSP)",
+        "La Ley 30/1992, aún vigente en paralelo",
+        "La Ley de Bases del Régimen Local"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000342",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Un procedimiento administrativo puede iniciarse de oficio o:",
+    "opciones": {
+      "a": "Únicamente por denuncia de un tercero",
+      "b": "Solo mediante orden judicial",
+      "c": "A solicitud del interesado",
+      "d": "Exclusivamente por iniciativa de otros órganos administrativos"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "Únicamente por denuncia de un tercero",
+        "A solicitud del interesado",
+        "Solo mediante orden judicial",
+        "Exclusivamente por iniciativa de otros órganos administrativos"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000343",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La declaración responsable y la comunicación, según el artículo 69 de la LPAC:",
+    "opciones": {
+      "a": "Permiten el ejercicio de un derecho o el inicio de una actividad desde su presentación, sin perjuicio de las facultades de comprobación posterior",
+      "b": "Requieren autorización previa expresa de la Administración",
+      "c": "Solo pueden presentarse en procedimientos iniciados de oficio",
+      "d": "Tienen los mismos efectos que un silencio administrativo negativo"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "Requieren autorización previa expresa de la Administración",
+        "Permiten el ejercicio de un derecho o el inicio de una actividad desde su presentación, sin perjuicio de las facultades de comprobación posterior",
+        "Solo pueden presentarse en procedimientos iniciados de oficio",
+        "Tienen los mismos efectos que un silencio administrativo negativo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000344",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El período de prueba en el procedimiento administrativo, cuando resulta necesario, tiene una duración de:",
+    "opciones": {
+      "a": "Entre 5 y 15 días",
+      "b": "Entre 10 y 30 días",
+      "c": "Entre 15 y 45 días",
+      "d": "Un plazo fijo e improrrogable de 20 días"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "Entre 5 y 15 días",
+        "Entre 10 y 30 días",
+        "Entre 15 y 45 días",
+        "Un plazo fijo e improrrogable de 20 días"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000345",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El trámite de audiencia, según el artículo 82 de la LPAC, se concede por un plazo:",
+    "opciones": {
+      "a": "No inferior a 5 días ni superior a 10",
+      "b": "No inferior a 15 días ni superior a 20",
+      "c": "Fijo de 10 días, sin margen de variación",
+      "d": "No inferior a 10 días ni superior a 15"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "No inferior a 5 días ni superior a 10",
+        "No inferior a 10 días ni superior a 15",
+        "No inferior a 15 días ni superior a 20",
+        "Fijo de 10 días, sin margen de variación"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000346",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El período de información pública, cuando la naturaleza del procedimiento lo requiere, tiene una duración no inferior a:",
+    "opciones": {
+      "a": "10 días",
+      "b": "20 días",
+      "c": "15 días",
+      "d": "30 días"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "10 días",
+        "15 días",
+        "20 días",
+        "30 días"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000347",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La caducidad del procedimiento iniciado a solicitud del interesado, por paralización imputable a él, se produce transcurridos:",
+    "opciones": {
+      "a": "3 meses",
+      "b": "1 mes",
+      "c": "6 meses",
+      "d": "1 año"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "1 mes",
+        "3 meses",
+        "6 meses",
+        "1 año"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000348",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La revisión de oficio de un acto nulo de pleno derecho exige, con carácter general:",
+    "opciones": {
+      "a": "Sentencia judicial firme previa",
+      "b": "Dictamen previo favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
+      "c": "Autorización del Tribunal Constitucional",
+      "d": "El transcurso de un plazo mínimo de 10 años"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Sentencia judicial firme previa",
+        "Dictamen previo favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
+        "Autorización del Tribunal Constitucional",
+        "El transcurso de un plazo mínimo de 10 años"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000349",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El procedimiento de revisión de oficio caduca, si no se dicta resolución, transcurridos:",
+    "opciones": {
+      "a": "3 meses desde su inicio",
+      "b": "1 año desde su inicio",
+      "c": "6 meses desde su inicio",
+      "d": "4 años desde su inicio"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "3 meses desde su inicio",
+        "6 meses desde su inicio",
+        "1 año desde su inicio",
+        "4 años desde su inicio"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000350",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La declaración de lesividad de un acto favorable anulable debe adoptarse dentro del plazo de:",
+    "opciones": {
+      "a": "4 años desde que se dictó el acto",
+      "b": "1 año desde que se dictó el acto",
+      "c": "2 años desde que se dictó el acto",
+      "d": "6 años desde que se dictó el acto"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "1 año desde que se dictó el acto",
+        "2 años desde que se dictó el acto",
+        "4 años desde que se dictó el acto",
+        "6 años desde que se dictó el acto"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000351",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Una vez declarado lesivo un acto, la Administración debe impugnarlo ante la jurisdicción contencioso-administrativa en el plazo de:",
+    "opciones": {
+      "a": "15 días",
+      "b": "1 mes",
+      "c": "2 meses",
+      "d": "6 meses"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "15 días",
+        "1 mes",
+        "2 meses",
+        "6 meses"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000352",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La revocación de actos de gravamen o desfavorables, a diferencia de la revisión de actos nulos:",
+    "opciones": {
+      "a": "No puede constituir dispensa o exención no permitida por las leyes, ni ser contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
+      "b": "Requiere también dictamen previo del Consejo de Estado",
+      "c": "Solo puede ejercitarse dentro de los 4 años siguientes al acto",
+      "d": "Está reservada exclusivamente a la Administración General del Estado"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Requiere también dictamen previo del Consejo de Estado",
+        "No puede constituir dispensa o exención no permitida por las leyes, ni ser contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
+        "Solo puede ejercitarse dentro de los 4 años siguientes al acto",
+        "Está reservada exclusivamente a la Administración General del Estado"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000353",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El recurso de alzada se interpone:",
+    "opciones": {
+      "a": "Ante el mismo órgano que dictó el acto, contra actos que ponen fin a la vía administrativa",
+      "b": "Directamente ante la jurisdicción contencioso-administrativa",
+      "c": "Ante el órgano superior jerárquico, contra resoluciones y actos que no ponen fin a la vía administrativa",
+      "d": "Ante el Consejo de Estado en todo caso"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "Ante el mismo órgano que dictó el acto, contra actos que ponen fin a la vía administrativa",
+        "Ante el órgano superior jerárquico, contra resoluciones y actos que no ponen fin a la vía administrativa",
+        "Directamente ante la jurisdicción contencioso-administrativa",
+        "Ante el Consejo de Estado en todo caso"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000354",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El plazo de resolución del recurso de alzada es de 3 meses, transcurridos los cuales sin resolución expresa se entiende, como regla general:",
+    "opciones": {
+      "a": "Estimado",
+      "b": "Desestimado",
+      "c": "Caducado el procedimiento",
+      "d": "Suspendido hasta nueva solicitud"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "Estimado",
+        "Desestimado",
+        "Caducado el procedimiento",
+        "Suspendido hasta nueva solicitud"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000355",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El recurso de reposición, a diferencia del de alzada, tiene carácter:",
+    "opciones": {
+      "a": "Obligatorio antes de acudir a la vía contencioso-administrativa",
+      "b": "Exclusivo de los procedimientos tributarios",
+      "c": "Resolutorio en el plazo de 3 meses",
+      "d": "Potestativo: el interesado puede interponerlo o acudir directamente a la vía contencioso-administrativa"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "Obligatorio antes de acudir a la vía contencioso-administrativa",
+        "Potestativo: el interesado puede interponerlo o acudir directamente a la vía contencioso-administrativa",
+        "Exclusivo de los procedimientos tributarios",
+        "Resolutorio en el plazo de 3 meses"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000356",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Contra la resolución de un recurso de reposición:",
+    "opciones": {
+      "a": "Cabe interponer un nuevo recurso de reposición",
+      "b": "Cabe interponer recurso de alzada ante el mismo órgano",
+      "c": "Procede únicamente el recurso extraordinario de revisión",
+      "d": "No cabe interponer de nuevo recurso de reposición"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "Cabe interponer un nuevo recurso de reposición",
+        "No cabe interponer de nuevo recurso de reposición",
+        "Cabe interponer recurso de alzada ante el mismo órgano",
+        "Procede únicamente el recurso extraordinario de revisión"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000357",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El recurso extraordinario de revisión procede contra actos firmes en vía administrativa únicamente por 4 causas tasadas; el plazo para interponerlo por error de hecho es de 4 años, mientras que para las otras tres causas (documentos esenciales, falsedad declarada o conducta punible declarada por sentencia) el plazo es de:",
+    "opciones": {
+      "a": "1 mes",
+      "b": "3 meses",
+      "c": "6 meses",
+      "d": "1 año"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "1 mes",
+        "3 meses",
+        "6 meses",
+        "1 año"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000358",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Ley 29/1998, reguladora de la Jurisdicción Contencioso-Administrativa, atribuye a este orden jurisdiccional el conocimiento de la responsabilidad patrimonial de las Administraciones Públicas:",
+    "opciones": {
+      "a": "Solo cuando la actividad dañosa derive de una relación jurídico-administrativa",
+      "b": "Compartida con el orden civil, a elección del perjudicado",
+      "c": "Solo en los casos en que el daño supere una determinada cuantía",
+      "d": "De forma exclusiva, cualquiera que sea la naturaleza de la actividad o el tipo de relación, no pudiendo demandarse por este motivo ante los órdenes civil o social"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "Solo cuando la actividad dañosa derive de una relación jurídico-administrativa",
+        "De forma exclusiva, cualquiera que sea la naturaleza de la actividad o el tipo de relación, no pudiendo demandarse por este motivo ante los órdenes civil o social",
+        "Compartida con el orden civil, a elección del perjudicado",
+        "Solo en los casos en que el daño supere una determinada cuantía"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000359",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Quedan fuera del conocimiento del orden contencioso-administrativo, entre otros supuestos:",
+    "opciones": {
+      "a": "Las cuestiones de índole civil, penal o social, aunque estén relacionadas con actos de la Administración",
+      "b": "Los contratos administrativos",
+      "c": "La inactividad de la Administración",
+      "d": "Las disposiciones generales de rango inferior a la ley"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Los contratos administrativos",
+        "Las cuestiones de índole civil, penal o social, aunque estén relacionadas con actos de la Administración",
+        "La inactividad de la Administración",
+        "Las disposiciones generales de rango inferior a la ley"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000360",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los recursos contra actos relativos a las Normas Forales fiscales de los Territorios Históricos vascos:",
+    "opciones": {
+      "a": "Se conocen por el orden contencioso-administrativo ordinario",
+      "b": "Corresponden al Tribunal Supremo en única instancia",
+      "c": "No son recurribles en ningún caso",
+      "d": "Son competencia exclusiva del Tribunal Constitucional"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_III_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "Se conocen por el orden contencioso-administrativo ordinario",
+        "Son competencia exclusiva del Tribunal Constitucional",
+        "Corresponden al Tribunal Supremo en única instancia",
+        "No son recurribles en ningún caso"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

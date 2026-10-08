@@ -1,0 +1,744 @@
+[
+  {
+    "id": "Q-000481",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La ejecución de programas de carácter temporal, como causa de nombramiento de funcionario interino, no podrá tener una duración superior a tres años, ampliable hasta:",
+    "opciones": {
+      "a": "12 meses más",
+      "b": "6 meses más",
+      "c": "18 meses más",
+      "d": "24 meses más"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "6 meses más",
+        "12 meses más",
+        "18 meses más",
+        "24 meses más"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000482",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El exceso o acumulación de tareas, como causa de nombramiento de funcionario interino, tiene un plazo máximo de:",
+    "opciones": {
+      "a": "3 meses dentro de un periodo de 6 meses",
+      "b": "6 meses dentro de un periodo de 12 meses",
+      "c": "12 meses dentro de un periodo de 24 meses",
+      "d": "9 meses dentro de un periodo de 18 meses"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "3 meses dentro de un periodo de 6 meses",
+        "6 meses dentro de un periodo de 12 meses",
+        "9 meses dentro de un periodo de 18 meses",
+        "12 meses dentro de un periodo de 24 meses"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación.",
+      "Enunciado duplicado de Q-000447.",
+      "[2026-10-07T15:54:27+00:00] Clave contrastada con BOE (VER-0001): coincide con el texto vigente. Sigue en revisión porque le faltan explicación, epígrafe y concepto."
+    ]
+  },
+  {
+    "id": "Q-000483",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Cuerpo de Gestión, que desarrolla funciones de tramitación y gestión no atribuidas a Cuerpos Superiores, fue creado por:",
+    "opciones": {
+      "a": "La Disposición Adicional 9ª de la Ley 30/1984",
+      "b": "El artículo 23 de la Ley de Funcionarios Civiles del Estado de 1964",
+      "c": "El artículo 76 del TREBEP",
+      "d": "La Disposición Adicional 2ª de la Ley 30/1984"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "La Disposición Adicional 9ª de la Ley 30/1984",
+        "La Disposición Adicional 2ª de la Ley 30/1984",
+        "El artículo 23 de la Ley de Funcionarios Civiles del Estado de 1964",
+        "El artículo 76 del TREBEP"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000484",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los Cuerpos Especiales, también llamados Cuerpos Departamentales, se caracterizan porque:",
+    "opciones": {
+      "a": "Desempeñan funciones comunes al ejercicio de la actividad administrativa",
+      "b": "Están en vías de extinción y son sustituidos por personal laboral",
+      "c": "Ejercen actividades que constituyen el objeto de una peculiar carrera o profesión y están adscritos a Departamentos ministeriales concretos",
+      "d": "Solo existen en la Administración Local"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "Desempeñan funciones comunes al ejercicio de la actividad administrativa",
+        "Ejercen actividades que constituyen el objeto de una peculiar carrera o profesión y están adscritos a Departamentos ministeriales concretos",
+        "Están en vías de extinción y son sustituidos por personal laboral",
+        "Solo existen en la Administración Local"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000485",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Conforme a la Disposición Transitoria 3ª del TREBEP, los funcionarios del Subgrupo C1 que reúnan la titulación exigida:",
+    "opciones": {
+      "a": "No pueden promocionar nunca al Grupo A",
+      "b": "Pueden promocionar directamente al Grupo A, sin pasar por el Grupo B",
+      "c": "Deben pasar obligatoriamente por el Grupo B antes de acceder al Grupo A",
+      "d": "Solo pueden promocionar al Grupo C2"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "No pueden promocionar nunca al Grupo A",
+        "Pueden promocionar directamente al Grupo A, sin pasar por el Grupo B",
+        "Deben pasar obligatoriamente por el Grupo B antes de acceder al Grupo A",
+        "Solo pueden promocionar al Grupo C2"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000486",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Corresponde al Instituto Nacional de Administración Pública (INAP):",
+    "opciones": {
+      "a": "La aprobación de la Oferta de Empleo Público",
+      "b": "El nombramiento de los funcionarios de carrera",
+      "c": "La resolución de los recursos contra los órganos de selección",
+      "d": "La coordinación, control y, en su caso, realización de los cursos de selección, formación y perfeccionamiento de los funcionarios de la Administración del Estado"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "La aprobación de la Oferta de Empleo Público",
+        "La coordinación, control y, en su caso, realización de los cursos de selección, formación y perfeccionamiento de los funcionarios de la Administración del Estado",
+        "El nombramiento de los funcionarios de carrera",
+        "La resolución de los recursos contra los órganos de selección"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000487",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los Planes de Empleo previstos en el artículo 18 de la Ley 30/1984 se aprueban por:",
+    "opciones": {
+      "a": "El Secretario General para la Administración Pública, con informe favorable de Economía y Hacienda y previa negociación con las Organizaciones Sindicales",
+      "b": "El Gobierno, a propuesta del Ministro para las Administraciones Públicas",
+      "c": "El Consejo de Ministros, sin necesidad de informe previo",
+      "d": "La Dirección General de la Función Pública, de forma unilateral"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "El Gobierno, a propuesta del Ministro para las Administraciones Públicas",
+        "El Secretario General para la Administración Pública, con informe favorable de Economía y Hacienda y previa negociación con las Organizaciones Sindicales",
+        "El Consejo de Ministros, sin necesidad de informe previo",
+        "La Dirección General de la Función Pública, de forma unilateral"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000488",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los Tribunales de selección regulados en el RD 364/1995, para el ingreso de funcionarios de carrera, estarán constituidos por un número impar de miembros, funcionarios de carrera, no inferior a:",
+    "opciones": {
+      "a": "5",
+      "b": "3",
+      "c": "7",
+      "d": "9"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000489",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "No podrán formar parte de los órganos de selección aquellos funcionarios que hubiesen realizado tareas de preparación de aspirantes a pruebas selectivas en los años anteriores a la convocatoria en un plazo de:",
+    "opciones": {
+      "a": "5 años",
+      "b": "2 años",
+      "c": "3 años",
+      "d": "10 años"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "2 años",
+        "3 años",
+        "5 años",
+        "10 años"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000490",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Entre el contenido mínimo de las convocatorias, desde la total conclusión de un ejercicio o prueba hasta el comienzo del siguiente deberá transcurrir un plazo:",
+    "opciones": {
+      "a": "Mínimo de 24 horas y máximo de 15 días naturales",
+      "b": "Mínimo de 72 horas y máximo de 45 días naturales",
+      "c": "Mínimo de 48 horas y máximo de 30 días naturales",
+      "d": "Mínimo de 72 horas y máximo de 60 días naturales"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "Mínimo de 24 horas y máximo de 15 días naturales",
+        "Mínimo de 48 horas y máximo de 30 días naturales",
+        "Mínimo de 72 horas y máximo de 45 días naturales",
+        "Mínimo de 72 horas y máximo de 60 días naturales"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000491",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El plazo de presentación de solicitudes para participar en los procedimientos de ingreso, según el RD 364/1995 en su redacción original, es de 20 días naturales; la Orden HFP/688/2017, que armoniza el cómputo con la Ley 39/2015, lo fija en:",
+    "opciones": {
+      "a": "20 días naturales, sin cambios",
+      "b": "15 días hábiles",
+      "c": "20 días hábiles",
+      "d": "30 días hábiles"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "20 días naturales, sin cambios",
+        "15 días hábiles",
+        "20 días hábiles",
+        "30 días hábiles"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000492",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los anuncios de celebración de pruebas sucesivas, una vez comenzado el proceso selectivo, deben hacerse públicos con una antelación mínima de:",
+    "opciones": {
+      "a": "24 horas si es el mismo ejercicio y 12 horas si es un ejercicio nuevo",
+      "b": "12 horas si es el mismo ejercicio y 24 horas si es un ejercicio nuevo",
+      "c": "48 horas en todo caso",
+      "d": "24 horas en todo caso, sin distinción"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "12 horas si es el mismo ejercicio y 24 horas si es un ejercicio nuevo",
+        "24 horas si es el mismo ejercicio y 12 horas si es un ejercicio nuevo",
+        "48 horas en todo caso",
+        "24 horas en todo caso, sin distinción"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000493",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El proceso selectivo puede comprender, además de las pruebas selectivas, un curso selectivo o un período de prácticas. El número de aprobados en las pruebas selectivas podrá ser superior al de plazas convocadas:",
+    "opciones": {
+      "a": "En ambos casos, curso selectivo y período de prácticas",
+      "b": "Solo cuando el proceso comprenda un período de prácticas",
+      "c": "Solo cuando el proceso comprenda un curso selectivo",
+      "d": "Nunca, en ningún caso"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "En ambos casos, curso selectivo y período de prácticas",
+        "Solo cuando el proceso comprenda un curso selectivo",
+        "Solo cuando el proceso comprenda un período de prácticas",
+        "Nunca, en ningún caso"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000494",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Concluido el proceso selectivo, los aspirantes que lo hubieran superado serán nombrados funcionarios de carrera por:",
+    "opciones": {
+      "a": "El Ministro correspondiente",
+      "b": "El Director General de la Función Pública",
+      "c": "El Consejo de Ministros",
+      "d": "El Secretario de Estado para la Administración Pública"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "El Ministro correspondiente",
+        "El Secretario de Estado para la Administración Pública",
+        "El Director General de la Función Pública",
+        "El Consejo de Ministros"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000495",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El nombramiento del personal funcionario interino se efectúa por el Subsecretario del Departamento al que figuren adscritos los correspondientes Cuerpos y Escalas, o, cuando se trate de Cuerpos y Escalas dependientes de la Secretaría de Estado para la Administración Pública, por:",
+    "opciones": {
+      "a": "El Ministro de la Presidencia",
+      "b": "El propio Secretario de Estado",
+      "c": "El Director General de la Función Pública",
+      "d": "El Subsecretario del Ministerio de Hacienda"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "El Ministro de la Presidencia",
+        "El Director General de la Función Pública",
+        "El propio Secretario de Estado",
+        "El Subsecretario del Ministerio de Hacienda"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000496",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Conforme a la Orden APU/1461/2002, en el concurso de selección de funcionarios interinos, a la experiencia profesional corresponde:",
+    "opciones": {
+      "a": "Un máximo del 20% del baremo",
+      "b": "Entre el 30 y el 70% del valor total del baremo",
+      "c": "El 100% del baremo, siempre",
+      "d": "Un mínimo del 80% del baremo"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "Entre el 30 y el 70% del valor total del baremo",
+        "Un máximo del 20% del baremo",
+        "El 100% del baremo, siempre",
+        "Un mínimo del 80% del baremo"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000497",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En el mismo baremo de selección de interinos, puede valorarse, con hasta el 50% del valor asignado al apartado de conocimientos y formación, la superación de ejercicios en pruebas selectivas de acceso como funcionario de carrera, siempre que dichas pruebas se hayan celebrado en los:",
+    "opciones": {
+      "a": "6 meses anteriores",
+      "b": "1 año anterior",
+      "c": "2 años anteriores",
+      "d": "5 años anteriores"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "6 meses anteriores",
+        "1 año anterior",
+        "2 años anteriores",
+        "5 años anteriores"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000498",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Tribunal para la selección de funcionarios interinos, conforme al RD 365/1995, estará formado por un número impar de miembros no inferior a:",
+    "opciones": {
+      "a": "5",
+      "b": "7",
+      "c": "9",
+      "d": "3"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000499",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Para efectuar el nombramiento de personal funcionario interino, conforme a la Orden APU/1461/2002, se requiere:",
+    "opciones": {
+      "a": "Autorización conjunta de los Ministerios de Administraciones Públicas y de Hacienda",
+      "b": "Autorización exclusiva del Ministro para las Administraciones Públicas",
+      "c": "Autorización del Consejo de Estado",
+      "d": "No se requiere ninguna autorización adicional"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Autorización exclusiva del Ministro para las Administraciones Públicas",
+        "Autorización conjunta de los Ministerios de Administraciones Públicas y de Hacienda",
+        "Autorización del Consejo de Estado",
+        "No se requiere ninguna autorización adicional"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000500",
+    "version": 1,
+    "tema_id": "B4-T03",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Entre las causas de revocación del nombramiento de un funcionario interino se encuentran, entre otras:",
+    "opciones": {
+      "a": "Exclusivamente el transcurso de un año desde el nombramiento",
+      "b": "La cobertura de la plaza por funcionario de carrera y la amortización sobrevenida de la plaza",
+      "c": "La superación de un curso de formación por el propio interino",
+      "d": "La jubilación del Ministro del Departamento correspondiente"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T03_Bloque_IV_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "La cobertura de la plaza por funcionario de carrera y la amortización sobrevenida de la plaza",
+        "Exclusivamente el transcurso de un año desde el nombramiento",
+        "La superación de un curso de formación por el propio interino",
+        "La jubilación del Ministro del Departamento correspondiente"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

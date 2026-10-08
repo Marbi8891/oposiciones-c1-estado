@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000421",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El sexo y el género son conceptos distintos porque:",
+    "opciones": {
+      "a": "Ambos son conceptos biológicos idénticos",
+      "b": "El género es biológico y el sexo es sociocultural",
+      "c": "Son sinónimos que se usan indistintamente en la LO 3/2007",
+      "d": "El sexo es un concepto biológico y el género una concepción sociocultural de roles y estereotipos"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "Ambos son conceptos biológicos idénticos",
+        "El sexo es un concepto biológico y el género una concepción sociocultural de roles y estereotipos",
+        "El género es biológico y el sexo es sociocultural",
+        "Son sinónimos que se usan indistintamente en la LO 3/2007"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000422",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La igualdad de oportunidades resulta de la suma de:",
+    "opciones": {
+      "a": "Exclusivamente el principio de no discriminación por razón de sexo",
+      "b": "La igualdad formal (art. 14 CE) y la igualdad material o real (art. 9.2 CE)",
+      "c": "La igualdad ante la ley y la igualdad salarial",
+      "d": "El principio de mérito y capacidad"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "La igualdad formal (art. 14 CE) y la igualdad material o real (art. 9.2 CE)",
+        "Exclusivamente el principio de no discriminación por razón de sexo",
+        "La igualdad ante la ley y la igualdad salarial",
+        "El principio de mérito y capacidad"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000423",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Se considera discriminación indirecta por razón de sexo:",
+    "opciones": {
+      "a": "El despido directo de una trabajadora por causa de embarazo",
+      "b": "Una disposición, criterio o práctica aparentemente neutros que ponen a un sexo en desventaja particular, sin justificación objetiva",
+      "c": "Cualquier comentario despectivo hacia las mujeres realizado en público",
+      "d": "La contratación exclusiva de mujeres para un puesto determinado"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "El despido directo de una trabajadora por causa de embarazo",
+        "Una disposición, criterio o práctica aparentemente neutros que ponen a un sexo en desventaja particular, sin justificación objetiva",
+        "Cualquier comentario despectivo hacia las mujeres realizado en público",
+        "La contratación exclusiva de mujeres para un puesto determinado"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000424",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La diferencia esencial entre el acoso sexual y el acoso por razón de sexo radica en que:",
+    "opciones": {
+      "a": "El acoso sexual tiene naturaleza sexual en el comportamiento, mientras que el acoso por razón de sexo no la tiene",
+      "b": "Solo el acoso sexual puede ser sancionado administrativamente",
+      "c": "El acoso por razón de sexo solo puede cometerlo un superior jerárquico",
+      "d": "No existe diferencia jurídica entre ambos conceptos"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "Solo el acoso sexual puede ser sancionado administrativamente",
+        "El acoso sexual tiene naturaleza sexual en el comportamiento, mientras que el acoso por razón de sexo no la tiene",
+        "El acoso por razón de sexo solo puede cometerlo un superior jerárquico",
+        "No existe diferencia jurídica entre ambos conceptos"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000425",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La LO 3/2007, para la igualdad efectiva de mujeres y hombres, desarrolla los artículos de la Constitución Española:",
+    "opciones": {
+      "a": "9.2 y 14",
+      "b": "14 y 23",
+      "c": "103 y 106",
+      "d": "9.3 y 24"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "14 y 23",
+        "9.2 y 14",
+        "103 y 106",
+        "9.3 y 24"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000426",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El principio de transversalidad o \"mainstreaming de género\" consiste en:",
+    "opciones": {
+      "a": "Integrar activamente el principio de igualdad en la adopción y ejecución de todas las disposiciones normativas y políticas públicas",
+      "b": "Crear un ministerio específico exclusivamente dedicado a la igualdad",
+      "c": "Establecer cuotas obligatorias del 50% en todas las instituciones",
+      "d": "Prohibir cualquier tratamiento diferenciado entre hombres y mujeres"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "Crear un ministerio específico exclusivamente dedicado a la igualdad",
+        "Integrar activamente el principio de igualdad en la adopción y ejecución de todas las disposiciones normativas y políticas públicas",
+        "Establecer cuotas obligatorias del 50% en todas las instituciones",
+        "Prohibir cualquier tratamiento diferenciado entre hombres y mujeres"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000427",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según la LO 3/2007, la elaboración de planes de igualdad es obligatoria en las empresas que tengan:",
+    "opciones": {
+      "a": "25 o más trabajadores",
+      "b": "100 o más trabajadores",
+      "c": "50 o más trabajadores",
+      "d": "Cualquier número de trabajadores, sin excepción"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "25 o más trabajadores",
+        "50 o más trabajadores",
+        "100 o más trabajadores",
+        "Cualquier número de trabajadores, sin excepción"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000428",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado se aprueba:",
+    "opciones": {
+      "a": "Cada 10 años por el Congreso de los Diputados",
+      "b": "Anualmente por cada Ministerio de forma independiente",
+      "c": "Una única vez, sin necesidad de revisión posterior",
+      "d": "Al inicio de cada legislatura por el Gobierno, siendo evaluado anualmente por el Consejo de Ministros"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Cada 10 años por el Congreso de los Diputados",
+        "Al inicio de cada legislatura por el Gobierno, siendo evaluado anualmente por el Consejo de Ministros",
+        "Anualmente por cada Ministerio de forma independiente",
+        "Una única vez, sin necesidad de revisión posterior"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000429",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La IV Conferencia Mundial para la Mujer, hito destacado de las políticas de igualdad en el ámbito de Naciones Unidas, se celebró en:",
+    "opciones": {
+      "a": "Nueva York, 1985",
+      "b": "Ginebra, 2000",
+      "c": "Viena, 1993",
+      "d": "Pekín, 1995"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "Nueva York, 1985",
+        "Pekín, 1995",
+        "Ginebra, 2000",
+        "Viena, 1993"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000430",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La LO 1/2004, de medidas de protección integral contra la violencia de género, define la violencia de género como la ejercida sobre la mujer por quienes sean o hayan sido sus cónyuges o estén o hayan estado ligados a ellas por relación de afectividad análoga:",
+    "opciones": {
+      "a": "Únicamente si existe convivencia en el momento de los hechos",
+      "b": "Solo si el vínculo matrimonial sigue vigente",
+      "c": "Aun sin convivencia",
+      "d": "Exclusivamente entre personas del mismo domicilio"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "Únicamente si existe convivencia en el momento de los hechos",
+        "Aun sin convivencia",
+        "Solo si el vínculo matrimonial sigue vigente",
+        "Exclusivamente entre personas del mismo domicilio"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000431",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La denominada \"violencia vicaria\", incorporada al concepto de violencia de género de la LO 1/2004, consiste en:",
+    "opciones": {
+      "a": "La violencia que un cónyuge ejerce sobre otro cónyuge del mismo sexo",
+      "b": "La violencia ejercida sobre los hijos o familiares menores de edad con el objetivo de causar perjuicio o daño a la mujer",
+      "c": "La violencia ejercida por una mujer sobre otra mujer",
+      "d": "La violencia derivada exclusivamente del ámbito laboral"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "La violencia que un cónyuge ejerce sobre otro cónyuge del mismo sexo",
+        "La violencia ejercida sobre los hijos o familiares menores de edad con el objetivo de causar perjuicio o daño a la mujer",
+        "La violencia ejercida por una mujer sobre otra mujer",
+        "La violencia derivada exclusivamente del ámbito laboral"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000432",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las mujeres víctimas de violencia de género que acrediten insuficiencia de recursos para litigar tienen derecho a:",
+    "opciones": {
+      "a": "Solo asesoramiento telefónico gratuito",
+      "b": "Asistencia jurídica gratuita únicamente en el orden penal",
+      "c": "Asistencia jurídica gratuita con defensa y representación por abogado y procurador, manteniendo la misma dirección letrada en todos los procesos relacionados",
+      "d": "Representación gratuita solo si el agresor también carece de recursos"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Asistencia jurídica gratuita con defensa y representación por abogado y procurador, manteniendo la misma dirección letrada en todos los procesos relacionados",
+        "Solo asesoramiento telefónico gratuito",
+        "Asistencia jurídica gratuita únicamente en el orden penal",
+        "Representación gratuita solo si el agresor también carece de recursos"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000433",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La ayuda económica de pago único para víctimas de violencia de género sin rentas suficientes equivale, en su cuantía base, a:",
+    "opciones": {
+      "a": "6 meses de subsidio por desempleo",
+      "b": "3 meses de subsidio por desempleo",
+      "c": "12 meses de subsidio por desempleo",
+      "d": "24 meses de subsidio por desempleo"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "3 meses de subsidio por desempleo",
+        "6 meses de subsidio por desempleo",
+        "12 meses de subsidio por desempleo",
+        "24 meses de subsidio por desempleo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000434",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Corresponde a la Delegación del Gobierno contra la Violencia sobre la Mujer, entre otras funciones:",
+    "opciones": {
+      "a": "Dictar sentencias condenatorias en materia de violencia de género",
+      "b": "Proponer la política del Gobierno en relación con la violencia sobre la mujer y elaborar la Macroencuesta de Violencia contra las Mujeres",
+      "c": "Ejercer la acción penal en representación del Ministerio Fiscal",
+      "d": "Fijar las cuantías de las pensiones de viudedad"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "Dictar sentencias condenatorias en materia de violencia de género",
+        "Proponer la política del Gobierno en relación con la violencia sobre la mujer y elaborar la Macroencuesta de Violencia contra las Mujeres",
+        "Ejercer la acción penal en representación del Ministerio Fiscal",
+        "Fijar las cuantías de las pensiones de viudedad"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000435",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el enfoque biosocial consagrado por la Convención de la ONU de 2006, la discapacidad resulta de:",
+    "opciones": {
+      "a": "La interacción entre personas con deficiencias previsiblemente permanentes y las barreras del entorno que limitan su participación plena en la sociedad",
+      "b": "Exclusivamente una deficiencia física o mental de la persona",
+      "c": "Una situación transitoria que desaparece con el tratamiento médico adecuado",
+      "d": "La calificación administrativa de un grado de minusvalía, sin relación con el entorno"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "Exclusivamente una deficiencia física o mental de la persona",
+        "La interacción entre personas con deficiencias previsiblemente permanentes y las barreras del entorno que limitan su participación plena en la sociedad",
+        "Una situación transitoria que desaparece con el tratamiento médico adecuado",
+        "La calificación administrativa de un grado de minusvalía, sin relación con el entorno"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000436",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Real Decreto Legislativo 1/2013 refunde, entre otras, las siguientes leyes:",
+    "opciones": {
+      "a": "La LO 3/2007 y la LO 1/2004",
+      "b": "La Ley 39/2006 y la Ley 40/2015",
+      "c": "La LPAC y la LRJSP",
+      "d": "La Ley 13/1982 de integración social de las personas con discapacidad y la Ley 51/2003 de igualdad de oportunidades, no discriminación y accesibilidad universal"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "La LO 3/2007 y la LO 1/2004",
+        "La Ley 13/1982 de integración social de las personas con discapacidad y la Ley 51/2003 de igualdad de oportunidades, no discriminación y accesibilidad universal",
+        "La Ley 39/2006 y la Ley 40/2015",
+        "La LPAC y la LRJSP"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000437",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En el ámbito de la discapacidad, la discriminación por asociación se produce cuando:",
+    "opciones": {
+      "a": "Una persona con discapacidad es tratada peor que otra en situación análoga",
+      "b": "Una empresa se asocia con otra para promover la discapacidad",
+      "c": "Se deniega el acceso a una asociación de personas con discapacidad",
+      "d": "Una persona o grupo es objeto de trato discriminatorio debido a su relación con otra persona con discapacidad"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "Una persona con discapacidad es tratada peor que otra en situación análoga",
+        "Una persona o grupo es objeto de trato discriminatorio debido a su relación con otra persona con discapacidad",
+        "Una empresa se asocia con otra para promover la discapacidad",
+        "Se deniega el acceso a una asociación de personas con discapacidad"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000438",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El diseño universal o diseño para todas las personas se define como aquella actividad que:",
+    "opciones": {
+      "a": "Excluye siempre los productos de apoyo específicos para personas con discapacidad",
+      "b": "Solo se aplica a los edificios de nueva construcción",
+      "c": "Concibe entornos, productos y servicios desde el origen para ser utilizados por todas las personas sin necesidad de adaptación, sin excluir productos de apoyo cuando se necesiten",
+      "d": "Es sinónimo exacto de accesibilidad cognitiva, sin relación con el resto de la accesibilidad universal"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "Excluye siempre los productos de apoyo específicos para personas con discapacidad",
+        "Concibe entornos, productos y servicios desde el origen para ser utilizados por todas las personas sin necesidad de adaptación, sin excluir productos de apoyo cuando se necesiten",
+        "Solo se aplica a los edificios de nueva construcción",
+        "Es sinónimo exacto de accesibilidad cognitiva, sin relación con el resto de la accesibilidad universal"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000439",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La dependencia, según la Ley 39/2006, se distingue de la discapacidad en que:",
+    "opciones": {
+      "a": "Son conceptos idénticos y siempre coinciden en la misma persona",
+      "b": "La dependencia solo puede derivar de una discapacidad reconocida oficialmente",
+      "c": "La dependencia consiste en la falta de autonomía personal y puede concurrir en personas con discapacidad o por otras causas, como la edad avanzada",
+      "d": "La discapacidad siempre implica dependencia y viceversa"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Son conceptos idénticos y siempre coinciden en la misma persona",
+        "La dependencia consiste en la falta de autonomía personal y puede concurrir en personas con discapacidad o por otras causas, como la edad avanzada",
+        "La dependencia solo puede derivar de una discapacidad reconocida oficialmente",
+        "La discapacidad siempre implica dependencia y viceversa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000440",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según la Ley 39/2006, el Grado III de dependencia (gran dependencia) se caracteriza por:",
+    "opciones": {
+      "a": "Necesitar ayuda una vez al día para alguna actividad básica",
+      "b": "Necesitar ayuda varias veces al día por pérdida total de autonomía física, mental, intelectual o sensorial, precisando apoyo indispensable y continuo",
+      "c": "No necesitar ningún tipo de ayuda externa",
+      "d": "Ser un grado exclusivamente aplicable a menores de edad"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T07_Bloque_III_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "Necesitar ayuda una vez al día para alguna actividad básica",
+        "Necesitar ayuda varias veces al día por pérdida total de autonomía física, mental, intelectual o sensorial, precisando apoyo indispensable y continuo",
+        "No necesitar ningún tipo de ayuda externa",
+        "Ser un grado exclusivamente aplicable a menores de edad"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

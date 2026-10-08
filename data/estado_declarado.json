@@ -1,0 +1,248 @@
+{
+  "fuente_id": "SRC-LEGACY-0002",
+  "fecha_estado": "2026-08-30",
+  "temas": {
+    "B1-T01": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-29",
+      "repasos_referencia": [
+        "2026-09-05",
+        "2026-09-19",
+        "2026-10-13"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T02": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-09-06",
+        "2026-09-20",
+        "2026-10-14"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T03": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-09-06",
+        "2026-09-20",
+        "2026-10-14"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T04": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-09-06",
+        "2026-09-20",
+        "2026-10-14"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T05": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-09-06",
+        "2026-09-20",
+        "2026-10-14"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T06": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T07": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T08": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T09": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T10": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B1-T11": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B2-T01": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-29",
+      "repasos_referencia": [
+        "2026-09-05",
+        "2026-09-19",
+        "2026-10-13"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B2-T02": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-29",
+      "repasos_referencia": [
+        "2026-09-05",
+        "2026-09-19",
+        "2026-10-13"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B2-T03": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-29",
+      "repasos_referencia": [
+        "2026-09-05",
+        "2026-09-19",
+        "2026-10-13"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B2-T04": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-29",
+      "repasos_referencia": [
+        "2026-09-05",
+        "2026-09-19",
+        "2026-10-13"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B3-T01": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B3-T02": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B3-T03": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B3-T04": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B3-T05": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B3-T06": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    },
+    "B3-T07": {
+      "estado_declarado": "Estudiado (1ª pasada)",
+      "dominio_declarado": 2,
+      "primera_pasada": "2026-08-30",
+      "repasos_referencia": [
+        "2026-08-31",
+        "2026-09-06",
+        "2026-09-29"
+      ],
+      "test_resuelto": "Pendiente"
+    }
+  }
+}

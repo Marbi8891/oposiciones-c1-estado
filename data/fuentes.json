@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SRC-LEGACY-0001",
+    "tipo": "seguimiento_propio",
+    "titulo": "00_SEGUIMIENTO.md (sistema anterior, 29/08/2026)",
+    "ruta": "legacy/sistema_anterior/00_SEGUIMIENTO.md",
+    "sha256": "fce531c65d95e604e839b300403bfd6a700212e09c3622c0184212aecaa579b8",
+    "fecha_registro": "2026-10-07",
+    "nota": "Títulos del programa copiados por el alumno; pendiente cotejar con el anexo de la convocatoria en BOE."
+  },
+  {
+    "id": "SRC-LEGACY-0002",
+    "tipo": "seguimiento_propio",
+    "titulo": "PROGRESO.md (sistema anterior, 30/08/2026)",
+    "ruta": "legacy/sistema_anterior/PROGRESO.md",
+    "sha256": "34c483cae173df01c25f0e8c39b2d34318d7c38c02ab80b99f5fda23a2b094a0",
+    "fecha_registro": "2026-10-07",
+    "nota": "Estado declarado; el dominio 2/5 era provisional, sin test resuelto."
+  },
+  {
+    "id": "SRC-CHULETA-0001",
+    "tipo": "resumen_propio",
+    "titulo": "chuleta-c1 index.html (Marbi8891/chuleta-c1@9521df5)",
+    "ruta": "https://github.com/Marbi8891/chuleta-c1",
+    "sha256": "cf0a91044ca2e8169bba6bf3c10fafc2774309993e4d77cc505ec11441336e4a",
+    "fecha_registro": "2026-10-07",
+    "nota": "Resúmenes y tests generados en el sistema anterior a partir del temario de la academia. Material secundario: no sustituye al PDF del temario."
+  }
+]

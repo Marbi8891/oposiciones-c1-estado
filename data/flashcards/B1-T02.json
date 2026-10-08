@@ -1,0 +1,70 @@
+[
+  {
+    "id": "FC-00005",
+    "version": 1,
+    "tema_id": "B1-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "No confundir tutela (institución civil, art. 60) con regencia (institución política, art. 59)",
+    "reverso": "No confundir tutela (institución civil, art. 60) con regencia (institución política, art. 59) — tienen requisitos y órdenes de designación distintos.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c5"
+    }
+  },
+  {
+    "id": "FC-00006",
+    "version": 1,
+    "tema_id": "B1-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El Rey NO puede autorizar indultos generales (solo el derecho de gracia individu...",
+    "reverso": "El Rey NO puede autorizar indultos generales (solo el derecho de gracia individual, con arreglo a la ley).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c6"
+    }
+  },
+  {
+    "id": "FC-00007",
+    "version": 1,
+    "tema_id": "B1-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Refrendo del art. 99 (disolución) y de la propuesta/nombramiento del Presidente...",
+    "reverso": "Refrendo del art. 99 (disolución) y de la propuesta/nombramiento del Presidente del Gobierno: corresponde al Presidente del Congreso, no al Presidente del Gobierno.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c7"
+    }
+  },
+  {
+    "id": "FC-00008",
+    "version": 1,
+    "tema_id": "B1-T02",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El orden de sucesión prefiere varón sobre mujer en igual grado",
+    "reverso": "El orden de sucesión prefiere varón sobre mujer en igual grado — es una excepción expresa al art. 14 CE, muy citada en examen.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c8"
+    }
+  }
+]

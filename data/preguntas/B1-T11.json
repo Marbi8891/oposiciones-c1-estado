@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000201",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Consejo Europeo, según el Tratado de Lisboa:",
+    "opciones": {
+      "a": "Ejerce la función legislativa junto con el Parlamento Europeo",
+      "b": "Está compuesto por los Ministros de Asuntos Exteriores de cada Estado",
+      "c": "Da a la Unión los impulsos necesarios para su desarrollo y define sus orientaciones políticas generales, sin ejercer función legislativa",
+      "d": "Tiene su sede en Estrasburgo"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "Ejerce la función legislativa junto con el Parlamento Europeo",
+        "Da a la Unión los impulsos necesarios para su desarrollo y define sus orientaciones políticas generales, sin ejercer función legislativa",
+        "Está compuesto por los Ministros de Asuntos Exteriores de cada Estado",
+        "Tiene su sede en Estrasburgo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000202",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Presidente del Consejo Europeo es elegido por:",
+    "opciones": {
+      "a": "Sufragio universal directo de los ciudadanos europeos",
+      "b": "El Parlamento Europeo por mayoría absoluta",
+      "c": "Los Jefes de Estado por unanimidad, para un mandato de 5 años",
+      "d": "El propio Consejo Europeo, por mayoría cualificada, para un mandato de 2 años y medio renovable una sola vez"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "Sufragio universal directo de los ciudadanos europeos",
+        "El Parlamento Europeo por mayoría absoluta",
+        "El propio Consejo Europeo, por mayoría cualificada, para un mandato de 2 años y medio renovable una sola vez",
+        "Los Jefes de Estado por unanimidad, para un mandato de 5 años"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000203",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Consejo de la Unión Europea ejerce la función legislativa y presupuestaria:",
+    "opciones": {
+      "a": "Conjuntamente con el Parlamento Europeo",
+      "b": "En solitario, sin intervención de otras instituciones",
+      "c": "Conjuntamente con el Tribunal de Justicia",
+      "d": "Solo en materia de agricultura y pesca"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "En solitario, sin intervención de otras instituciones",
+        "Conjuntamente con el Parlamento Europeo",
+        "Conjuntamente con el Tribunal de Justicia",
+        "Solo en materia de agricultura y pesca"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000204",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La presidencia de las formaciones del Consejo (salvo Asuntos Exteriores) se ejerce mediante rotación entre los Estados miembros durante un período de:",
+    "opciones": {
+      "a": "3 meses",
+      "b": "1 año",
+      "c": "2 años y medio",
+      "d": "6 meses"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "3 meses",
+        "6 meses",
+        "1 año",
+        "2 años y medio"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000205",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Desde el 1 de noviembre de 2014, cuando el Consejo actúa a propuesta de la Comisión, la mayoría cualificada exige, entre otras condiciones:",
+    "opciones": {
+      "a": "Mínimo del 55% de los miembros del Consejo, que representen al menos el 65% de la población de la Unión",
+      "b": "Unanimidad absoluta de todos los Estados miembros",
+      "c": "Mínimo del 33% de los miembros del Consejo",
+      "d": "Mayoría simple sin más requisitos"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "Mínimo del 55% de los miembros del Consejo, que representen al menos el 65% de la población de la Unión",
+        "Unanimidad absoluta de todos los Estados miembros",
+        "Mínimo del 33% de los miembros del Consejo",
+        "Mayoría simple sin más requisitos"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000206",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los diputados del Parlamento Europeo son elegidos, según el artículo 223 TFUE, para un mandato de:",
+    "opciones": {
+      "a": "2 años y medio",
+      "b": "4 años",
+      "c": "5 años",
+      "d": "6 años"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "2 años y medio",
+        "4 años",
+        "5 años",
+        "6 años"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000207",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Para constituir un grupo político en el Parlamento Europeo se requiere un mínimo de:",
+    "opciones": {
+      "a": "10 diputados de un solo Estado miembro",
+      "b": "50 diputados de cualquier procedencia",
+      "c": "5 diputados por cada Estado miembro representado",
+      "d": "23 diputados, elegidos en al menos una cuarta parte de los Estados miembros"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "10 diputados de un solo Estado miembro",
+        "23 diputados, elegidos en al menos una cuarta parte de los Estados miembros",
+        "50 diputados de cualquier procedencia",
+        "5 diputados por cada Estado miembro representado"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000208",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Una moción de censura contra la Comisión Europea puede presentarse por:",
+    "opciones": {
+      "a": "Una décima parte de los diputados, y requiere para prosperar dos tercios de los votos emitidos que representen la mayoría de los diputados",
+      "b": "La mayoría absoluta del Parlamento",
+      "c": "El Consejo Europeo únicamente",
+      "d": "Cualquier ciudadano europeo mediante petición directa"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "La mayoría absoluta del Parlamento",
+        "Una décima parte de los diputados, y requiere para prosperar dos tercios de los votos emitidos que representen la mayoría de los diputados",
+        "El Consejo Europeo únicamente",
+        "Cualquier ciudadano europeo mediante petición directa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000209",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Presidente del Parlamento Europeo es elegido por mayoría absoluta para un mandato de:",
+    "opciones": {
+      "a": "1 año",
+      "b": "2 años y medio, renovable",
+      "c": "5 años",
+      "d": "6 años"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "1 año",
+        "2 años y medio, renovable",
+        "5 años",
+        "6 años"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000210",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El mandato de los miembros de la Comisión Europea tiene una duración de:",
+    "opciones": {
+      "a": "3 años",
+      "b": "4 años",
+      "c": "5 años",
+      "d": "6 años"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "3 años",
+        "4 años",
+        "5 años",
+        "6 años"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000211",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Actualmente la Comisión Europea está compuesta por:",
+    "opciones": {
+      "a": "15 comisarios",
+      "b": "20 comisarios",
+      "c": "27 comisarios, uno por cada Estado miembro",
+      "d": "Un número variable según la población de cada Estado"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "15 comisarios",
+        "20 comisarios",
+        "27 comisarios, uno por cada Estado miembro",
+        "Un número variable según la población de cada Estado"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000212",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Tribunal de Justicia de la Unión Europea tiene su sede en:",
+    "opciones": {
+      "a": "Bruselas",
+      "b": "Luxemburgo",
+      "c": "Estrasburgo",
+      "d": "Frankfurt"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Bruselas",
+        "Estrasburgo",
+        "Luxemburgo",
+        "Frankfurt"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000213",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los jueces y abogados generales del Tribunal de Justicia son designados por un período de:",
+    "opciones": {
+      "a": "3 años, con renovación total",
+      "b": "5 años, sin posibilidad de renovación",
+      "c": "8 años, no renovable",
+      "d": "6 años, con renovación parcial cada 3 años"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "3 años, con renovación total",
+        "6 años, con renovación parcial cada 3 años",
+        "5 años, sin posibilidad de renovación",
+        "8 años, no renovable"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000214",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "A diferencia del Tribunal de Justicia, el Tribunal General de la Unión Europea:",
+    "opciones": {
+      "a": "No cuenta con abogados generales",
+      "b": "Tiene su sede en Frankfurt",
+      "c": "Solo resuelve cuestiones prejudiciales",
+      "d": "Está compuesto por un único juez por Estado miembro"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "No cuenta con abogados generales",
+        "Tiene su sede en Frankfurt",
+        "Solo resuelve cuestiones prejudiciales",
+        "Está compuesto por un único juez por Estado miembro"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000215",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Banco Central Europeo tiene su sede en:",
+    "opciones": {
+      "a": "Bruselas",
+      "b": "Luxemburgo",
+      "c": "Estrasburgo",
+      "d": "Frankfurt"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "Bruselas",
+        "Luxemburgo",
+        "Frankfurt",
+        "Estrasburgo"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000216",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El mandato de los miembros del Comité Ejecutivo del Banco Central Europeo es de:",
+    "opciones": {
+      "a": "4 años, renovable",
+      "b": "5 años, renovable una vez",
+      "c": "8 años, no renovable",
+      "d": "6 años, renovable"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "4 años, renovable",
+        "5 años, renovable una vez",
+        "6 años, renovable",
+        "8 años, no renovable"
+      ],
+      "correcta_original": "d"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000217",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Tratado de la CECA se firmó en París el:",
+    "opciones": {
+      "a": "25 de marzo de 1957",
+      "b": "18 de abril de 1951",
+      "c": "7 de febrero de 1992",
+      "d": "13 de diciembre de 2007"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "18 de abril de 1951",
+        "25 de marzo de 1957",
+        "7 de febrero de 1992",
+        "13 de diciembre de 2007"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000218",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Tratado de Maastricht, por el que nace la Unión Europea, se estructuró siguiendo el modelo denominado:",
+    "opciones": {
+      "a": "De pirámide normativa",
+      "b": "De templo griego (disposiciones comunes y tres pilares)",
+      "c": "De círculos concéntricos",
+      "d": "Federal puro"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "De pirámide normativa",
+        "De templo griego (disposiciones comunes y tres pilares)",
+        "De círculos concéntricos",
+        "Federal puro"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000219",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "España firmó el Tratado de Adhesión a las Comunidades Europeas en Madrid el 12 de junio de 1985, entrando en vigor el:",
+    "opciones": {
+      "a": "1 de enero de 1993",
+      "b": "1 de enero de 1986",
+      "c": "1 de mayo de 1999",
+      "d": "1 de enero de 2002"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "1 de enero de 1986",
+        "1 de enero de 1993",
+        "1 de mayo de 1999",
+        "1 de enero de 2002"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000220",
+    "version": 1,
+    "tema_id": "B1-T11",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre el Derecho derivado de la Unión Europea es correcta?",
+    "opciones": {
+      "a": "El Reglamento es obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+      "b": "El Reglamento requiere transposición por los Estados miembros",
+      "c": "La Directiva es directamente aplicable sin intervención normativa nacional",
+      "d": "La Decisión tiene siempre alcance general, como el Reglamento"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T11_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "El Reglamento requiere transposición por los Estados miembros",
+        "La Directiva es directamente aplicable sin intervención normativa nacional",
+        "El Reglamento es obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+        "La Decisión tiene siempre alcance general, como el Reglamento"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

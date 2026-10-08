@@ -1,0 +1,172 @@
+[
+  {
+    "id": "FC-00139",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Sexo (biológico) vs. género (sociocultural) — ¿por qué se diferencian?",
+    "reverso": "Sexo (biológico) vs. género (sociocultural) — distinción de base que suele usarse como distractor conceptual.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c139"
+    }
+  },
+  {
+    "id": "FC-00140",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Discriminación directa vs. indirecta — ¿cuál es la diferencia clave?",
+    "reverso": "Discriminación directa vs. indirecta: la clave de la indirecta es el carácter \"aparentemente neutro\" de la disposición o práctica que genera desventaja.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c140"
+    }
+  },
+  {
+    "id": "FC-00141",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Acoso sexual (naturaleza sexual) vs. acoso por razón de sexo (sin naturaleza sexual pero motivado por el sexo) — ¿por qué se diferencian?",
+    "reverso": "Acoso sexual (naturaleza sexual) vs. acoso por razón de sexo (sin naturaleza sexual pero motivado por el sexo) — mismo efecto (entorno intimidatorio/degradante), distinta naturaleza del comportamiento.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c141"
+    }
+  },
+  {
+    "id": "FC-00142",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Planes de igualdad obligatorios en empresas de 50 o más trabajadores (LO 3/2007) — ¿por qué se diferencian?",
+    "reverso": "Planes de igualdad obligatorios en empresas de 50 o más trabajadores (LO 3/2007) — cifra que puede confundirse con otros umbrales del temario de contratación o función pública.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c142"
+    }
+  },
+  {
+    "id": "FC-00143",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______: la ejercida sobre hijos/familiares menores para causar daño a la mujer — concepto incorporado expresamente a la LO 1/2004.",
+    "reverso": "Violencia vicaria: la ejercida sobre hijos/familiares menores para causar daño a la mujer — concepto incorporado expresamente a la LO 1/2004.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c143"
+    }
+  },
+  {
+    "id": "FC-00144",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Cuantías de la ______ para víctimas de violencia de género: 6 meses (base) / 12 (discapacidad ≥33%) / 18 (responsabilidades familiares) / 24 (ambas) — fácil de confundir entre sí.",
+    "reverso": "Cuantías de la ayuda económica de pago único para víctimas de violencia de género: 6 meses (base) / 12 (discapacidad ≥33%) / 18 (responsabilidades familiares) / 24 (ambas) — fácil de confundir entre sí.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c144"
+    }
+  },
+  {
+    "id": "FC-00145",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Discapacidad (enfoque biosocial: deficiencia + entorno = barrera) no es lo mismo que dependencia (falta de autonomía personal) — ¿por qué se diferencian?",
+    "reverso": "Discapacidad (enfoque biosocial: deficiencia + entorno = barrera) no es lo mismo que dependencia (falta de autonomía personal) — pueden coincidir en una misma persona pero son conceptos jurídicos distintos, con normativa distinta (RDLeg 1/2013 vs. Ley 39/2006).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c145"
+    }
+  },
+  {
+    "id": "FC-00146",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______ (propia del ámbito de discapacidad, no se menciona expresamente para género en este tema) — trato discriminatorio por la relación con una persona con discapacidad, no por la propia discapacidad del sujeto.",
+    "reverso": "Discriminación por asociación (propia del ámbito de discapacidad, no se menciona expresamente para género en este tema) — trato discriminatorio por la relación con una persona con discapacidad, no por la propia discapacidad del sujeto.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c146"
+    }
+  },
+  {
+    "id": "FC-00147",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Los ______ (I moderada, II severa, III gran dependencia) — memorizar el orden y la correspondencia con la frecuencia de ayuda necesaria (1 vez/día, 2-3 veces/día, varias veces/día con pérdida total de autonomía).",
+    "reverso": "Los tres grados de dependencia (I moderada, II severa, III gran dependencia) — memorizar el orden y la correspondencia con la frecuencia de ayuda necesaria (1 vez/día, 2-3 veces/día, varias veces/día con pérdida total de autonomía).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c147"
+    }
+  },
+  {
+    "id": "FC-00148",
+    "version": 1,
+    "tema_id": "B3-T07",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Nivel mínimo de protección del SAAD: lo financia la AGE con cargo a los PGE; el nivel adicional lo decide y financia cada CCAA — ¿por qué se diferencian?",
+    "reverso": "Nivel mínimo de protección del SAAD: lo financia la AGE con cargo a los PGE; el nivel adicional lo decide y financia cada CCAA — no confundir quién financia cada nivel.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c148"
+    }
+  }
+]

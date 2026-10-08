@@ -1,0 +1,49 @@
+system:
+  name: "Preparador Privado C1"
+  version: "1.0"
+  language: "es-ES"
+target:
+  opposition: "Administrativo de la Administración del Estado — C1"
+  planned_exam: "2027-05"
+  planned_exam_is_estimate: true
+  weekly_hours_min: 10
+  weekly_hours_max: 15
+  has_prior_experience: true
+teaching:
+  default_test_questions: 20
+  mastery_scale_max: 5
+  target_normal_test_percent: 85
+  target_hard_test_percent: 75
+  use_active_recall: true
+  use_spaced_repetition: true
+  use_interleaving: true
+  use_error_log: true
+  respect_student_block_order: true
+  ask_before_processing_large_new_batches: true
+difficulty:
+  easy_percent: 15
+  medium_percent: 45
+  hard_percent: 30
+  very_hard_percent: 10
+spaced_repetition_days:
+  R1: 1
+  R2: 3
+  R3: 7
+  R4: 14
+  R5: 30
+  R6: 60
+legacy_spaced_repetition_days:
+  D7: 7
+  D21: 21
+  D45: 45
+session:
+  warmup_questions_min: 5
+  warmup_questions_max: 10
+  default_style: "directed"
+  update_tracking_files: true
+quality:
+  verify_legal_currency_when_material: true
+  never_invent_legal_data: true
+  ambiguous_questions_do_not_penalize: true
+  official_questions_must_be_labeled: true
+  generated_questions_must_not_be_presented_as_official: true

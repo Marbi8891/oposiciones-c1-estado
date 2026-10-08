@@ -1,0 +1,155 @@
+[
+  {
+    "id": "FC-00121",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Autorización (derecho preexistente, sin límite de beneficiarios, acto reglado no modulable) vs. concesión (el derecho nace con el acto, beneficiarios limitados, modulable) — ¿por qué se diferencian?",
+    "reverso": "Autorización (derecho preexistente, sin límite de beneficiarios, acto reglado no modulable) vs. concesión (el derecho nace con el acto, beneficiarios limitados, modulable) — es el par de confusión más clásico del tema.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c121"
+    }
+  },
+  {
+    "id": "FC-00122",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La Administración ______ (art. 25.3 CE) — límite absoluto de la potestad sancionadora.",
+    "reverso": "La Administración no puede imponer sanciones privativas de libertad (art. 25.3 CE) — límite absoluto de la potestad sancionadora.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c122"
+    }
+  },
+  {
+    "id": "FC-00123",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "En el procedimiento sancionador: ______ por reconocimiento de responsabilidad en sanciones pecuniarias — cifra fácil de confundir con otros porcentajes.",
+    "reverso": "En el procedimiento sancionador: reducción del 20% por reconocimiento de responsabilidad en sanciones pecuniarias — cifra fácil de confundir con otros porcentajes.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c123"
+    }
+  },
+  {
+    "id": "FC-00124",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Concesión (transferencia de riesgo operacional) vs. contrato de servicios (sin transferencia de riesgo) como modalidades de gestión indirecta — ¿por qué se diferencian?",
+    "reverso": "Concesión (transferencia de riesgo operacional) vs. contrato de servicios (sin transferencia de riesgo) como modalidades de gestión indirecta — mismo criterio distintivo que en el Tema 4 sobre contratación.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c124"
+    }
+  },
+  {
+    "id": "FC-00125",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Actividad arbitral \"administrativa\" (acto administrativo, recurrible en contencioso-administrativo, ejecutoria propia) vs. actividad arbitral conforme a la Ley de Arbitraje (no es acto administrativo, se enjuicia en vía civil, solo cabe recurso de anulación, no tiene ejecutoriedad propia — ¿por qué se diferencian?",
+    "reverso": "Actividad arbitral \"administrativa\" (acto administrativo, recurrible en contencioso-administrativo, ejecutoria propia) vs. actividad arbitral conforme a la Ley de Arbitraje (no es acto administrativo, se enjuicia en vía civil, solo cabe recurso de anulación, no tiene ejecutoriedad propia — la ejecuta el Juez de Primera Instancia) — dos regímenes bien distintos que comparten el nombre \"arbitraje\".",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c125"
+    }
+  },
+  {
+    "id": "FC-00126",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Transporte público propio vs. transporte público impropio — ¿cuál es la diferencia clave?",
+    "reverso": "Transporte público propio (regular → concesión) vs. transporte público impropio (discrecional → autorización).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c126"
+    }
+  },
+  {
+    "id": "FC-00127",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La actividad de ______ no crea servicios públicos ni usa la coacción — se diferencia claramente tanto de la limitación (coacción) como del servicio público (gestión directa).",
+    "reverso": "La actividad de fomento no crea servicios públicos ni usa la coacción — se diferencia claramente tanto de la limitación (coacción) como del servicio público (gestión directa).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c127"
+    }
+  },
+  {
+    "id": "FC-00128",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Servicio público (actividad prestacional, contenido económico/asistencial) se diferencia de la función pública (ejercicio de autoridad: justicia, defensa, seguridad ciudadana) — ¿por qué se diferencian?",
+    "reverso": "Servicio público (actividad prestacional, contenido económico/asistencial) se diferencia de la función pública (ejercicio de autoridad: justicia, defensa, seguridad ciudadana) — no confundir ambos conceptos aunque compartan la palabra \"servicio\".",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c128"
+    }
+  },
+  {
+    "id": "FC-00129",
+    "version": 1,
+    "tema_id": "B3-T05",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Ningún servicio que implique ejercicio de autoridad puede gestionarse de forma indirecta — ¿por qué se diferencian?",
+    "reverso": "Ningún servicio que implique ejercicio de autoridad puede gestionarse de forma indirecta — solo gestión directa.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c129"
+    }
+  }
+]

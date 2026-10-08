@@ -1,0 +1,273 @@
+{
+  "fuente_id": "SRC-LEGACY-0001",
+  "verificado_contra_convocatoria": false,
+  "bloques": [
+    {
+      "id": "B1",
+      "romano": "I",
+      "nombre": "Materias comunes",
+      "temas": [
+        {
+          "id": "B1-T01",
+          "numero": 1,
+          "titulo_oficial": "La Constitución Española de 1978: estructura y contenido. Derechos y deberes fundamentales. Su garantía y suspensión. El Tribunal Constitucional. El Defensor del Pueblo. Reforma de la Constitución."
+        },
+        {
+          "id": "B1-T02",
+          "numero": 2,
+          "titulo_oficial": "La Jefatura del Estado. La Corona. Funciones constitucionales del Rey. Sucesión y regencia."
+        },
+        {
+          "id": "B1-T03",
+          "numero": 3,
+          "titulo_oficial": "Las Cortes Generales. Composición, atribuciones y funcionamiento del Congreso de los Diputados y del Senado."
+        },
+        {
+          "id": "B1-T04",
+          "numero": 4,
+          "titulo_oficial": "El Poder Judicial. El Consejo General del Poder Judicial. El Tribunal Supremo. La organización judicial española."
+        },
+        {
+          "id": "B1-T05",
+          "numero": 5,
+          "titulo_oficial": "El Gobierno y la Administración. El Presidente del Gobierno. El Consejo de Ministros. Designación, causas de cese y responsabilidad del Gobierno. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales."
+        },
+        {
+          "id": "B1-T06",
+          "numero": 6,
+          "titulo_oficial": "El Gobierno Abierto: concepto y principios informadores. La Agenda 2030 y los Objetivos de Desarrollo Sostenible."
+        },
+        {
+          "id": "B1-T07",
+          "numero": 7,
+          "titulo_oficial": "La Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno. El Consejo de Transparencia y Buen Gobierno: funciones."
+        },
+        {
+          "id": "B1-T08",
+          "numero": 8,
+          "titulo_oficial": "La Administración General del Estado. Los Ministros. Los Secretarios de Estado. Los Subsecretarios. La Administración periférica del Estado. Órganos y competencias. Otros órganos administrativos."
+        },
+        {
+          "id": "B1-T09",
+          "numero": 9,
+          "titulo_oficial": "La organización territorial del Estado: las Comunidades Autónomas. Constitución y distribución de competencias Estado-CCAA. Estatutos de Autonomía."
+        },
+        {
+          "id": "B1-T10",
+          "numero": 10,
+          "titulo_oficial": "Administración Local: entidades que la integran. La Provincia, el Municipio y la Isla."
+        },
+        {
+          "id": "B1-T11",
+          "numero": 11,
+          "titulo_oficial": "La organización de la Unión Europea. Consejo Europeo, Consejo, Parlamento Europeo, Comisión Europea y TJUE. Efectos de la integración europea sobre la organización del Estado español."
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "romano": "II",
+      "nombre": "Atención al ciudadano y gestión documental",
+      "temas": [
+        {
+          "id": "B2-T01",
+          "numero": 1,
+          "titulo_oficial": "Atención al público. Atención de personas con discapacidad. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones."
+        },
+        {
+          "id": "B2-T02",
+          "numero": 2,
+          "titulo_oficial": "Concepto de documento, registro y archivo. Funciones del registro y del archivo. Clases de archivo y criterios de ordenación."
+        },
+        {
+          "id": "B2-T03",
+          "numero": 3,
+          "titulo_oficial": "Administración electrónica y servicios al ciudadano. Análisis de principales páginas web de carácter público. Servicios telemáticos. Oficinas integradas de atención al ciudadano. Ventanilla única empresarial. El Punto de Acceso General de la AGE."
+        },
+        {
+          "id": "B2-T04",
+          "numero": 4,
+          "titulo_oficial": "La protección de datos personales. Régimen jurídico. El Reglamento (UE) 2016/679. Principios y derechos. Obligaciones. La Agencia de Protección de Datos: competencias y funciones."
+        }
+      ]
+    },
+    {
+      "id": "B3",
+      "romano": "III",
+      "nombre": "Derecho Administrativo",
+      "temas": [
+        {
+          "id": "B3-T01",
+          "numero": 1,
+          "titulo_oficial": "Las fuentes del Derecho Administrativo. La jerarquía de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del Derecho Administrativo."
+        },
+        {
+          "id": "B3-T02",
+          "numero": 2,
+          "titulo_oficial": "El acto administrativo: concepto, clases y elementos. Eficacia y validez de los actos administrativos. Su motivación y notificación. Revisión, anulación y revocación. El principio de legalidad en la actuación administrativa."
+        },
+        {
+          "id": "B3-T03",
+          "numero": 3,
+          "titulo_oficial": "Las leyes del procedimiento administrativo común de las Administraciones Públicas y del régimen jurídico del sector público."
+        },
+        {
+          "id": "B3-T04",
+          "numero": 4,
+          "titulo_oficial": "Los contratos del sector público: concepto y clases. Procedimiento de adjudicación. Su cumplimiento. La revisión de precios y otras alteraciones contractuales. Incumplimiento de los contratos del sector público."
+        },
+        {
+          "id": "B3-T05",
+          "numero": 5,
+          "titulo_oficial": "Procedimientos y formas de la actividad administrativa. La actividad de limitación, arbitral, de servicio público y de fomento. Formas de gestión de los servicios públicos."
+        },
+        {
+          "id": "B3-T06",
+          "numero": 6,
+          "titulo_oficial": "La responsabilidad patrimonial de las Administraciones Públicas. Concepto y clases. Requisitos generales. Efectos."
+        },
+        {
+          "id": "B3-T07",
+          "numero": 7,
+          "titulo_oficial": "Políticas de igualdad de género. La LO 3/2007, para la igualdad efectiva de mujeres y hombres. Políticas contra la violencia de género. La LO 1/2004, de medidas de protección integral contra la violencia de género. Discapacidad y dependencia."
+        }
+      ]
+    },
+    {
+      "id": "B4",
+      "romano": "IV",
+      "nombre": "Función pública / personal",
+      "temas": [
+        {
+          "id": "B4-T01",
+          "numero": 1,
+          "titulo_oficial": "El personal al servicio de las Administraciones Públicas. Régimen jurídico. El texto refundido del Estatuto Básico del Empleado Público y demás normativa de aplicación."
+        },
+        {
+          "id": "B4-T02",
+          "numero": 2,
+          "titulo_oficial": "Selección de personal. Los procesos selectivos en la Administración Pública y su conexión con la oferta de empleo público. Principios constitucionales. Acceso al empleo público y provisión de puestos de trabajo de las personas con discapacidad."
+        },
+        {
+          "id": "B4-T03",
+          "numero": 3,
+          "titulo_oficial": "El personal funcionario al servicio de las Administraciones Públicas: funcionarios de carrera y funcionarios interinos. La selección de los funcionarios."
+        },
+        {
+          "id": "B4-T04",
+          "numero": 4,
+          "titulo_oficial": "Adquisición y pérdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas."
+        },
+        {
+          "id": "B4-T05",
+          "numero": 5,
+          "titulo_oficial": "Provisión de puestos de trabajo en la función pública. Los deberes y derechos de los funcionarios. La carrera administrativa. Promoción interna."
+        },
+        {
+          "id": "B4-T06",
+          "numero": 6,
+          "titulo_oficial": "Sistemas de retribuciones e indemnizaciones. Las incompatibilidades. Régimen disciplinario: faltas, sanciones y procedimiento."
+        },
+        {
+          "id": "B4-T07",
+          "numero": 7,
+          "titulo_oficial": "El régimen de la Seguridad Social de los funcionarios. La MUFACE y las clases pasivas."
+        },
+        {
+          "id": "B4-T08",
+          "numero": 8,
+          "titulo_oficial": "El personal laboral al servicio de las Administraciones Públicas. Selección. Derechos, deberes e incompatibilidades. El contrato de trabajo: contenido, duración y suspensión. Negociación laboral, conflictos y convenios colectivos. El IV Convenio Único para el personal laboral de la AGE."
+        },
+        {
+          "id": "B4-T09",
+          "numero": 9,
+          "titulo_oficial": "El régimen de la Seguridad Social del personal laboral. Acción protectora. Concepto y clases de prestaciones, afiliación y cotizaciones."
+        }
+      ]
+    },
+    {
+      "id": "B5",
+      "romano": "V",
+      "nombre": "Gestión financiera y presupuestaria",
+      "temas": [
+        {
+          "id": "B5-T01",
+          "numero": 1,
+          "titulo_oficial": "El presupuesto: concepto. Los principios presupuestarios. El ciclo presupuestario. El presupuesto por programas: concepto y fases. Terminología y desarrollo del proceso presupuestario."
+        },
+        {
+          "id": "B5-T02",
+          "numero": 2,
+          "titulo_oficial": "El presupuesto del Estado en España: concepto y estructura. Los créditos presupuestarios: características. Gastos plurianuales. Las modificaciones presupuestarias: créditos extraordinarios y suplementos de crédito. Ampliaciones de crédito."
+        },
+        {
+          "id": "B5-T03",
+          "numero": 3,
+          "titulo_oficial": "El procedimiento administrativo de ejecución del presupuesto de gasto. Órganos competentes. Fases del procedimiento y sus documentos contables. Compromisos de gasto para ejercicios posteriores. La ordenación del pago."
+        },
+        {
+          "id": "B5-T04",
+          "numero": 4,
+          "titulo_oficial": "Las retribuciones de los funcionarios públicos y del personal laboral al servicio de la Administración Pública. Nóminas: estructura y normas de confección. Altas y bajas: su justificación."
+        },
+        {
+          "id": "B5-T05",
+          "numero": 5,
+          "titulo_oficial": "Gastos para la compra de bienes y servicios. Gastos de inversión. Gastos de transferencias: corrientes y de capital. Pagos: concepto y tipos. Pagos por obligaciones presupuestarias. Anticipos de caja fija. Pagos «a justificar». Justificación de libramientos."
+        },
+        {
+          "id": "B5-T06",
+          "numero": 6,
+          "titulo_oficial": "Gestión económica y financiera de los contratos del sector público. Gestión económica y financiera de subvenciones."
+        }
+      ]
+    },
+    {
+      "id": "B6",
+      "romano": "VI",
+      "nombre": "Ofimática e informática",
+      "temas": [
+        {
+          "id": "B6-T01",
+          "numero": 1,
+          "titulo_oficial": "Informática básica: conceptos fundamentales sobre el hardware y el software. Sistemas de almacenamiento de datos. Sistemas operativos. Nociones básicas de seguridad informática."
+        },
+        {
+          "id": "B6-T02",
+          "numero": 2,
+          "titulo_oficial": "Introducción al sistema operativo: el entorno Windows 11. Fundamentos. Trabajo en el entorno gráfico de Windows: ventanas, iconos, menús contextuales, cuadros de diálogo. El escritorio y sus elementos. El menú inicio. Copilot."
+        },
+        {
+          "id": "B6-T03",
+          "numero": 3,
+          "titulo_oficial": "El explorador de Windows. Gestión de carpetas y archivos. Operaciones de búsqueda. Herramientas «Este equipo» y «Acceso rápido». Accesorios. Herramientas del sistema."
+        },
+        {
+          "id": "B6-T04",
+          "numero": 4,
+          "titulo_oficial": "Procesadores de texto: Word 365. Principales funciones y utilidades. Creación y estructuración del documento. Gestión, grabación, recuperación e impresión de ficheros. Personalización del entorno de trabajo."
+        },
+        {
+          "id": "B6-T05",
+          "numero": 5,
+          "titulo_oficial": "Hojas de cálculo: Excel 365. Principales funciones y utilidades. Libros, hojas y celdas. Configuración. Introducción y edición de datos. Fórmulas y funciones. Gráficos. Gestión de datos. Personalización del entorno de trabajo."
+        },
+        {
+          "id": "B6-T06",
+          "numero": 6,
+          "titulo_oficial": "Bases de datos: Access 365. Principales funciones y utilidades. Tablas. Consultas. Formularios. Informes. Relaciones. Importación, vinculación y exportación de datos."
+        },
+        {
+          "id": "B6-T07",
+          "numero": 7,
+          "titulo_oficial": "Correo electrónico: Outlook 365. Conceptos elementales y funcionamiento. El entorno de trabajo. Enviar, recibir, responder y reenviar mensajes. Creación de mensajes. Reglas de mensaje. Libreta de direcciones."
+        },
+        {
+          "id": "B6-T08",
+          "numero": 8,
+          "titulo_oficial": "La red internet: origen, evolución y estado actual. Conceptos elementales sobre protocolos y servicios en internet. Funcionalidades básicas de los navegadores web."
+        }
+      ]
+    }
+  ]
+}

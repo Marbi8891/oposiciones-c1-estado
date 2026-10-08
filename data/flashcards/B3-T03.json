@@ -1,0 +1,138 @@
+[
+  {
+    "id": "FC-00103",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Alzada vs. reposición vs. al superior jerárquico — ¿cuál es la diferencia clave?",
+    "reverso": "Alzada vs. reposición: alzada va al superior jerárquico contra actos que no agotan la vía administrativa; reposición va al mismo órgano contra actos que sí agotan la vía administrativa y es potestativo. Ambos: plazo de interposición 1 mes (expreso); alzada resuelve en 3 meses, reposición en 1 mes.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c103"
+    }
+  },
+  {
+    "id": "FC-00104",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "______ el recurso de reposición contra su propia resolución (sí cabe, en cambio, acudir directamente a la vía contencioso-administrativa).",
+    "reverso": "No cabe repetir el recurso de reposición contra su propia resolución (sí cabe, en cambio, acudir directamente a la vía contencioso-administrativa).",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c104"
+    }
+  },
+  {
+    "id": "FC-00105",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "El recurso extraordinario de revisión solo cabe por las 4 causas tasadas del art. 125 LPAC, y solo contra actos firmes; su plazo es de 4 años para error de hecho, pero 3 meses para las otras tres causas — ¿por qué se diferencian?",
+    "reverso": "El recurso extraordinario de revisión solo cabe por las 4 causas tasadas del art. 125 LPAC, y solo contra actos firmes; su plazo es de 4 años para error de hecho, pero 3 meses para las otras tres causas — es el error más frecuente confundir estos plazos.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c105"
+    }
+  },
+  {
+    "id": "FC-00106",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Declaración de lesividad: plazo de 4 años, para actos favorables anulables; tras declararla, debe impugnarse en vía contencioso-administrativa en 2 meses — ¿por qué se diferencian?",
+    "reverso": "Declaración de lesividad: plazo de 4 años, para actos favorables anulables; tras declararla, debe impugnarse en vía contencioso-administrativa en 2 meses — no la resuelve la propia Administración por sí sola, solo abre la puerta al proceso judicial.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c106"
+    }
+  },
+  {
+    "id": "FC-00107",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Revisión de actos nulos vs. dictamen previo favorable del Consejo de Estado — ¿cuál es la diferencia clave?",
+    "reverso": "Revisión de actos nulos (art. 106) exige dictamen previo favorable del Consejo de Estado; la revocación (art. 109.1) de actos desfavorables no lo exige.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c107"
+    }
+  },
+  {
+    "id": "FC-00108",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "La responsabilidad patrimonial de la Administración es competencia exclusiva del orden contencioso-administrativo, aunque el hecho dañoso tenga apariencia civil o laboral — ¿por qué se diferencian?",
+    "reverso": "La responsabilidad patrimonial de la Administración es competencia exclusiva del orden contencioso-administrativo, aunque el hecho dañoso tenga apariencia civil o laboral — no puede demandarse por esta vía ante el orden civil o social.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c108"
+    }
+  },
+  {
+    "id": "FC-00109",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Normas Forales fiscales vascas vs. Tribunal Constitucional — ¿cuál es la diferencia clave?",
+    "reverso": "Las Normas Forales fiscales vascas son la única excepción que queda fuera del contencioso-administrativo y va directa al Tribunal Constitucional.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c109"
+    }
+  },
+  {
+    "id": "FC-00110",
+    "version": 1,
+    "tema_id": "B3-T03",
+    "concepto_id": null,
+    "tipo": "hueco",
+    "anverso": "Caducidad del procedimiento a solicitud del interesado (3 meses de paralización imputable a él) vs. caducidad del procedimiento de revisión de oficio (6 meses sin resolución) — ¿por qué se diferencian?",
+    "reverso": "Caducidad del procedimiento a solicitud del interesado (3 meses de paralización imputable a él) vs. caducidad del procedimiento de revisión de oficio (6 meses sin resolución) — plazos distintos, no confundir.",
+    "mnemotecnia": null,
+    "dato_literal": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "id_original": "c110"
+    }
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000221",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El RD 208/1996 regula:",
+    "opciones": {
+      "a": "La accesibilidad de las personas con discapacidad",
+      "b": "La protección de datos personales",
+      "c": "El sistema de archivos de la AGE",
+      "d": "Los servicios de información administrativa y atención al ciudadano"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "La accesibilidad de las personas con discapacidad",
+        "Los servicios de información administrativa y atención al ciudadano",
+        "La protección de datos personales",
+        "El sistema de archivos de la AGE"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000222",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho a comunicar o recibir libremente información veraz se recoge en:",
+    "opciones": {
+      "a": "El art. 18 de la CE",
+      "b": "El art. 29 de la CE",
+      "c": "El art. 105 de la CE",
+      "d": "El art. 20 de la CE"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "El art. 18 de la CE",
+        "El art. 20 de la CE",
+        "El art. 29 de la CE",
+        "El art. 105 de la CE"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000223",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los elementos del proceso de comunicación son:",
+    "opciones": {
+      "a": "Solo emisor y receptor",
+      "b": "Estímulo, respuesta y refuerzo",
+      "c": "Percepción, actitud e interés",
+      "d": "Emisor, receptor, mensaje, canal, código y contexto"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "Emisor, receptor, mensaje, canal, código y contexto",
+        "Solo emisor y receptor",
+        "Estímulo, respuesta y refuerzo",
+        "Percepción, actitud e interés"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000224",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según Mehrabian, en una conversación cara a cara la comunicación puramente verbal representa:",
+    "opciones": {
+      "a": "El 93%",
+      "b": "El 55%",
+      "c": "El 7%",
+      "d": "El 38%"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "El 93%",
+        "El 55%",
+        "El 38%",
+        "El 7%"
+      ],
+      "correcta_original": "d"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000225",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La disciplina que estudia la distancia física con el interlocutor es:",
+    "opciones": {
+      "a": "La kinésica",
+      "b": "La proxémica",
+      "c": "La paralingüística",
+      "d": "La semántica"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "La kinésica",
+        "La paralingüística",
+        "La proxémica",
+        "La semántica"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000226",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Escuchar y entender la comunicación desde el punto de vista de quien habla se denomina:",
+    "opciones": {
+      "a": "Escucha activa",
+      "b": "Percepción selectiva",
+      "c": "Efecto halo",
+      "d": "Defensa perceptiva"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "Percepción selectiva",
+        "Escucha activa",
+        "Efecto halo",
+        "Defensa perceptiva"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000227",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Ante un usuario del tipo \"silencioso\", la estrategia recomendada es:",
+    "opciones": {
+      "a": "Llevar nosotros la iniciativa e ir al grano",
+      "b": "Darle confianza y ayudarle",
+      "c": "Competir con él",
+      "d": "Ser muy técnico y dar muchos detalles"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "Darle confianza y ayudarle",
+        "Llevar nosotros la iniciativa e ir al grano",
+        "Competir con él",
+        "Ser muy técnico y dar muchos detalles"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000228",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El comportamiento ideal en la atención al ciudadano es el:",
+    "opciones": {
+      "a": "Pasivo",
+      "b": "Asertivo",
+      "c": "Agresivo",
+      "d": "Pasivo-agresivo"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Pasivo",
+        "Agresivo",
+        "Pasivo-agresivo",
+        "Asertivo"
+      ],
+      "correcta_original": "d"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000229",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Según el decálogo de atención al cliente, el segundo mandamiento es:",
+    "opciones": {
+      "a": "Cuidar el espacio físico",
+      "b": "Aplicar la empatía",
+      "c": "Ser resolutivo",
+      "d": "Cuidar la apariencia personal"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "Cuidar el espacio físico",
+        "Aplicar la empatía",
+        "Ser resolutivo",
+        "Cuidar la apariencia personal"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000230",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las reclamaciones y sugerencias generales, según el tema, deben contestarse en un plazo de:",
+    "opciones": {
+      "a": "10 días hábiles",
+      "b": "20 días hábiles",
+      "c": "30 días naturales",
+      "d": "15 días hábiles"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "10 días hábiles",
+        "15 días hábiles",
+        "20 días hábiles",
+        "30 días naturales"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000231",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El programa de quejas y sugerencias del RD 951/2005 establece un plazo de contestación de:",
+    "opciones": {
+      "a": "15 días hábiles",
+      "b": "1 mes natural",
+      "c": "10 días naturales",
+      "d": "20 días hábiles"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "15 días hábiles",
+        "20 días hábiles",
+        "1 mes natural",
+        "10 días naturales"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000232",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El informe global anual de quejas y sugerencias debe remitirse a la Inspección General de Servicios en el mes de:",
+    "opciones": {
+      "a": "Enero",
+      "b": "Diciembre",
+      "c": "Junio",
+      "d": "Marzo"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Diciembre",
+        "Enero",
+        "Junio",
+        "Marzo"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000233",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En la atención telefónica, cuando hay que hacer esperar a un usuario se debe:",
+    "opciones": {
+      "a": "Colgar y volver a llamar",
+      "b": "Dejar la línea abierta sin avisar",
+      "c": "Utilizar el botón de espera (HOLD)",
+      "d": "Pasar la llamada sin informar"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "Colgar y volver a llamar",
+        "Utilizar el botón de espera (HOLD)",
+        "Dejar la línea abierta sin avisar",
+        "Pasar la llamada sin informar"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000234",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Escribir un correo electrónico en mayúsculas se considera:",
+    "opciones": {
+      "a": "Una forma de dar énfasis apropiado",
+      "b": "Una práctica recomendada para textos largos",
+      "c": "El equivalente a levantar la voz",
+      "d": "Obligatorio en la Administración"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "Una forma de dar énfasis apropiado",
+        "El equivalente a levantar la voz",
+        "Una práctica recomendada para textos largos",
+        "Obligatorio en la Administración"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000235",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las palabras clave para la correcta atención a personas con discapacidad, según la Guía extractada en el tema, son:",
+    "opciones": {
+      "a": "Rapidez y eficacia",
+      "b": "Empatía y asertividad",
+      "c": "Formalidad y distancia",
+      "d": "Autoridad y firmeza"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "Rapidez y eficacia",
+        "Empatía y asertividad",
+        "Formalidad y distancia",
+        "Autoridad y firmeza"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000236",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las tres herramientas de la calidad total según el RD 951/2005 son:",
+    "opciones": {
+      "a": "Manuales, protocolos y auditorías",
+      "b": "Cartas de servicios, observatorios de calidad y códigos de buenas prácticas",
+      "c": "Encuestas, quejas y sugerencias",
+      "d": "Normas ISO, certificaciones y sellos"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "Cartas de servicios, observatorios de calidad y códigos de buenas prácticas",
+        "Manuales, protocolos y auditorías",
+        "Encuestas, quejas y sugerencias",
+        "Normas ISO, certificaciones y sellos"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000237",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La información administrativa general se facilita:",
+    "opciones": {
+      "a": "Obligatoriamente a todos los ciudadanos, sin exigir legitimación",
+      "b": "Solo a quien acredite ser interesado",
+      "c": "Únicamente por vía telefónica",
+      "d": "Solo previo pago de una tasa"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "Solo a quien acredite ser interesado",
+        "Obligatoriamente a todos los ciudadanos, sin exigir legitimación",
+        "Únicamente por vía telefónica",
+        "Solo previo pago de una tasa"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000238",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La información administrativa particular se refiere a:",
+    "opciones": {
+      "a": "La estructura general de un organismo",
+      "b": "Las publicaciones oficiales",
+      "c": "El estado o contenido de un procedimiento concreto en tramitación",
+      "d": "Los datos de contacto generales"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "La estructura general de un organismo",
+        "El estado o contenido de un procedimiento concreto en tramitación",
+        "Las publicaciones oficiales",
+        "Los datos de contacto generales"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000239",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El derecho de petición está regulado en:",
+    "opciones": {
+      "a": "La Ley 39/2015",
+      "b": "El RD 208/1996",
+      "c": "La LO 4/2001",
+      "d": "La LO 3/2018"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "La Ley 39/2015",
+        "La LO 4/2001",
+        "El RD 208/1996",
+        "La LO 3/2018"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000240",
+    "version": 1,
+    "tema_id": "B2-T01",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las peticiones colectivas deben:",
+    "opciones": {
+      "a": "Ser firmadas por todos los peticionarios, indicando nombre y apellidos junto a cada firma",
+      "b": "Presentarse solo de forma electrónica",
+      "c": "Ser anónimas para proteger a los firmantes",
+      "d": "Tramitarse siempre como recurso administrativo ---"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T01_Bloque_II_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "Presentarse solo de forma electrónica",
+        "Ser firmadas por todos los peticionarios, indicando nombre y apellidos junto a cada firma",
+        "Ser anónimas para proteger a los firmantes",
+        "Tramitarse siempre como recurso administrativo ---"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]

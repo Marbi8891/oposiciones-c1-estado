@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q-000361",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Ley 9/2017, de Contratos del Sector Público (LCSP), solo define o tipifica los siguientes contratos:",
+    "opciones": {
+      "a": "Obra, gestión de servicios públicos, suministro, servicios y colaboración público-privada",
+      "b": "Obra, suministro y servicios únicamente",
+      "c": "Obra, concesión de obra y concesión de servicios únicamente",
+      "d": "Obra, concesión de obra, concesión de servicios, suministro y servicios"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 1,
+      "opciones_originales": [
+        "Obra, gestión de servicios públicos, suministro, servicios y colaboración público-privada",
+        "Obra, concesión de obra, concesión de servicios, suministro y servicios",
+        "Obra, suministro y servicios únicamente",
+        "Obra, concesión de obra y concesión de servicios únicamente"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000362",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Respecto a los círculos concéntricos de sujetos definidos por la LCSP, es correcto afirmar que:",
+    "opciones": {
+      "a": "Todo poder adjudicador es Administración Pública",
+      "b": "Toda Administración Pública es siempre poder adjudicador, pero no todo poder adjudicador es Administración Pública",
+      "c": "El concepto de sector público es más restringido que el de poder adjudicador",
+      "d": "Administración Pública, poder adjudicador y sector público son conceptos equivalentes"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 2,
+      "opciones_originales": [
+        "Todo poder adjudicador es Administración Pública",
+        "Toda Administración Pública es siempre poder adjudicador, pero no todo poder adjudicador es Administración Pública",
+        "El concepto de sector público es más restringido que el de poder adjudicador",
+        "Administración Pública, poder adjudicador y sector público son conceptos equivalentes"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000363",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En el contrato de concesión de obra o de concesión de servicios, la contraprestación del concesionario consiste en:",
+    "opciones": {
+      "a": "El derecho a explotar la obra o el servicio, con o sin percepción adicional de un precio, implicando transferencia de riesgo operacional",
+      "b": "Siempre y únicamente en un precio cierto pagado por la Administración",
+      "c": "Una subvención anual fija",
+      "d": "El derecho a percibir un porcentaje de los impuestos municipales"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 3,
+      "opciones_originales": [
+        "Siempre y únicamente en un precio cierto pagado por la Administración",
+        "El derecho a explotar la obra o el servicio, con o sin percepción adicional de un precio, implicando transferencia de riesgo operacional",
+        "Una subvención anual fija",
+        "El derecho a percibir un porcentaje de los impuestos municipales"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000364",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Los contratos SARA (sujetos a regulación armonizada) se definen en función de:",
+    "opciones": {
+      "a": "El sujeto (poder adjudicador), el objeto (obra, servicio o suministro) y la cuantía (umbrales fijados por la UE)",
+      "b": "Únicamente la cuantía del contrato",
+      "c": "Exclusivamente el tipo de procedimiento de adjudicación elegido",
+      "d": "El hecho de que el contratista sea una empresa extranjera"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 4,
+      "opciones_originales": [
+        "Únicamente la cuantía del contrato",
+        "El sujeto (poder adjudicador), el objeto (obra, servicio o suministro) y la cuantía (umbrales fijados por la UE)",
+        "Exclusivamente el tipo de procedimiento de adjudicación elegido",
+        "El hecho de que el contratista sea una empresa extranjera"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000365",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Un contrato administrativo, en su fase de cumplimiento, efectos y extinción, se rige por:",
+    "opciones": {
+      "a": "El Derecho civil en todo caso",
+      "b": "La legislación mercantil",
+      "c": "La LCSP, con jurisdicción contencioso-administrativa",
+      "d": "El Derecho laboral"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 5,
+      "opciones_originales": [
+        "El Derecho civil en todo caso",
+        "La LCSP, con jurisdicción contencioso-administrativa",
+        "La legislación mercantil",
+        "El Derecho laboral"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000366",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El plazo máximo de duración de un contrato de concesión de obras es de:",
+    "opciones": {
+      "a": "40 años",
+      "b": "10 años",
+      "c": "25 años",
+      "d": "50 años"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 6,
+      "opciones_originales": [
+        "10 años",
+        "25 años",
+        "40 años",
+        "50 años"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000367",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El contrato menor de suministros o de servicios es aquel cuyo valor estimado es inferior a:",
+    "opciones": {
+      "a": "40.000 euros",
+      "b": "100.000 euros",
+      "c": "15.000 euros",
+      "d": "5.000 euros"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 7,
+      "opciones_originales": [
+        "40.000 euros",
+        "15.000 euros",
+        "100.000 euros",
+        "5.000 euros"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000368",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La garantía definitiva que debe constituir el adjudicatario de un contrato del sector público asciende, con carácter general, a:",
+    "opciones": {
+      "a": "Un 5% del importe de adjudicación, excluido el IVA",
+      "b": "Un 3% del presupuesto del contrato, excluido el IVA",
+      "c": "Un 10% del importe de adjudicación, IVA incluido",
+      "d": "Un 1% del valor estimado del contrato"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 8,
+      "opciones_originales": [
+        "Un 3% del presupuesto del contrato, excluido el IVA",
+        "Un 5% del importe de adjudicación, excluido el IVA",
+        "Un 10% del importe de adjudicación, IVA incluido",
+        "Un 1% del valor estimado del contrato"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000369",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En el procedimiento abierto de adjudicación:",
+    "opciones": {
+      "a": "Cabe negociar los términos del contrato con los licitadores",
+      "b": "Cualquier empresario interesado puede presentar una proposición, quedando excluida toda negociación",
+      "c": "Solo pueden presentar oferta los empresarios previamente seleccionados",
+      "d": "Se limita a contratos de valor inferior a 40.000 euros"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 9,
+      "opciones_originales": [
+        "Cabe negociar los términos del contrato con los licitadores",
+        "Cualquier empresario interesado puede presentar una proposición, quedando excluida toda negociación",
+        "Solo pueden presentar oferta los empresarios previamente seleccionados",
+        "Se limita a contratos de valor inferior a 40.000 euros"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000370",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El procedimiento abierto simplificado puede utilizarse cuando el valor estimado del contrato de obras sea igual o inferior a:",
+    "opciones": {
+      "a": "500.000 euros",
+      "b": "2.000.000 de euros",
+      "c": "1.000.000 de euros",
+      "d": "5.404.000 euros"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 10,
+      "opciones_originales": [
+        "500.000 euros",
+        "1.000.000 de euros",
+        "2.000.000 de euros",
+        "5.404.000 euros"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000371",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "En el procedimiento restringido de adjudicación:",
+    "opciones": {
+      "a": "Cualquier empresario puede presentar oferta directamente",
+      "b": "Se admite la negociación de los términos del contrato",
+      "c": "Se reserva exclusivamente a contratos de obras",
+      "d": "Solo pueden presentar proposiciones los empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 11,
+      "opciones_originales": [
+        "Cualquier empresario puede presentar oferta directamente",
+        "Solo pueden presentar proposiciones los empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación",
+        "Se admite la negociación de los términos del contrato",
+        "Se reserva exclusivamente a contratos de obras"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000372",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El procedimiento negociado, a diferencia del abierto y del restringido, se caracteriza porque:",
+    "opciones": {
+      "a": "Nunca requiere publicidad previa",
+      "b": "Solo puede emplearse en contratos SARA",
+      "c": "Excluye cualquier tipo de negociación",
+      "d": "La adjudicación recae en el licitador elegido tras negociar las condiciones del contrato con uno o varios candidatos"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 12,
+      "opciones_originales": [
+        "Nunca requiere publicidad previa",
+        "La adjudicación recae en el licitador elegido tras negociar las condiciones del contrato con uno o varios candidatos",
+        "Solo puede emplearse en contratos SARA",
+        "Excluye cualquier tipo de negociación"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000373",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Entre las prerrogativas de la Administración en el contrato administrativo se encuentra:",
+    "opciones": {
+      "a": "Interpretar el contrato, modificarlo por razones de interés público, y acordar su resolución",
+      "b": "La imposibilidad de modificar el contrato bajo ninguna circunstancia",
+      "c": "La obligación de someter cualquier discrepancia a arbitraje privado",
+      "d": "La prohibición de suspender la ejecución del contrato"
+    },
+    "correcta": "a",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 13,
+      "opciones_originales": [
+        "La imposibilidad de modificar el contrato bajo ninguna circunstancia",
+        "Interpretar el contrato, modificarlo por razones de interés público, y acordar su resolución",
+        "La obligación de someter cualquier discrepancia a arbitraje privado",
+        "La prohibición de suspender la ejecución del contrato"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000374",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Las penalidades por demora del contratista en el cumplimiento del plazo total se fijan, salvo pacto distinto justificado, en:",
+    "opciones": {
+      "a": "El 10% del precio del contrato por cada mes de retraso",
+      "b": "El 50% del precio del contrato desde el primer día de retraso",
+      "c": "Una cantidad fija de 1.000 euros por día, con independencia del importe del contrato",
+      "d": "0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido, por cada día de retraso"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 14,
+      "opciones_originales": [
+        "0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido, por cada día de retraso",
+        "El 10% del precio del contrato por cada mes de retraso",
+        "El 50% del precio del contrato desde el primer día de retraso",
+        "Una cantidad fija de 1.000 euros por día, con independencia del importe del contrato"
+      ],
+      "correcta_original": "a"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000375",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La Administración debe abonar el precio del contrato dentro del plazo de:",
+    "opciones": {
+      "a": "15 días desde la aprobación de las certificaciones",
+      "b": "60 días desde la formalización del contrato",
+      "c": "30 días desde la aprobación de las certificaciones o documentos de conformidad",
+      "d": "90 días desde la entrega de la factura"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 15,
+      "opciones_originales": [
+        "15 días desde la aprobación de las certificaciones",
+        "30 días desde la aprobación de las certificaciones o documentos de conformidad",
+        "60 días desde la formalización del contrato",
+        "90 días desde la entrega de la factura"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000376",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "La revisión periódica y predeterminada de precios, como regla general, solo procede en contratos de obra, suministro de armamento, suministro de energía, o contratos en que el período de recuperación de la inversión sea igual o superior a:",
+    "opciones": {
+      "a": "1 año",
+      "b": "3 años",
+      "c": "10 años",
+      "d": "5 años"
+    },
+    "correcta": "d",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 16,
+      "opciones_originales": [
+        "1 año",
+        "3 años",
+        "5 años",
+        "10 años"
+      ],
+      "correcta_original": "c"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000377",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Una modificación contractual prevista en el PCAP, mediante la correspondiente cláusula de modificación, no puede superar:",
+    "opciones": {
+      "a": "El 10% del precio inicial sin IVA",
+      "b": "El 20% del precio inicial con IVA",
+      "c": "El 50% del precio inicial sin IVA",
+      "d": "No tiene límite si está prevista en el pliego"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 17,
+      "opciones_originales": [
+        "El 10% del precio inicial sin IVA",
+        "El 20% del precio inicial con IVA",
+        "El 50% del precio inicial sin IVA",
+        "No tiene límite si está prevista en el pliego"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000378",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "Una modificación no prevista en el pliego, motivada por circunstancias sobrevenidas e imprevisibles, tiene como límite máximo:",
+    "opciones": {
+      "a": "El 20% del precio inicial con IVA",
+      "b": "El 10% del precio inicial sin IVA",
+      "c": "El 50% del precio inicial sin IVA",
+      "d": "No cabe modificación no prevista en ningún caso"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 18,
+      "opciones_originales": [
+        "El 20% del precio inicial con IVA",
+        "El 50% del precio inicial sin IVA",
+        "El 10% del precio inicial sin IVA",
+        "No cabe modificación no prevista en ningún caso"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000379",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El Recurso Especial en materia de Contratación (REC) se caracteriza, entre otras notas, por ser:",
+    "opciones": {
+      "a": "Obligatorio antes de acudir a la vía contencioso-administrativa",
+      "b": "Un recurso exclusivamente reservado a los contratos privados",
+      "c": "Especial, potestativo, gratuito, y resuelto por un órgano independiente como el TARC",
+      "d": "Resuelto siempre por el propio órgano de contratación autor del acto"
+    },
+    "correcta": "c",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 19,
+      "opciones_originales": [
+        "Obligatorio antes de acudir a la vía contencioso-administrativa",
+        "Especial, potestativo, gratuito, y resuelto por un órgano independiente como el TARC",
+        "Un recurso exclusivamente reservado a los contratos privados",
+        "Resuelto siempre por el propio órgano de contratación autor del acto"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  },
+  {
+    "id": "Q-000380",
+    "version": 1,
+    "tema_id": "B3-T04",
+    "epigrafe_id": null,
+    "concepto_id": null,
+    "dificultad": null,
+    "tipo": null,
+    "enunciado": "El plazo para interponer el Recurso Especial en materia de Contratación (REC) es de:",
+    "opciones": {
+      "a": "10 días hábiles",
+      "b": "15 días hábiles",
+      "c": "1 mes",
+      "d": "2 meses"
+    },
+    "correcta": "b",
+    "explicacion": null,
+    "fuente_id": "SRC-CHULETA-0001",
+    "norma_articulo": null,
+    "fecha_validacion": null,
+    "estado": "en_revision",
+    "origen": {
+      "tipo": "importada_chuleta",
+      "archivo": "T04_Bloque_III_test.md",
+      "num": 20,
+      "opciones_originales": [
+        "10 días hábiles",
+        "15 días hábiles",
+        "1 mes",
+        "2 meses"
+      ],
+      "correcta_original": "b"
+    },
+    "revision": [
+      "Importada sin explicación, fuente, epígrafe, concepto ni fecha de validación."
+    ]
+  }
+]
