@@ -26,7 +26,7 @@
  <div class="study-shell">
   <div class="study-head"><div><div class="eyebrow">Sesión de estudio</div><h2 id="studyTitle">Tema</h2></div><button class="secondary" id="closeStudy">Cerrar ✕</button></div>
   <div class="study-body">
-   <section><div class="panel" style="margin-bottom:12px"><h3>Material del tema</h3><p class="small">Selecciona el PDF de tu academia desde tu ordenador. El archivo se mostrará aquí y no se subirá a GitHub.</p><div class="field"><label for="topicPdf">Abrir PDF del tema</label><input id="topicPdf" type="file" accept="application/pdf"></div></div><div id="pdfViewer" class="viewer"><div><strong>Aún no has abierto un PDF.</strong><p class="small">Pulsa «Elegir archivo» y selecciona el documento del tema que estás estudiando.</p></div></div></section>
+   <section><div class="panel" style="margin-bottom:12px"><h3>Material del tema</h3><p class="small" id="studyMaterialHint">Busca el PDF correspondiente en tu ordenador. Selecciona el archivo de tu academia. El archivo se mostrará aquí y no se subirá a GitHub.</p><div class="field"><label for="topicPdf">Abrir PDF del tema</label><input id="topicPdf" type="file" accept="application/pdf"></div></div><div id="pdfViewer" class="viewer"><div><strong>Aún no has abierto un PDF.</strong><p class="small">Pulsa «Elegir archivo» y selecciona el documento del tema que estás estudiando.</p></div></div></section>
    <aside class="study-side"><section class="panel"><h3>Tu sesión</h3><p class="small">El tiempo se mide mientras mantengas esta ventana abierta.</p><div class="session-row"><strong id="studyClock" style="font-size:1.8rem">00:00:00</strong><button id="timerStart">Iniciar</button><button class="secondary" id="timerPause">Pausar</button></div><div class="field"><label for="studyNotes">Apuntes y dudas</label><textarea id="studyNotes" placeholder="Resume con tus palabras, anota artículos que debas revisar y preguntas pendientes…"></textarea></div><div class="field"><label for="recall">Comprueba lo aprendido</label><textarea id="recall" placeholder="Sin mirar el PDF, escribe lo que recuerdas del tema…"></textarea></div><label class="study-check"><input type="checkbox" id="topicDone"> Marcar este tema como estudiado</label><button id="saveStudy">Guardar sesión y apuntes</button><p class="small" id="studyMessage" aria-live="polite"></p></section></aside>
   </div>
  </div>
@@ -37,19 +37,70 @@
 </main><footer class="footer"><div class="wrap">Preparador C1 · Aplicación estática para uso personal. El progreso se almacena en el navegador mediante <code>localStorage</code>. <span id="updated"></span></div></footer>
 <script>
 const BLOCKS=[
-{name:"Bloque I",title:"Organización del Estado y Administración pública",count:11,desc:"Constitución, organización del Estado y estructura administrativa."},
-{name:"Bloque II",title:"Oficinas públicas y derecho administrativo",count:9,desc:"Procedimiento, actos administrativos y atención a la ciudadanía."},
-{name:"Bloque III",title:"Gestión de personal",count:6,desc:"Empleo público, situaciones administrativas y gestión de recursos humanos."},
-{name:"Bloque IV",title:"Gestión financiera",count:7,desc:"Presupuestos, gastos, ingresos y control financiero."},
-{name:"Bloque V",title:"Gestión administrativa",count:6,desc:"Documentación y tareas de gestión administrativa."},
-{name:"Bloque VI",title:"Informática básica y ofimática",count:6,desc:"Sistemas, seguridad, herramientas ofimáticas y servicios digitales."}
+{name:"Bloque I",title:"Organización del Estado y Unión Europea",count:11,desc:"Constitución, órganos constitucionales, Gobierno, Administración, transparencia, territorio y Unión Europea.",topics:[
+"Constitución Española de 1978: estructura, derechos y deberes, garantías, Tribunal Constitucional, Defensor del Pueblo y reforma",
+"La Jefatura del Estado. La Corona. Funciones del Rey, sucesión y regencia",
+"Las Cortes Generales. Congreso de los Diputados y Senado",
+"El Poder Judicial. CGPJ, Tribunal Supremo y organización judicial",
+"El Gobierno y la Administración. Presidente, Consejo de Ministros y relaciones con las Cortes",
+"El Gobierno abierto. Principios, Agenda 2030 y Objetivos de Desarrollo Sostenible",
+"Transparencia, acceso a la información pública y buen gobierno",
+"Administración General del Estado. Ministerios, órganos superiores y Administración periférica",
+"Organización territorial del Estado. Comunidades Autónomas y Estatutos de Autonomía",
+"Administración local: provincia, municipio e isla",
+"Unión Europea: instituciones y efectos de la integración en España"
+]},
+{name:"Bloque II",title:"Atención al público y gestión documental",count:4,desc:"Atención a la ciudadanía, registros, archivos, administración electrónica y protección de datos.",topics:[
+"Atención al público y a personas con discapacidad. Información administrativa, iniciativas, reclamaciones y quejas",
+"Documento, registro y archivo. Funciones, clases de archivo y criterios de ordenación",
+"Administración electrónica y servicios al ciudadano. Sedes web, servicios telemáticos y Punto de Acceso General",
+"Protección de datos personales. Reglamento General de Protección de Datos, principios, derechos y obligaciones"
+]},
+{name:"Bloque III",title:"Derecho administrativo",count:7,desc:"Fuentes, actos y procedimientos administrativos, contratación, actividad administrativa, responsabilidad e igualdad.",topics:[
+"Fuentes del Derecho Administrativo. Jerarquía, ley, decretos-leyes, decretos legislativos y reglamentos",
+"Acto administrativo: clases, elementos, eficacia, validez, notificación, revisión y revocación",
+"Procedimiento administrativo común y régimen jurídico del sector público. Fases e impugnación",
+"Contratos del sector público: concepto, clases, adjudicación, cumplimiento y modificaciones",
+"Actividad administrativa: limitación, arbitral, servicio público, fomento y gestión de servicios",
+"Responsabilidad patrimonial de las Administraciones Públicas",
+"Igualdad, violencia de género, discapacidad y dependencia"
+]},
+{name:"Bloque IV",title:"Gestión de recursos humanos",count:9,desc:"Personal público, selección, situaciones administrativas, provisión, retribuciones, seguridad social y régimen disciplinario.",topics:[
+"Personal al servicio de las Administraciones Públicas. Régimen jurídico y competencias de personal",
+"Selección de personal y procesos selectivos. Oferta de empleo público y acceso de personas con discapacidad",
+"Funcionarios de carrera e interinos. Selección de funcionarios",
+"Adquisición y pérdida de la condición de funcionario. Situaciones administrativas",
+"Provisión de puestos, derechos y deberes, carrera administrativa y promoción interna",
+"Retribuciones e indemnizaciones. Incompatibilidades y régimen disciplinario",
+"Seguridad Social de los funcionarios. MUFACE y clases pasivas",
+"Personal laboral: selección, derechos, contrato, negociación y Convenio Único",
+"Seguridad Social del personal laboral: prestaciones, afiliación y cotizaciones"
+]},
+{name:"Bloque V",title:"Gestión financiera y presupuestaria",count:6,desc:"Presupuestos, créditos, ejecución del gasto, nóminas, pagos, contratos y subvenciones.",topics:[
+"El presupuesto: concepto, principios, ciclo y presupuesto por programas",
+"Presupuesto del Estado. Créditos presupuestarios, gastos plurianuales y modificaciones",
+"Procedimiento de ejecución del presupuesto de gastos. Fases, documentos contables, ordenación y realización del pago",
+"Retribuciones y nóminas del personal público. Estructura, confección, altas y bajas",
+"Gastos de bienes, servicios, inversiones y transferencias. Pagos, anticipos de caja fija y pagos a justificar",
+"Gestión económica y financiera de contratos del sector público y subvenciones"
+]},
+{name:"Bloque VI",title:"Informática y ofimática",count:8,desc:"Informática básica, Windows, Word, Excel, Access, Outlook, Internet y seguridad informática.",topics:[
+"Informática básica: hardware, software, almacenamiento, sistemas operativos y seguridad",
+"Windows 11: entorno gráfico, ventanas, iconos, menús, cuadros de diálogo y escritorio",
+"Explorador de archivos de Windows. Carpetas, archivos, búsquedas y herramientas del sistema",
+"Procesadores de texto: Word 365",
+"Hojas de cálculo: Excel 365",
+"Bases de datos: Access 365",
+"Correo electrónico: Outlook 365",
+"Internet: protocolos, servicios y navegadores web"
+]}
 ];
 const KEY="preparadorC1Pages_v2";
 const defaults=()=>({checked:{},sessions:[],topicNotes:{}});
 let state=load();
 function load(){try{const old=JSON.parse(localStorage.getItem("preparadorC1Pages_v1")||"{}");return {...defaults(),...old,...JSON.parse(localStorage.getItem(KEY)||"{}")}}catch{return defaults()}}
 function save(){localStorage.setItem(KEY,JSON.stringify(state));renderStats()}
-function renderBlocks(){const el=document.getElementById("blocks");el.innerHTML="";let n=1;BLOCKS.forEach((b,bi)=>{const start=n;const ids=Array.from({length:b.count},(_,i)=>start+i);n+=b.count;const done=ids.filter(i=>state.checked[i]).length;const card=document.createElement("article");card.className="card";card.innerHTML='<span class="tag">'+b.name+'</span><h3>'+b.title+'</h3><p>'+b.desc+'</p><div class="bar" aria-label="Progreso del bloque"><i style="width:'+(done/b.count*100)+'%"></i></div><div class="card-foot"><span class="small">'+done+' de '+b.count+' temas</span><button class="secondary" data-toggle="'+bi+'">Ver temas</button></div><div class="topics hidden" id="topics'+bi+'"></div>';el.appendChild(card);const topics=card.querySelector("#topics"+bi);ids.forEach((id,i)=>{const row=document.createElement("div");row.className="task";const check=document.createElement("input");check.type="checkbox";check.id="topic"+id;check.checked=!!state.checked[id];check.addEventListener("change",()=>{state.checked[id]=check.checked;save();renderBlocks()});const group=document.createElement("div");group.className="topic-name";const label=document.createElement("label");label.htmlFor=check.id;label.textContent="Tema "+String(i+1).padStart(2,"0");label.className="small";const study=document.createElement("button");study.className="topic-study-btn";study.textContent="Estudiar →";study.addEventListener("click",()=>openStudy(id,b.name+" · Tema "+String(i+1).padStart(2,"0")));group.append(label,study);row.append(check,group);topics.append(row)});card.querySelector("button").addEventListener("click",()=>topics.classList.toggle("hidden"))})}
+function renderBlocks(){const el=document.getElementById("blocks");el.innerHTML="";let n=1;BLOCKS.forEach((b,bi)=>{const start=n;const ids=Array.from({length:b.count},(_,i)=>start+i);n+=b.count;const done=ids.filter(i=>state.checked[i]).length;const card=document.createElement("article");card.className="card";card.innerHTML='<span class="tag">'+b.name+'</span><h3>'+b.title+'</h3><p>'+b.desc+'</p><div class="bar" aria-label="Progreso del bloque"><i style="width:'+(done/b.count*100)+'%"></i></div><div class="card-foot"><span class="small">'+done+' de '+b.count+' temas</span><button class="secondary" data-toggle="'+bi+'">Ver temas</button></div><div class="topics hidden" id="topics'+bi+'"></div>';el.appendChild(card);const topics=card.querySelector("#topics"+bi);ids.forEach((id,i)=>{const row=document.createElement("div");row.className="task";const check=document.createElement("input");check.type="checkbox";check.id="topic"+id;check.checked=!!state.checked[id];check.addEventListener("change",()=>{state.checked[id]=check.checked;save();renderBlocks()});const group=document.createElement("div");group.className="topic-name";const label=document.createElement("label");label.htmlFor=check.id;label.textContent="Tema "+String(i+1).padStart(2,"0")+" · "+b.topics[i];label.className="small";const study=document.createElement("button");study.className="topic-study-btn";study.textContent="Estudiar →";study.addEventListener("click",()=>openStudy(id,b.name+" · Tema "+String(i+1).padStart(2,"0"),b.topics[i],bi+1,i+1));group.append(label,study);row.append(check,group);topics.append(row)});card.querySelector("button").addEventListener("click",()=>topics.classList.toggle("hidden"))})}
 function renderStats(){const done=Object.values(state.checked).filter(Boolean).length;const mins=state.sessions.reduce((a,s)=>a+(Number(s.minutes)||0),0);const days=new Set(state.sessions.map(s=>s.date)).size;document.getElementById("statTopics").textContent=done+"/45";document.getElementById("statHours").textContent=(mins/60).toLocaleString("es-ES",{maximumFractionDigits:1})+" h";document.getElementById("statDays").textContent=days}
 function renderSessions(){const el=document.getElementById("sessions");if(!state.sessions.length){el.textContent="Todavía no hay sesiones registradas.";return}el.innerHTML="";state.sessions.slice().sort((a,b)=>b.date.localeCompare(a.date)).slice(0,8).forEach(s=>{const div=document.createElement("div");div.className="task";const inner=document.createElement("div");const strong=document.createElement("strong");strong.textContent=s.date+" · "+s.minutes+" min";const title=document.createElement("div");title.textContent=s.subject||"Sesión sin título";const note=document.createElement("small");note.textContent=s.notes||"";inner.append(strong,title,note);div.append(inner);el.append(div)})}
 document.getElementById("date").value=new Date().toLocaleDateString("en-CA");
@@ -58,7 +109,7 @@ document.getElementById("reset").addEventListener("click",()=>{if(confirm("¿Bor
 document.getElementById("export").addEventListener("click",()=>{const blob=new Blob([JSON.stringify({version:1,exportedAt:new Date().toISOString(),...state},null,2)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="respaldo-preparador-c1.json";a.click();URL.revokeObjectURL(a.href)});
 document.getElementById("importFile").addEventListener("change",async e=>{const f=e.target.files[0];if(!f)return;try{const data=JSON.parse(await f.text());if(!data||typeof data!=="object"||!data.checked||!Array.isArray(data.sessions))throw Error();if(!confirm("La importación reemplazará el progreso actual. ¿Continuar?"))return;state={checked:data.checked,sessions:data.sessions};save();renderBlocks();renderSessions();alert("Copia restaurada.")}catch{alert("El archivo no parece una copia válida de esta aplicación.")}finally{e.target.value=""}});
 let activeTopic=null, timerSeconds=0, timerInterval=null, timerStartedAt=null, pdfObjectUrl=null;
-function openStudy(id,title){activeTopic=id;document.getElementById("studyTitle").textContent=title;document.getElementById("studyModal").classList.add("open");document.getElementById("studyNotes").value=state.topicNotes[id]?.notes||"";document.getElementById("recall").value=state.topicNotes[id]?.recall||"";document.getElementById("topicDone").checked=!!state.checked[id];document.getElementById("topicPdf").value="";document.getElementById("pdfViewer").innerHTML='<div><strong>Aún no has abierto un PDF.</strong><p class="small">Selecciona el material de este tema desde tu ordenador. El PDF permanece local.</p></div>';timerSeconds=0;updateClock();document.getElementById("studyMessage").textContent=""}
+function openStudy(id,title,topicTitle,blockNumber,topicNumber){activeTopic=id;document.getElementById("studyTitle").textContent=title+" · "+topicTitle;document.getElementById("studyMaterialHint").textContent="Tema: "+topicTitle+". Busca un PDF cuyo nombre indique Bloque "+["I","II","III","IV","V","VI"][blockNumber-1]+" y T"+String(topicNumber).padStart(2,"0")+". Los archivos se abren desde tu dispositivo y no se suben a GitHub.";document.getElementById("studyModal").classList.add("open");document.getElementById("studyNotes").value=state.topicNotes[id]?.notes||"";document.getElementById("recall").value=state.topicNotes[id]?.recall||"";document.getElementById("topicDone").checked=!!state.checked[id];document.getElementById("topicPdf").value="";document.getElementById("pdfViewer").innerHTML='<div><strong>Aún no has abierto un PDF.</strong><p class="small">Selecciona el material de este tema desde tu ordenador. El PDF permanece local.</p></div>';timerSeconds=0;updateClock();document.getElementById("studyMessage").textContent=""}
 function updateClock(){const h=String(Math.floor(timerSeconds/3600)).padStart(2,"0"),m=String(Math.floor(timerSeconds%3600/60)).padStart(2,"0"),s=String(timerSeconds%60).padStart(2,"0");document.getElementById("studyClock").textContent=h+":"+m+":"+s}
 function pauseTimer(){if(timerInterval){clearInterval(timerInterval);timerInterval=null;timerStartedAt=null}}
 document.getElementById("timerStart").addEventListener("click",()=>{if(timerInterval)return;timerStartedAt=Date.now();timerInterval=setInterval(()=>{timerSeconds++;updateClock()},1000)});
