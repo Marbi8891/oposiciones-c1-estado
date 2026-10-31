@@ -5,6 +5,7 @@ on:
     branches: ["main"]
     paths:
       - "site/**"
+      - "data/resumenes/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -27,6 +28,10 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
+      - name: Copy topic summaries into the published site
+        run: |
+          mkdir -p site/temas
+          cp data/resumenes/*.md site/temas/ 2>/dev/null || true
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
