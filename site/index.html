@@ -109,7 +109,39 @@ document.getElementById("reset").addEventListener("click",()=>{if(confirm("¿Bor
 document.getElementById("export").addEventListener("click",()=>{const blob=new Blob([JSON.stringify({version:1,exportedAt:new Date().toISOString(),...state},null,2)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="respaldo-preparador-c1.json";a.click();URL.revokeObjectURL(a.href)});
 document.getElementById("importFile").addEventListener("change",async e=>{const f=e.target.files[0];if(!f)return;try{const data=JSON.parse(await f.text());if(!data||typeof data!=="object"||!data.checked||!Array.isArray(data.sessions))throw Error();if(!confirm("La importación reemplazará el progreso actual. ¿Continuar?"))return;state={checked:data.checked,sessions:data.sessions};save();renderBlocks();renderSessions();alert("Copia restaurada.")}catch{alert("El archivo no parece una copia válida de esta aplicación.")}finally{e.target.value=""}});
 let activeTopic=null, timerSeconds=0, timerInterval=null, timerStartedAt=null, pdfObjectUrl=null;
-function escapeHtml(value){return String(value).replace(/[&<>"\']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;","\'":"&#39;"}[ch]))}\nfunction renderMarkdown(md){const lines=md.replace(/\\r/g,"").split("\\n"),out=[];let paragraph=[],list=null,table=[];const flushP=()=>{if(paragraph.length){out.push("<p>"+paragraph.map(escapeHtml).join("<br>")+"</p>");paragraph=[]}};const flushList=()=>{if(list){out.push("<"+list+">"+listItems.map(x=>"<li>"+escapeHtml(x)+"</li>").join("")+"</"+list+">");list=null;listItems=[]}};const flushTable=()=>{if(table.length){out.push("<pre>"+escapeHtml(table.join("\\n"))+"</pre>");table=[]}};let listItems=[];for(const line of lines){if(line.trim().startsWith("|")){flushP();flushList();table.push(line);continue}else flushTable();const h=line.match(/^(#{1,4})\\s+(.+)/);if(h){flushP();flushList();out.push("<h"+Math.min(h[1].length+1,5)+">"+escapeHtml(h[2])+"</h"+Math.min(h[1].length+1,5)+">");continue}const li=line.match(/^\\s*[-*]\\s+(.+)/);if(li){flushP();if(list!=="ul"){flushList();list="ul"}listItems.push(li[1]);continue}const num=line.match(/^\\s*\\d+\\.\\s+(.+)/);if(num){flushP();if(list!=="ol"){flushList();list="ol"}listItems.push(num[1]);continue}if(!line.trim()){flushP();flushList();continue}paragraph.push(line)}flushP();flushList();flushTable();return out.join("")}\nasync function loadTopicText(blockNumber,topicNumber,topicTitle){const target=document.getElementById("topicText"),hint=document.getElementById("studyMaterialHint");target.innerHTML="<p>Cargando el texto…</p>";const path="./temas/B"+blockNumber+"-T"+String(topicNumber).padStart(2,"0")+".md";try{const response=await fetch(path);if(!response.ok)throw Error("not-found");const md=await response.text();target.innerHTML=renderMarkdown(md);hint.textContent="Resumen de repaso disponible para este tema. Es material secundario; contrasta normativa, artículos y plazos con el BOE y la convocatoria vigente."}catch{target.innerHTML="<p><strong>No hay un resumen publicado para este tema todavía.</strong></p><p>Mientras se prepara el contenido, puedes abrir el PDF de tu academia en el apartado de abajo. No se ha inventado ni sustituido el texto por información no verificada.</p>";hint.textContent="No se ha encontrado un resumen para este tema."}}
+function escapeHtml(value){return String(value).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]))}
+function renderMarkdown(md){
+ const lines=md.replace(/\r/g,"").split("\n"),out=[];let paragraph=[],list=null,listItems=[],table=[];
+ const flushP=()=>{if(paragraph.length){out.push("<p>"+paragraph.map(escapeHtml).join("<br>")+"</p>");paragraph=[]}};
+ const flushList=()=>{if(list){out.push("<"+list+">"+listItems.map(x=>"<li>"+escapeHtml(x)+"</li>").join("")+"</"+list+">");list=null;listItems=[]}};
+ const flushTable=()=>{if(table.length){out.push("<pre>"+escapeHtml(table.join("\n"))+"</pre>");table=[]}};
+ for(const line of lines){
+  if(line.trim().startsWith("|")){flushP();flushList();table.push(line);continue}else flushTable();
+  const h=line.match(/^(#{1,4})\s+(.+)/);if(h){flushP();flushList();const level=Math.min(h[1].length+1,5);out.push("<h"+level+">"+escapeHtml(h[2])+"</h"+level+">");continue}
+  const li=line.match(/^\s*[-*]\s+(.+)/);if(li){flushP();if(list!=="ul"){flushList();list="ul"}listItems.push(li[1]);continue}
+  const num=line.match(/^\s*\d+\.\s+(.+)/);if(num){flushP();if(list!=="ol"){flushList();list="ol"}listItems.push(num[1]);continue}
+  if(!line.trim()){flushP();flushList();continue}paragraph.push(line)
+ }
+ flushP();flushList();flushTable();return out.join("")
+}
+async function loadTopicText(blockNumber,topicNumber){
+ const target=document.getElementById("topicText"),hint=document.getElementById("studyMaterialHint");
+ target.innerHTML="<p>Cargando el texto…</p>";
+ const path="./temas/B"+blockNumber+"-T"+String(topicNumber).padStart(2,"0")+".md";
+ try{const response=await fetch(path);if(!response.ok)throw Error("not-found");const md=await response.text();target.innerHTML=renderMarkdown(md);hint.textContent="Resumen de repaso disponible. Es material secundario; contrasta normativa, artículos y plazos con el BOE y la convocatoria vigente."}
+ catch{target.innerHTML="<p><strong>No hay un resumen publicado para este tema todavía.</strong></p><p>Puedes abrir el PDF de tu academia en el apartado de abajo. No se ha sustituido el contenido por información no verificada.</p>";hint.textContent="No se ha encontrado un resumen para este tema."}
+}
+function openStudy(id,title,topicTitle,blockNumber,topicNumber){
+ activeTopic=id;document.getElementById("studyTitle").textContent=title+" · "+topicTitle;
+ loadTopicText(blockNumber,topicNumber);
+ document.getElementById("studyModal").classList.add("open");
+ document.getElementById("studyNotes").value=state.topicNotes[id]?.notes||"";
+ document.getElementById("recall").value=state.topicNotes[id]?.recall||"";
+ document.getElementById("topicDone").checked=!!state.checked[id];
+ document.getElementById("topicPdf").value="";
+ document.getElementById("pdfViewer").innerHTML='<div><strong>Aún no has abierto un PDF.</strong><p class="small">Selecciona un archivo PDF si quieres consultar el material de tu academia.</p></div>';
+ timerSeconds=0;updateClock();document.getElementById("studyMessage").textContent=""
+}
 function updateClock(){const h=String(Math.floor(timerSeconds/3600)).padStart(2,"0"),m=String(Math.floor(timerSeconds%3600/60)).padStart(2,"0"),s=String(timerSeconds%60).padStart(2,"0");document.getElementById("studyClock").textContent=h+":"+m+":"+s}
 function pauseTimer(){if(timerInterval){clearInterval(timerInterval);timerInterval=null;timerStartedAt=null}}
 document.getElementById("timerStart").addEventListener("click",()=>{if(timerInterval)return;timerStartedAt=Date.now();timerInterval=setInterval(()=>{timerSeconds++;updateClock()},1000)});
