@@ -9,6 +9,7 @@ class BuildTest(unittest.TestCase):
     def setUp(self):
         self.store = Store(DATOS_REALES)
         self.db = build(self.store)
+        self.addCleanup(self.db.close)
 
     def test_recuentos_coinciden(self):
         q = self.db.execute

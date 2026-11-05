@@ -1,0 +1,139 @@
+{
+  "tema_id": "B1-T08",
+  "fuente_id": "SRC-TEMARIO-B1-T08",
+  "paginas": 43,
+  "fecha_pdf": "2022-01-24",
+  "normas_referencia": [
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público - Título I hasta Capitulo III (Art 54 a 79)."
+  ],
+  "pagina_inicio_cuerpo": 5,
+  "estado_indice": "extraido_automaticamente",
+  "epigrafes": [
+    {
+      "numero": "1",
+      "titulo": "INTRODUCCIÓN.",
+      "pagina_ini": 5,
+      "pagina_fin": 5,
+      "id": "B1-T08-E1"
+    },
+    {
+      "numero": "1.1",
+      "titulo": "LA LEY 40/2015. ÓRGANOS Y COMPETENCIAS.",
+      "pagina_ini": 5,
+      "pagina_fin": 5,
+      "id": "B1-T08-E1.1"
+    },
+    {
+      "numero": "1.2",
+      "titulo": "OBJETO DE LA LEY.",
+      "pagina_ini": 5,
+      "pagina_fin": 6,
+      "id": "B1-T08-E1.2"
+    },
+    {
+      "numero": "1.3",
+      "titulo": "ÁMBITO DE APLICACIÓN.",
+      "pagina_ini": 6,
+      "pagina_fin": 7,
+      "id": "B1-T08-E1.3"
+    },
+    {
+      "numero": "1.4",
+      "titulo": "ESTRUCTURA DE LA NORMA.",
+      "pagina_ini": 7,
+      "pagina_fin": 8,
+      "id": "B1-T08-E1.4"
+    },
+    {
+      "numero": "1.5",
+      "titulo": "PRINCIPIOS GENERALES.",
+      "pagina_ini": 8,
+      "pagina_fin": 9,
+      "id": "B1-T08-E1.5"
+    },
+    {
+      "numero": "1.6",
+      "titulo": "EL ÓRGANO ADMINISTRATIVO Y LA COMPETENCIA.",
+      "pagina_ini": 9,
+      "pagina_fin": 11,
+      "id": "B1-T08-E1.6"
+    },
+    {
+      "numero": "2",
+      "titulo": "ADMINISTRACIÓN GENERAL DEL ESTADO: LOS MINISTROS. LOS SECRETARIOS DE ESTADO. LOS SUBSECRETARIOS. LA ADMINISTRACIÓN PERIFÉRICA DEL ESTADO. OTROS ÓRGANOS ADMINISTRATIVOS.",
+      "pagina_ini": 11,
+      "pagina_fin": 11,
+      "id": "B1-T08-E2"
+    },
+    {
+      "numero": "2.1",
+      "titulo": "REGULACIÓN.",
+      "pagina_ini": 11,
+      "pagina_fin": 11,
+      "id": "B1-T08-E2.1"
+    },
+    {
+      "numero": "2.2",
+      "titulo": "LA AGE COMO ORGANIZACIÓN.",
+      "pagina_ini": 11,
+      "pagina_fin": 12,
+      "id": "B1-T08-E2.2"
+    },
+    {
+      "numero": "2.3",
+      "titulo": "LA ORGANIZACIÓN DE LA AGE.",
+      "pagina_ini": 12,
+      "pagina_fin": 30,
+      "id": "B1-T08-E2.3"
+    },
+    {
+      "numero": "3",
+      "titulo": "ADMINISTRACIÓN INSTITUCIONAL.",
+      "pagina_ini": 30,
+      "pagina_fin": 30,
+      "id": "B1-T08-E3"
+    },
+    {
+      "numero": "3.1",
+      "titulo": "EL SECTOR PÚBLICO INSTITUCIONAL.",
+      "pagina_ini": 30,
+      "pagina_fin": 32,
+      "id": "B1-T08-E3.1"
+    },
+    {
+      "numero": "3.2",
+      "titulo": "ORGANISMOS PÚBLICOS.",
+      "pagina_ini": 32,
+      "pagina_fin": 34,
+      "id": "B1-T08-E3.2"
+    },
+    {
+      "numero": "3.3",
+      "titulo": "ORGANISMOS AUTÓNOMOS.",
+      "pagina_ini": 34,
+      "pagina_fin": 35,
+      "id": "B1-T08-E3.3"
+    },
+    {
+      "numero": "3.4",
+      "titulo": "ENTIDADES PÚBLICAS EMPRESARIALES.",
+      "pagina_ini": 35,
+      "pagina_fin": 36,
+      "id": "B1-T08-E3.4"
+    },
+    {
+      "numero": "3.5",
+      "titulo": "LAS AGENCIAS ESTATALES.",
+      "pagina_ini": 36,
+      "pagina_fin": 38,
+      "id": "B1-T08-E3.5"
+    },
+    {
+      "numero": "3.6",
+      "titulo": "OTROS ENTES DEL SECTOR PÚBLICO ESTATAL.",
+      "pagina_ini": 38,
+      "pagina_fin": 43,
+      "id": "B1-T08-E3.6"
+    }
+  ]
+}

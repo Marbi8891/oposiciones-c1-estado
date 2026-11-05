@@ -1,0 +1,97 @@
+{
+  "tema_id": "B1-T09",
+  "fuente_id": "SRC-TEMARIO-B1-T09",
+  "paginas": 27,
+  "fecha_pdf": "2021-09-07",
+  "normas_referencia": [
+    "Constitución Española - Título VIII (Art 137 a 158)"
+  ],
+  "pagina_inicio_cuerpo": 4,
+  "estado_indice": "extraido_automaticamente",
+  "epigrafes": [
+    {
+      "numero": "1",
+      "titulo": "LA ORGANIZACIÓN TERRITORIAL DEL ESTADO: LAS COMUNIDADES AUTÓNOMAS.",
+      "pagina_ini": 4,
+      "pagina_fin": 4,
+      "id": "B1-T09-E1"
+    },
+    {
+      "numero": "1.1",
+      "titulo": "EL ESTADO AUTONÓMICO.",
+      "pagina_ini": 4,
+      "pagina_fin": 11,
+      "id": "B1-T09-E1.1"
+    },
+    {
+      "numero": "2",
+      "titulo": "CONSTITUCIÓN Y DISTRIBUCIÓN DE COMPETENCIAS ENTRE EL ESTADO Y LAS COMUNIDADES AUTÓNOMAS.",
+      "pagina_ini": 11,
+      "pagina_fin": 12,
+      "id": "B1-T09-E2"
+    },
+    {
+      "numero": "2.1",
+      "titulo": "CONSTITUCIÓN.",
+      "pagina_ini": 12,
+      "pagina_fin": 14,
+      "id": "B1-T09-E2.1"
+    },
+    {
+      "numero": "2.2",
+      "titulo": "DISTRIBUCIÓN DE COMPETENCIAS ENTRE EL ESTADO Y LAS COMUNIDADES AUTÓNOMAS.",
+      "pagina_ini": 14,
+      "pagina_fin": 20,
+      "id": "B1-T09-E2.2"
+    },
+    {
+      "numero": "3",
+      "titulo": "RELACIONES ENTRE EL ORDENAMIENTO ESTATAL Y LOS AUTONÓMICOS.",
+      "pagina_ini": 20,
+      "pagina_fin": 20,
+      "id": "B1-T09-E3"
+    },
+    {
+      "numero": "3.1",
+      "titulo": "RELACIÓN PRIMARIA Y SUPUESTOS.",
+      "pagina_ini": 20,
+      "pagina_fin": 21,
+      "id": "B1-T09-E3.1"
+    },
+    {
+      "numero": "3.2",
+      "titulo": "RELACIONES DE COOPERACIÓN.",
+      "pagina_ini": 21,
+      "pagina_fin": 22,
+      "id": "B1-T09-E3.2"
+    },
+    {
+      "numero": "3.3",
+      "titulo": "RELACIONES DE INTERFERENCIA.",
+      "pagina_ini": 22,
+      "pagina_fin": 24,
+      "id": "B1-T09-E3.3"
+    },
+    {
+      "numero": "4",
+      "titulo": "LOS ESTATUTOS DE AUTONOMÍA.",
+      "pagina_ini": 24,
+      "pagina_fin": 24,
+      "id": "B1-T09-E4"
+    },
+    {
+      "numero": "4.1",
+      "titulo": "LA AUTONOMÍA.",
+      "pagina_ini": 24,
+      "pagina_fin": 25,
+      "id": "B1-T09-E4.1"
+    },
+    {
+      "numero": "4.2",
+      "titulo": "CONCEPTO Y CONTENIDO DE LOS ESTATUTOS DE AUTONOMÍA.",
+      "pagina_ini": 25,
+      "pagina_fin": 27,
+      "id": "B1-T09-E4.2"
+    }
+  ]
+}

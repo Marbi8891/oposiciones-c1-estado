@@ -1,0 +1,77 @@
+{
+  "tema_id": "B1-T11",
+  "fuente_id": "SRC-TEMARIO-B1-T11",
+  "paginas": 47,
+  "fecha_pdf": "2024-10-21",
+  "normas_referencia": [
+    "Tratado de la Unión Europea.",
+    "Tratado de funcionamiento de la Unión Europea."
+  ],
+  "pagina_inicio_cuerpo": 4,
+  "estado_indice": "extraido_automaticamente",
+  "epigrafes": [
+    {
+      "numero": "1",
+      "titulo": "LA ORGANIZACIÓN DE LA UNIÓN EUROPEA. EL CONSEJO EUROPEO, EL CONSEJO, EL PARLAMENTO EUROPEO, LA COMISIÓN EUROPEA Y EL TRIBUNAL DE JUSTICIA DE LA UNIÓN EUROPEA.",
+      "pagina_ini": 4,
+      "pagina_fin": 4,
+      "id": "B1-T11-E1"
+    },
+    {
+      "numero": "1.1",
+      "titulo": "LAS INSTITUCIONES COMUNITARIAS (TRATADO DE LISBOA).",
+      "pagina_ini": 4,
+      "pagina_fin": 26,
+      "id": "B1-T11-E1.1"
+    },
+    {
+      "numero": "2",
+      "titulo": "EFECTOS DE LA INTEGRACIÓN EUROPEA.",
+      "pagina_ini": 26,
+      "pagina_fin": 26,
+      "id": "B1-T11-E2"
+    },
+    {
+      "numero": "2.1",
+      "titulo": "ORGANIZACIÓN DE LA UE.",
+      "pagina_ini": 26,
+      "pagina_fin": 28,
+      "id": "B1-T11-E2.1"
+    },
+    {
+      "numero": "2.2",
+      "titulo": "TRATADOS MODIFICATIVOS.",
+      "pagina_ini": 28,
+      "pagina_fin": 33,
+      "id": "B1-T11-E2.2"
+    },
+    {
+      "numero": "2.3",
+      "titulo": "EUROPA MÁS DEMOCRÁTICA Y TRANSPARENTE TRAS TRATADO DE LISBOA.",
+      "pagina_ini": 33,
+      "pagina_fin": 35,
+      "id": "B1-T11-E2.3"
+    },
+    {
+      "numero": "2.4",
+      "titulo": "TRATADOS DE ADHESIÓN.",
+      "pagina_ini": 35,
+      "pagina_fin": 36,
+      "id": "B1-T11-E2.4"
+    },
+    {
+      "numero": "2.5",
+      "titulo": "EL ORDENAMIENTO JURÍDICO COMUNITARIO.",
+      "pagina_ini": 36,
+      "pagina_fin": 40,
+      "id": "B1-T11-E2.5"
+    },
+    {
+      "numero": "2.6",
+      "titulo": "EFECTOS DE LA INTEGRACIÓN DE ESPAÑA EN LA UNIÓN EUROPEA.",
+      "pagina_ini": 40,
+      "pagina_fin": 47,
+      "id": "B1-T11-E2.6"
+    }
+  ]
+}

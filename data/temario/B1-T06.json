@@ -1,0 +1,116 @@
+{
+  "tema_id": "B1-T06",
+  "fuente_id": "SRC-TEMARIO-B1-T06",
+  "paginas": 49,
+  "fecha_pdf": "2024-10-25",
+  "normas_referencia": [],
+  "pagina_inicio_cuerpo": 5,
+  "estado_indice": "extraido_automaticamente",
+  "epigrafes": [
+    {
+      "numero": "1",
+      "titulo": "INTRODUCCIÓN.",
+      "pagina_ini": null,
+      "pagina_fin": null,
+      "id": "B1-T06-E1"
+    },
+    {
+      "numero": "2",
+      "titulo": "EL GOBIERNO ABIERTO.",
+      "pagina_ini": 5,
+      "pagina_fin": 5,
+      "id": "B1-T06-E2"
+    },
+    {
+      "numero": "2.1",
+      "titulo": "CONCEPTO DE GOBIERNO ABIERTO.",
+      "pagina_ini": 5,
+      "pagina_fin": 6,
+      "id": "B1-T06-E2.1"
+    },
+    {
+      "numero": "2.2",
+      "titulo": "PRINCIPIOS INFORMADORES.",
+      "pagina_ini": 6,
+      "pagina_fin": 8,
+      "id": "B1-T06-E2.2"
+    },
+    {
+      "numero": "2.3",
+      "titulo": "ALIANZA PARA EL GOBIERNO ABIERTO.",
+      "pagina_ini": 8,
+      "pagina_fin": 8,
+      "id": "B1-T06-E2.3"
+    },
+    {
+      "numero": "2.4",
+      "titulo": "ÁREAS DE POLÍTICA.",
+      "pagina_ini": 8,
+      "pagina_fin": 13,
+      "id": "B1-T06-E2.4"
+    },
+    {
+      "numero": "2.5",
+      "titulo": "PLANES DE GOBIERNO ABIERTO DEL GOBIERNO DE ESPAÑA.",
+      "pagina_ini": 13,
+      "pagina_fin": 14,
+      "id": "B1-T06-E2.5"
+    },
+    {
+      "numero": "2.6",
+      "titulo": "MEDIDAS DE APLICACIÓN.",
+      "pagina_ini": 14,
+      "pagina_fin": 18,
+      "id": "B1-T06-E2.6"
+    },
+    {
+      "numero": "2.7",
+      "titulo": "FORO GOBIERNO ABIERTO.",
+      "pagina_ini": 18,
+      "pagina_fin": 22,
+      "id": "B1-T06-E2.7"
+    },
+    {
+      "numero": "2.8",
+      "titulo": "COMISIÓN SECTORIAL GOBIERNO ABIERTO.",
+      "pagina_ini": 22,
+      "pagina_fin": 24,
+      "id": "B1-T06-E2.8"
+    },
+    {
+      "numero": "2.9",
+      "titulo": "RED DE ENTIDADES LOCALES DE TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA.",
+      "pagina_ini": 24,
+      "pagina_fin": 24,
+      "id": "B1-T06-E2.9"
+    },
+    {
+      "numero": "2.10",
+      "titulo": "GOBIERNO ABIERTO EN EL EXTERIOR.",
+      "pagina_ini": 24,
+      "pagina_fin": 26,
+      "id": "B1-T06-E2.10"
+    },
+    {
+      "numero": "3",
+      "titulo": "AGENDA 2030: OBJETIVOS DE DESARROLLO SOSTENIBLE.",
+      "pagina_ini": 26,
+      "pagina_fin": 27,
+      "id": "B1-T06-E3"
+    },
+    {
+      "numero": "3.1",
+      "titulo": "OBJETIVOS DE DESARROLLO SOSTENIBLE -ODS-.",
+      "pagina_ini": 27,
+      "pagina_fin": 30,
+      "id": "B1-T06-E3.1"
+    },
+    {
+      "numero": "3.2",
+      "titulo": "METAS DE DESARROLLO SOSTENIBLE.",
+      "pagina_ini": 30,
+      "pagina_fin": 49,
+      "id": "B1-T06-E3.2"
+    }
+  ]
+}
