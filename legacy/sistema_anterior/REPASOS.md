@@ -33,6 +33,10 @@ Los temas ya programados antes de instalar este sistema usan la escala heredada 
 | R-B3-T05 | Bloque III T05 | Formas de la actividad administrativa | 2 | Sin evaluar | 30/08/2026 | **31/08/2026** (R1) | Alta |
 | R-B3-T06 | Bloque III T06 | Responsabilidad patrimonial de las AAPP | 2 | Sin evaluar | 30/08/2026 | **31/08/2026** (R1) | Alta |
 | R-B3-T07 | Bloque III T07 | Igualdad, violencia de género, discapacidad y dependencia | 2 | Sin evaluar | 30/08/2026 | **31/08/2026** (R1) | Alta |
+| R-B4-T01 | Bloque IV T01 | Personal al servicio de las AAPP, TREBEP, competencias en materia de personal, Registro Central de Personal | 2 | Sin evaluar | 03/09/2026 | **10/09/2026** (R3) | Alta |
+| R-B4-T02 | Bloque IV T02 | Selección de personal, procesos selectivos, principios constitucionales, discapacidad | 2 | Sin evaluar | 03/09/2026 | **10/09/2026** (R3) | Alta |
+| R-B4-T03 | Bloque IV T03 | Funcionarios de carrera e interinos, selección de funcionarios | 2 | Sin evaluar | 03/09/2026 | **10/09/2026** (R3) | Alta |
+| R-B4-T04 | Bloque IV T04 | Adquisición/pérdida condición funcionario, situaciones administrativas | 2 | Sin evaluar | 04/09/2026 | **11/09/2026** (R3) | Alta |
 
 ## Repasos vencidos
 Ninguno todavía (hoy es 30/08/2026; el primer vencimiento es 05/09/2026).
@@ -68,6 +72,10 @@ Ninguno todavía (hoy es 30/08/2026; el primer vencimiento es 05/09/2026).
 | Bloque III T05 | 06/09/2026 | 29/09/2026 |
 | Bloque III T06 | 06/09/2026 | 29/09/2026 |
 | Bloque III T07 | 06/09/2026 | 29/09/2026 |
+| Bloque IV T01 | 10/09/2026 | 03/10/2026 |
+| Bloque IV T02 | 10/09/2026 | 03/10/2026 |
+| Bloque IV T03 | 10/09/2026 | 03/10/2026 |
+| Bloque IV T04 | 11/09/2026 | 04/10/2026 |
 
 ## Política
 - Fallo → acortar el siguiente intervalo.

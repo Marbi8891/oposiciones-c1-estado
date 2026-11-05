@@ -3,11 +3,17 @@
 ## Oposición
 Administrativo de la Administración del Estado — Subgrupo C1 (Cuerpo General Administrativo del Estado).
 
+## Turno de acceso
+Cupo de reserva (discapacidad). Relevante para la reserva de plazas de la convocatoria aplicable (la convocatoria 2025, ya en fase de corrección, reservaba 230 de las 2.512 plazas de turno libre a discapacidad) y para posibles adaptaciones del ejercicio, si se solicitan y acreditan en su momento — pendiente de confirmar en las bases de la convocatoria de la OEP 2026 cuando se publiquen.
+
 ## Objetivo temporal
 Examen objetivo aproximado: mayo de 2027. Es una estimación de planificación, no hay convocatoria oficial confirmada todavía. Sustituir por la fecha real cuando se publique la convocatoria.
 
 ## Disponibilidad
 10-15 horas semanales de estudio.
+
+## Prioridad y compatibilidad con DAW
+La prioridad principal actual del alumno es terminar el Grado en Desarrollo de Aplicaciones Web (DAW). La preparación de esta oposición es secundaria: debe encajar en el tiempo disponible sin perjudicar los estudios DAW. Ante un conflicto de tiempo, DAW tiene prioridad.
 
 ## Experiencia previa
 El alumno ya tiene experiencia previa preparando oposiciones — no hace falta explicarle técnica básica de examen (gestión del tiempo, cómo se corrige, etc.), sí conviene entrenarle en la técnica específica de esta convocatoria cuando se conozca el formato oficial.

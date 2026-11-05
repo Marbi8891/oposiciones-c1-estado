@@ -1,0 +1,181 @@
+{
+  "tema_id": "B1-T02",
+  "fuente_id": "SRC-TEMARIO-B1-T02",
+  "paginas": 24,
+  "fecha_pdf": "2020-06-03",
+  "normas_referencia": [
+    "Constitución Española (Art 56 a 65)"
+  ],
+  "pagina_inicio_cuerpo": 6,
+  "estado_indice": "extraido_automaticamente",
+  "epigrafes": [
+    {
+      "numero": "1",
+      "titulo": "INTRODUCCIÓN.",
+      "pagina_ini": null,
+      "pagina_fin": null,
+      "id": "B1-T02-E1"
+    },
+    {
+      "numero": "2",
+      "titulo": "EL ESTADO SOCIAL Y DEMOCRÁTICO DE DERECHO.",
+      "pagina_ini": 6,
+      "pagina_fin": 6,
+      "id": "B1-T02-E2"
+    },
+    {
+      "numero": "2.1",
+      "titulo": "PLANTEAMIENTO.",
+      "pagina_ini": 6,
+      "pagina_fin": 6,
+      "id": "B1-T02-E2.1"
+    },
+    {
+      "numero": "2.2",
+      "titulo": "ESTADO DE DERECHO.",
+      "pagina_ini": 6,
+      "pagina_fin": 7,
+      "id": "B1-T02-E2.2"
+    },
+    {
+      "numero": "2.3",
+      "titulo": "ESTADO DEMOCRÁTICO",
+      "pagina_ini": 7,
+      "pagina_fin": 7,
+      "id": "B1-T02-E2.3"
+    },
+    {
+      "numero": "2.4",
+      "titulo": "ESTADO SOCIAL.",
+      "pagina_ini": 7,
+      "pagina_fin": 9,
+      "id": "B1-T02-E2.4"
+    },
+    {
+      "numero": "3",
+      "titulo": "LA MONARQUÍA PARLAMENTARIA COMO FORMA POLÍTICA DEL ESTADO.",
+      "pagina_ini": 9,
+      "pagina_fin": 10,
+      "id": "B1-T02-E3"
+    },
+    {
+      "numero": "4",
+      "titulo": "LA CORONA.",
+      "pagina_ini": 10,
+      "pagina_fin": 10,
+      "id": "B1-T02-E4"
+    },
+    {
+      "numero": "4.1",
+      "titulo": "EL REY.",
+      "pagina_ini": 10,
+      "pagina_fin": 11,
+      "id": "B1-T02-E4.1"
+    },
+    {
+      "numero": "4.2",
+      "titulo": "EL PRÍNCIPE HEREDERO Y LA REINA CONSORTE O EL CONSORTE DE LA REINA.",
+      "pagina_ini": 11,
+      "pagina_fin": 12,
+      "id": "B1-T02-E4.2"
+    },
+    {
+      "numero": "5",
+      "titulo": "INSTITUCIONES DESTINADAS A SUPLIR LA INCAPACIDAD DEL REY.",
+      "pagina_ini": 12,
+      "pagina_fin": 13,
+      "id": "B1-T02-E5"
+    },
+    {
+      "numero": "6",
+      "titulo": "FUNCIONES CONSTITUCIONALES DEL REY.",
+      "pagina_ini": 13,
+      "pagina_fin": 13,
+      "id": "B1-T02-E6"
+    },
+    {
+      "numero": "6.1",
+      "titulo": "POSICIÓN CONSTITUCIONAL.",
+      "pagina_ini": 13,
+      "pagina_fin": 15,
+      "id": "B1-T02-E6.1"
+    },
+    {
+      "numero": "7",
+      "titulo": "ATRIBUCIONES ESPECÍFICAS DEL REY.",
+      "pagina_ini": 15,
+      "pagina_fin": 17,
+      "id": "B1-T02-E7"
+    },
+    {
+      "numero": "8",
+      "titulo": "FUNCIONES INTERNACIONALES.",
+      "pagina_ini": 17,
+      "pagina_fin": 18,
+      "id": "B1-T02-E8"
+    },
+    {
+      "numero": "9",
+      "titulo": "EL CONTROVERTIDO ROL DE GUARDIÁN DE LA CONSTITUCIÓN.",
+      "pagina_ini": 18,
+      "pagina_fin": 20,
+      "id": "B1-T02-E9"
+    },
+    {
+      "numero": "10",
+      "titulo": "EL REFRENDO DE SUS ACTOS.",
+      "pagina_ini": 20,
+      "pagina_fin": 20,
+      "id": "B1-T02-E10"
+    },
+    {
+      "numero": "10.1",
+      "titulo": "AUSENCIA DE RESPONSABILIDAD DEL REY Y SIGNIFICADO DEL REFRENDO.",
+      "pagina_ini": 20,
+      "pagina_fin": 20,
+      "id": "B1-T02-E10.1"
+    },
+    {
+      "numero": "10.2",
+      "titulo": "FORMA Y NATURALEZA DEL REFRENDO.",
+      "pagina_ini": 20,
+      "pagina_fin": 21,
+      "id": "B1-T02-E10.2"
+    },
+    {
+      "numero": "10.3",
+      "titulo": "ÁMBITO DEL REFRENDO.",
+      "pagina_ini": 21,
+      "pagina_fin": 22,
+      "id": "B1-T02-E10.3"
+    },
+    {
+      "numero": "10.4",
+      "titulo": "SUJETOS LEGITIMADOS PARA REFRENDAR.",
+      "pagina_ini": 22,
+      "pagina_fin": 23,
+      "id": "B1-T02-E10.4"
+    },
+    {
+      "numero": "11",
+      "titulo": "SUCESIÓN Y REGENCIA.",
+      "pagina_ini": 23,
+      "pagina_fin": 23,
+      "id": "B1-T02-E11"
+    },
+    {
+      "numero": "11.1",
+      "titulo": "LA SUCESIÓN.",
+      "pagina_ini": 23,
+      "pagina_fin": 24,
+      "id": "B1-T02-E11.1"
+    },
+    {
+      "numero": "11.2",
+      "titulo": "LA REGENCIA.",
+      "pagina_ini": 24,
+      "pagina_fin": 24,
+      "id": "B1-T02-E11.2"
+    }
+  ]
+}

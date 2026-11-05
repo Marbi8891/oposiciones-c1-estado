@@ -3,7 +3,12 @@
     "fecha_estimada": "2027-05",
     "es_estimacion": true,
     "formato": null,
-    "formato_nota": "Pendiente de verificar en la convocatoria (BOE-A-2025-26262, Anexo III)."
+    "formato_nota": "Pendiente de verificar en la convocatoria (BOE-A-2025-26262, Anexo III).",
+    "formato_referencia": {
+      "estado": "PENDIENTE DE VERIFICACIÓN",
+      "descripcion": "Convocatoria OEP 2025 según CAMBIOS_LEGISLATIVOS.md (15/09/2026): 70 preguntas (40 temario + 30 ofimática) + supuesto práctico a elegir entre 2 (20 preguntas), máximo 100 minutos.",
+      "fuente": "BOE-A-2025-26262 (no contrastado todavía por este sistema)"
+    }
   },
   "disponibilidad": {
     "horas_semana_min": 10,
@@ -40,5 +45,10 @@
       "muy_dificil": 10
     }
   },
-  "origen": "legacy/sistema_anterior/CONFIG.yaml + diseño aprobado el 07/10/2026"
+  "origen": "legacy/sistema_anterior/CONFIG.yaml + diseño aprobado el 07/10/2026",
+  "alumno": {
+    "turno": "reserva discapacidad",
+    "nota": "Declarado en PERFIL_ALUMNO.md (15/09/2026). Condiciones de reserva y adaptaciones: pendiente de confirmar en las bases de la convocatoria de la OEP 2026."
+  },
+  "restriccion_15_09": "El CLAUDE.md del sistema anterior (15/09/2026) pedía no convertir la preparación en un proyecto de programación salvo petición explícita. El alumno pidió este sistema expresamente el 05/10/2026 y aprobó el diseño el 07/10/2026. Se mantiene el espíritu: no ampliar herramientas fuera de las fases aprobadas."
 }

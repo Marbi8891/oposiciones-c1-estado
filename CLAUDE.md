@@ -1,7 +1,7 @@
 # Sistema de preparación C1 · Administrativo del Estado
 
 Sistema personal de preparación de MRABEH para el Cuerpo General Administrativo de la Administración del Estado (C1).
-Diseño aprobado el 07/10/2026: `docs/DISENO_SISTEMA_C1.md`. Fase actual: **F0 (cimientos y migración)**.
+Diseño aprobado el 07/10/2026: `docs/DISENO_SISTEMA_C1.md`. Fase actual: **F1 (temario, test, corrección y errores)**.
 
 ## Principio rector
 
@@ -48,6 +48,12 @@ python3 -m c1 validar         # comprobaciones duras del banco (código de salid
 python3 -m c1 alertas         # alertas normativas o de calidad
 python3 -m c1 auditoria -n 20 # últimos eventos
 python3 -m c1 build           # índice SQLite en build/c1.db (derivado; no se versiona)
+python3 -m c1 temario B1-T05  # índice del PDF con páginas y normas de referencia
+python3 -m c1 buscar "art. 99" [--tema B1-T05]   # localiza en el temario: tema, epígrafe, página
+python3 -m c1 test --tema B1-T05 -n 20 [--modo errores] [--json]
+python3 -m c1 corregir SES-... "1a 2b? 3c* 4-"   # sin marca=seguro, ?=dudas, *=azar, -=en blanco
+python3 -m c1 clasificar-error ERR-... --tipo C --explicacion "..." --concepto "..."
+python3 -m c1 errores [--dias 14]
 python3 -m unittest discover -s tests -t .
 ```
 
@@ -61,13 +67,24 @@ python3 -m unittest discover -s tests -t .
 | `preguntas/<tema>.json`, `flashcards/<tema>.json` | Banco versionado (`Q-nnnnnn`, `FC-nnnnn`) |
 | `resumenes/<tema>.md` | Resúmenes de chuleta-c1 (material secundario, no es el temario) |
 | `normas/verificaciones.json` | Verificaciones contra BOE |
-| `eventos/*.jsonl` | Auditoría, respuestas, alertas: solo se añade |
+| `temario/<tema>.json` | Índice de epígrafes (con página) y normas de referencia del PDF; `extraido_automaticamente` hasta que el alumno lo valide |
+| `temario/texto/<tema>.jsonl` | Texto del PDF por página, para citar tema y página exactos |
+| `eventos/*.jsonl` | Auditoría, sesiones, respuestas, errores, alertas: solo se añade |
 | `config.json` | Parámetros (examen, disponibilidad, DAW, política de repasos) |
 
 `legacy/sistema_anterior/` conserva los archivos originales del sistema Markdown anterior como referencia histórica.
 
+## Comandos para el alumno
+
+`/progreso`, `/test [tema] [n] [errores]`, `/errores`, `/tema <tema>`, `/explicar <artículo o concepto>`.
+Tras cada test corregido, haz commit y push de `data/`: es la única forma de que el progreso persista.
+
+## Alcance
+
+El CLAUDE.md del sistema anterior (15/09/2026) pedía no convertir la preparación en un proyecto de programación.
+El alumno pidió este sistema expresamente el 05/10/2026: se construye solo lo aprobado, fase a fase, sin ampliar otras herramientas.
+
 ## Pendiente de recibir del alumno
 
-- PDFs del temario de la academia (BLOQUE I–VI): imprescindibles para la Fase 1.
+- PDFs del temario: cargados Bloque I completo y Bloque II T03 (12/45). Faltan Bloque II T01, T02, T04 y los Bloques III–VI.
 - Carga DAW (horas y semanas críticas): para la Fase 2.
-- Si se estudiaron B4-T01..T03 (hay material en chuleta-c1, sin estado registrado).

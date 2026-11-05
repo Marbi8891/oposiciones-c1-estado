@@ -52,4 +52,13 @@ class ProgresoTest(unittest.TestCase):
 
     def test_temas_con_material_sin_estado(self):
         p = progreso.calcular(Store(DATOS_REALES))
-        self.assertEqual(p["sin_estado_con_material"], ["B4-T01", "B4-T02", "B4-T03"])
+        self.assertEqual(p["sin_estado_con_material"], [])
+
+    def test_temario_cargado(self):
+        p = progreso.calcular(Store(DATOS_REALES))
+        self.assertEqual(p["temario_pdf_cargado"], 12)
+
+    def test_en_blanco_no_cuenta_como_acierto(self):
+        self.assertEqual(progreso.clasificar({"acierto": False, "confianza": "blanco"}), "EN BLANCO")
+        rs = [r("q", False, "blanco", f"2026-10-0{i}") for i in range(1, 6)]
+        self.assertEqual(progreso.dominio_tema(True, rs), 1)

@@ -1,0 +1,111 @@
+{
+  "tema_id": "B1-T03",
+  "fuente_id": "SRC-TEMARIO-B1-T03",
+  "paginas": 23,
+  "fecha_pdf": "2020-06-29",
+  "normas_referencia": [
+    "Constitución Española - Título III (Art. 66 a 96)"
+  ],
+  "pagina_inicio_cuerpo": 5,
+  "estado_indice": "extraido_automaticamente",
+  "epigrafes": [
+    {
+      "numero": "1",
+      "titulo": "LAS CORTES GENERALES.",
+      "pagina_ini": null,
+      "pagina_fin": null,
+      "id": "B1-T03-E1"
+    },
+    {
+      "numero": "2",
+      "titulo": "COMPOSICIÓN, ATRIBUCIONES Y FUNCIONAMIENTO DEL CONGRESO DE LOS DIPUTADOS Y DEL SENADO.",
+      "pagina_ini": 6,
+      "pagina_fin": 6,
+      "id": "B1-T03-E2"
+    },
+    {
+      "numero": "2.1",
+      "titulo": "COMPOSICIÓN.",
+      "pagina_ini": 6,
+      "pagina_fin": 10,
+      "id": "B1-T03-E2.1"
+    },
+    {
+      "numero": "2.2",
+      "titulo": "ESTATUTO DE LOS PARLAMENTARIOS.",
+      "pagina_ini": 10,
+      "pagina_fin": 12,
+      "id": "B1-T03-E2.2"
+    },
+    {
+      "numero": "2.3",
+      "titulo": "PRERROGATIVAS COLECTIVAS.",
+      "pagina_ini": 12,
+      "pagina_fin": 13,
+      "id": "B1-T03-E2.3"
+    },
+    {
+      "numero": "2.4",
+      "titulo": "ESTRUCTURA DE LAS CORTES GENERALES.",
+      "pagina_ini": 13,
+      "pagina_fin": 17,
+      "id": "B1-T03-E2.4"
+    },
+    {
+      "numero": "3",
+      "titulo": "ATRIBUCIONES.",
+      "pagina_ini": 17,
+      "pagina_fin": 17,
+      "id": "B1-T03-E3"
+    },
+    {
+      "numero": "3.1",
+      "titulo": "CLASIFICACIÓN.",
+      "pagina_ini": 17,
+      "pagina_fin": 18,
+      "id": "B1-T03-E3.1"
+    },
+    {
+      "numero": "3.2",
+      "titulo": "EL CONTROL DEL GOBIERNO.",
+      "pagina_ini": 18,
+      "pagina_fin": 20,
+      "id": "B1-T03-E3.2"
+    },
+    {
+      "numero": "4",
+      "titulo": "FUNCIONAMIENTO DEL CONGRESO DE LOS DIPUTADOS Y DEL SENADO.",
+      "pagina_ini": 20,
+      "pagina_fin": 20,
+      "id": "B1-T03-E4"
+    },
+    {
+      "numero": "4.1",
+      "titulo": "INICIATIVA LEGISLATIVA.",
+      "pagina_ini": 20,
+      "pagina_fin": 20,
+      "id": "B1-T03-E4.1"
+    },
+    {
+      "numero": "4.2",
+      "titulo": "PROCEDIMIENTO LEGISLATIVO.",
+      "pagina_ini": 20,
+      "pagina_fin": 21,
+      "id": "B1-T03-E4.2"
+    },
+    {
+      "numero": "4.3",
+      "titulo": "APROBACIÓN.",
+      "pagina_ini": 21,
+      "pagina_fin": 22,
+      "id": "B1-T03-E4.3"
+    },
+    {
+      "numero": "4.4",
+      "titulo": "SANCIÓN Y PROMULGACIÓN.",
+      "pagina_ini": 22,
+      "pagina_fin": 23,
+      "id": "B1-T03-E4.4"
+    }
+  ]
+}

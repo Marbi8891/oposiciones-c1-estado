@@ -13,7 +13,11 @@ NIVEL_MAX_F0 = 3
 
 
 def clasificar(respuesta: dict) -> str:
-    """ACIERTO REAL / ACIERTO POR DUDAS / ACIERTO POR AZAR / ERROR."""
+    """ACIERTO REAL / ACIERTO POR DUDAS / ACIERTO POR AZAR / ERROR / EN BLANCO."""
+    if respuesta.get("clase"):
+        return respuesta["clase"]
+    if respuesta["confianza"] == "blanco":
+        return "EN BLANCO"
     if not respuesta["acierto"]:
         return "ERROR"
     return {"seguro": "ACIERTO REAL", "dudoso": "ACIERTO POR DUDAS", "azar": "ACIERTO POR AZAR"}[respuesta["confianza"]]
@@ -42,7 +46,8 @@ def calcular(store: Store) -> dict:
     for r in respuestas:
         resp_tema[q_tema.get(r["pregunta_id"])].append(r)
     resumenes = {p.stem for p in store.glob("resumenes/*.md")}
-    temario_pdf = {f.get("tema_id") for f in store.read("fuentes.json", []) if f["tipo"] == "temario_pdf"}
+    temario_pdf = {f.get("tema_id") for f in store.read("fuentes.json", [])
+                   if f["tipo"] == "temario_pdf" and not f.get("sustituida_por")}
     estados_q = defaultdict(Counter)
     for q in preguntas:
         estados_q[q["tema_id"]][q["estado"]] += 1

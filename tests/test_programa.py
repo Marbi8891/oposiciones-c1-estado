@@ -25,6 +25,7 @@ class ProgramaTest(unittest.TestCase):
 
     def test_estado_declarado_conservado_sin_convertirse_en_evidencia(self):
         temas = self.store.read("estado_declarado.json")["temas"]
-        self.assertEqual(len(temas), 22)
-        self.assertEqual(Counter(t["dominio_declarado"] for t in temas.values()), Counter({2: 22}))
+        self.assertEqual(len(temas), 26)  # PROGRESO.md a 03/09/2026: bloques I-III y IV T01-T04
+        self.assertEqual(Counter(t["dominio_declarado"] for t in temas.values()), Counter({2: 26}))
+        self.assertEqual(temas["B4-T04"]["primera_pasada"], "2026-09-04")
         self.assertEqual(temas["B1-T01"]["primera_pasada"], "2026-08-29")

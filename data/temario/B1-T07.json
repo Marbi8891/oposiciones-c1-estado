@@ -1,0 +1,55 @@
+{
+  "tema_id": "B1-T07",
+  "fuente_id": "SRC-TEMARIO-B1-T07",
+  "paginas": 57,
+  "fecha_pdf": "2024-08-13",
+  "normas_referencia": [
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno."
+  ],
+  "pagina_inicio_cuerpo": 4,
+  "estado_indice": "extraido_automaticamente",
+  "epigrafes": [
+    {
+      "numero": "1",
+      "titulo": "LEY 19/2013, DE 9 DE DICIEMBRE, DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO.",
+      "pagina_ini": 4,
+      "pagina_fin": 4,
+      "id": "B1-T07-E1"
+    },
+    {
+      "numero": "1.1",
+      "titulo": "CONTENIDO (40 ARTS.).",
+      "pagina_ini": 4,
+      "pagina_fin": 5,
+      "id": "B1-T07-E1.1"
+    },
+    {
+      "numero": "1.2",
+      "titulo": "OBJETO DE LA LEY (ARTÍCULO 1).",
+      "pagina_ini": 5,
+      "pagina_fin": 6,
+      "id": "B1-T07-E1.2"
+    },
+    {
+      "numero": "1.3",
+      "titulo": "TRANSPARENCIA DE LA ACTIVIDAD PÚBLICA (TÍTULO I).",
+      "pagina_ini": 6,
+      "pagina_fin": 31,
+      "id": "B1-T07-E1.3"
+    },
+    {
+      "numero": "1.4",
+      "titulo": "BUEN GOBIERNO (Título II).",
+      "pagina_ini": 31,
+      "pagina_fin": 45,
+      "id": "B1-T07-E1.4"
+    },
+    {
+      "numero": "1.5",
+      "titulo": "CONSEJO DE TRANSPARENCIA Y BUEN GOBIERNO (TÍTULO III).",
+      "pagina_ini": 45,
+      "pagina_fin": 57,
+      "id": "B1-T07-E1.5"
+    }
+  ]
+}

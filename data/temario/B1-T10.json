@@ -1,0 +1,513 @@
+{
+  "tema_id": "B1-T10",
+  "fuente_id": "SRC-TEMARIO-B1-T10",
+  "paginas": 126,
+  "fecha_pdf": "2022-02-25",
+  "normas_referencia": [
+    "Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.",
+    "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales (ROFRJEL)",
+    "Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el Texto Refundido de las disposiciones legales vigentes en materia de Régimen Local TR/86.",
+    "Real Decreto 1690/1986, de 11 de julio, por el que se aprueba el Reglamento de Población y Demarcación Territorial de las Entidades Locales (RPDT)."
+  ],
+  "pagina_inicio_cuerpo": 7,
+  "estado_indice": "extraido_automaticamente",
+  "epigrafes": [
+    {
+      "numero": "1",
+      "titulo": "ADMINISTRACIÓN LOCAL.",
+      "pagina_ini": 7,
+      "pagina_fin": 7,
+      "id": "B1-T10-E1"
+    },
+    {
+      "numero": "1.1",
+      "titulo": "EL CONCEPTO DE ADMINISTRACIÓN LOCAL.",
+      "pagina_ini": 7,
+      "pagina_fin": 7,
+      "id": "B1-T10-E1.1"
+    },
+    {
+      "numero": "1.2",
+      "titulo": "ENTIDADES LOCALES TERRITORIALES.",
+      "pagina_ini": 7,
+      "pagina_fin": 8,
+      "id": "B1-T10-E1.2"
+    },
+    {
+      "numero": "1.3",
+      "titulo": "OTRAS ENTIDADES LOCALES.",
+      "pagina_ini": 8,
+      "pagina_fin": 9,
+      "id": "B1-T10-E1.3"
+    },
+    {
+      "numero": "2",
+      "titulo": "LA PROVINCIA.",
+      "pagina_ini": 9,
+      "pagina_fin": 9,
+      "id": "B1-T10-E2"
+    },
+    {
+      "numero": "2.1",
+      "titulo": "CONCEPTO Y FINES.",
+      "pagina_ini": 9,
+      "pagina_fin": 11,
+      "id": "B1-T10-E2.1"
+    },
+    {
+      "numero": "2.2",
+      "titulo": "ALGUNAS REFERENCIAS HISTÓRICAS SOBRE LA PROVINCIA.",
+      "pagina_ini": 11,
+      "pagina_fin": 12,
+      "id": "B1-T10-E2.2"
+    },
+    {
+      "numero": "2.3",
+      "titulo": "LA PROVINCIA EN LA CONSTITUCIÓN ESPAÑOLA DE 1978.",
+      "pagina_ini": 12,
+      "pagina_fin": 13,
+      "id": "B1-T10-E2.3"
+    },
+    {
+      "numero": "2.4",
+      "titulo": "LA PROVINCIA EN EL DERECHO DE LAS COMUNIDADES AUTÓNOMAS.",
+      "pagina_ini": 13,
+      "pagina_fin": 14,
+      "id": "B1-T10-E2.4"
+    },
+    {
+      "numero": "2.5",
+      "titulo": "ELECCIÓN DE LOS DIPUTADOS PROVINCIALES INTRODUCCIÓN.",
+      "pagina_ini": 14,
+      "pagina_fin": 15,
+      "id": "B1-T10-E2.5"
+    },
+    {
+      "numero": "2.6",
+      "titulo": "LA ELECCIÓN DEL PLENO DE LA DIPUTACIÓN.",
+      "pagina_ini": 15,
+      "pagina_fin": 19,
+      "id": "B1-T10-E2.6"
+    },
+    {
+      "numero": "3",
+      "titulo": "LA PROVINCIA Y SUS ELEMENTOS, EL TERRITORIO, LA POBLACIÓN Y LA ORGANIZACIÓN, INTRODUCCIÓN EXPLICATIVA.",
+      "pagina_ini": 19,
+      "pagina_fin": 19,
+      "id": "B1-T10-E3"
+    },
+    {
+      "numero": "3.1",
+      "titulo": "EL TERRITORIO.",
+      "pagina_ini": 19,
+      "pagina_fin": 20,
+      "id": "B1-T10-E3.1"
+    },
+    {
+      "numero": "3.2",
+      "titulo": "LA POBLACIÓN.",
+      "pagina_ini": 20,
+      "pagina_fin": 20,
+      "id": "B1-T10-E3.2"
+    },
+    {
+      "numero": "3.3",
+      "titulo": "LA ORGANIZACIÓN.",
+      "pagina_ini": 20,
+      "pagina_fin": 29,
+      "id": "B1-T10-E3.3"
+    },
+    {
+      "numero": "4",
+      "titulo": "ÓRGANOS COMPLEMENTARIOS.",
+      "pagina_ini": 29,
+      "pagina_fin": 30,
+      "id": "B1-T10-E4"
+    },
+    {
+      "numero": "4.1",
+      "titulo": "CONCEJALES-DELEGADOS Y DIPUTADOS- DELEGADOS.",
+      "pagina_ini": 30,
+      "pagina_fin": 31,
+      "id": "B1-T10-E4.1"
+    },
+    {
+      "numero": "4.2",
+      "titulo": "LAS COMISIONES INFORMATIVAS.",
+      "pagina_ini": 31,
+      "pagina_fin": 33,
+      "id": "B1-T10-E4.2"
+    },
+    {
+      "numero": "4.3",
+      "titulo": "LA COMISIÓN ESPECIAL DE CUENTAS.",
+      "pagina_ini": 33,
+      "pagina_fin": 33,
+      "id": "B1-T10-E4.3"
+    },
+    {
+      "numero": "4.4",
+      "titulo": "LOS CONSEJOS SECTORIALES.",
+      "pagina_ini": 33,
+      "pagina_fin": 34,
+      "id": "B1-T10-E4.4"
+    },
+    {
+      "numero": "4.5",
+      "titulo": "LOS ÓRGANOS DESCONCENTRADOS Y DESCENTRALIZADOS PARA LA GESTIÓN DE LOS SERVICIOS.",
+      "pagina_ini": 34,
+      "pagina_fin": 36,
+      "id": "B1-T10-E4.5"
+    },
+    {
+      "numero": "5",
+      "titulo": "LAS COMPETENCIAS DE LA DIPUTACIÓN.",
+      "pagina_ini": 36,
+      "pagina_fin": 36,
+      "id": "B1-T10-E5"
+    },
+    {
+      "numero": "5.1",
+      "titulo": "LAS COMPETENCIAS PROPIAS DE LA DIPUTACIÓN.",
+      "pagina_ini": 36,
+      "pagina_fin": 41,
+      "id": "B1-T10-E5.1"
+    },
+    {
+      "numero": "5.2",
+      "titulo": "REGÍMENES ESPECIALES.",
+      "pagina_ini": 41,
+      "pagina_fin": 43,
+      "id": "B1-T10-E5.2"
+    },
+    {
+      "numero": "6",
+      "titulo": "EL MUNICIPIO.",
+      "pagina_ini": 43,
+      "pagina_fin": 44,
+      "id": "B1-T10-E6"
+    },
+    {
+      "numero": "6.1",
+      "titulo": "EL MUNICIPIO, DEFINICIÓN, CAPACIDAD, POTESTADES Y ELEMENTOS.",
+      "pagina_ini": 44,
+      "pagina_fin": 47,
+      "id": "B1-T10-E6.1"
+    },
+    {
+      "numero": "7",
+      "titulo": "EL TÉRMINO MUNICIPAL Y SUS ALTERACIONES.",
+      "pagina_ini": 47,
+      "pagina_fin": 49,
+      "id": "B1-T10-E7"
+    },
+    {
+      "numero": "7.1",
+      "titulo": "LAS ALTERACIONES DEL TERMINO MUNICIPAL EN EL TR/86 Y EN EL REGLAMENTO DE POBLACIÓN Y DEMARCACIÓN TERRITORIAL DE LAS ENTIDADES LOCALES (RPDT).",
+      "pagina_ini": 49,
+      "pagina_fin": 51,
+      "id": "B1-T10-E7.1"
+    },
+    {
+      "numero": "7.2",
+      "titulo": "EL DESLINDE DE TÉRMINOS MUNICIPALES.",
+      "pagina_ini": 51,
+      "pagina_fin": 52,
+      "id": "B1-T10-E7.2"
+    },
+    {
+      "numero": "7.3",
+      "titulo": "LA ALTERACIÓN DEL NOMBRE Y LA CAPITALIDAD DE LOS MUNICIPIOS.",
+      "pagina_ini": 52,
+      "pagina_fin": 53,
+      "id": "B1-T10-E7.3"
+    },
+    {
+      "numero": "8",
+      "titulo": "LA POBLACIÓN.",
+      "pagina_ini": 53,
+      "pagina_fin": 54,
+      "id": "B1-T10-E8"
+    },
+    {
+      "numero": "8.1",
+      "titulo": "LA OBLIGACIÓN DE INSCRIBIRSE EN EL PADRÓN MUNICIPAL, LA POBLACIÓN DEL MUNICIPIO Y LA ADQUISICIÓN DE LA CONDICIÓN DE VECINO.",
+      "pagina_ini": 54,
+      "pagina_fin": 55,
+      "id": "B1-T10-E8.1"
+    },
+    {
+      "numero": "8.2",
+      "titulo": "LOS DERECHOS DE LOS VECINOS.",
+      "pagina_ini": 55,
+      "pagina_fin": 57,
+      "id": "B1-T10-E8.2"
+    },
+    {
+      "numero": "8.3",
+      "titulo": "EL PADRÓN DEFINICIÓN DATOS OBLIGATORIOS QUE HA DE CONTENER Y DATOS VOLUNTARIOS.",
+      "pagina_ini": 57,
+      "pagina_fin": 59,
+      "id": "B1-T10-E8.3"
+    },
+    {
+      "numero": "8.4",
+      "titulo": "CESIÓN DE LOS DATOS DEL PADRÓN MUNICIPAL A OTRAS ADMINISTRACIONES PÚBLICAS.",
+      "pagina_ini": 59,
+      "pagina_fin": 59,
+      "id": "B1-T10-E8.4"
+    },
+    {
+      "numero": "8.5",
+      "titulo": "DERECHOS DE LOS VECINOS PARA EL ACCESO, RECTIFICACIÓN Y CANCELACIÓN.",
+      "pagina_ini": 59,
+      "pagina_fin": 60,
+      "id": "B1-T10-E8.5"
+    },
+    {
+      "numero": "8.6",
+      "titulo": "EL ACCESO A LOS DATOS DEL PADRÓN PARA EL EJERCICIO DE LAS COMPETENCIAS ESTABLECIDAS EN LA LEY ORGÁNICA DE DERECHOS Y LIBERTADES DE LOS EXTRANJEROS EN ESPAÑA (LRBRL).",
+      "pagina_ini": 60,
+      "pagina_fin": 60,
+      "id": "B1-T10-E8.6"
+    },
+    {
+      "numero": "8.7",
+      "titulo": "FORMACIÓN, MANTENIMIENTO, REVISIÓN Y CUSTODIA DEL PADRÓN MUNICIPAL.",
+      "pagina_ini": 60,
+      "pagina_fin": 65,
+      "id": "B1-T10-E8.7"
+    },
+    {
+      "numero": "9",
+      "titulo": "LA ORGANIZACIÓN MUNICIPAL.",
+      "pagina_ini": 65,
+      "pagina_fin": 67,
+      "id": "B1-T10-E9"
+    },
+    {
+      "numero": "9.1",
+      "titulo": "EL GOBIERNO Y LA ADMINISTRACIÓN MUNICIPAL.",
+      "pagina_ini": 67,
+      "pagina_fin": 77,
+      "id": "B1-T10-E9.1"
+    },
+    {
+      "numero": "9.2",
+      "titulo": "LOS TENIENTES DE ALCALDE.",
+      "pagina_ini": 77,
+      "pagina_fin": 79,
+      "id": "B1-T10-E9.2"
+    },
+    {
+      "numero": "9.3",
+      "titulo": "LA JUNTA DE GOBIERNO LOCAL.",
+      "pagina_ini": 79,
+      "pagina_fin": 80,
+      "id": "B1-T10-E9.3"
+    },
+    {
+      "numero": "9.4",
+      "titulo": "EL PLENO DEL AYUNTAMIENTO.",
+      "pagina_ini": 80,
+      "pagina_fin": 85,
+      "id": "B1-T10-E9.4"
+    },
+    {
+      "numero": "10",
+      "titulo": "LOS ÓRGANOS COMPLEMENTARIOS.",
+      "pagina_ini": 85,
+      "pagina_fin": 85,
+      "id": "B1-T10-E10"
+    },
+    {
+      "numero": "10.1",
+      "titulo": "LA COMISIÓN ESPECIAL DE CUENTAS.",
+      "pagina_ini": 85,
+      "pagina_fin": 87,
+      "id": "B1-T10-E10.1"
+    },
+    {
+      "numero": "10.2",
+      "titulo": "LOS CONCEJALES DELEGADOS",
+      "pagina_ini": 87,
+      "pagina_fin": 87,
+      "id": "B1-T10-E10.2"
+    },
+    {
+      "numero": "10.3",
+      "titulo": "COMISIONES INFORMATIVAS.",
+      "pagina_ini": 87,
+      "pagina_fin": 89,
+      "id": "B1-T10-E10.3"
+    },
+    {
+      "numero": "10.4",
+      "titulo": "LOS CONSEJOS SECTORIALES.",
+      "pagina_ini": 89,
+      "pagina_fin": 89,
+      "id": "B1-T10-E10.4"
+    },
+    {
+      "numero": "10.5",
+      "titulo": "ÓRGANOS DESCONCENTRADOS Y DESCENTRALIZADOS PARA LA GESTIÓN DE LOS SERVICIOS. (ART. 132 Y 133 DEL ROFRJEL).",
+      "pagina_ini": 89,
+      "pagina_fin": 90,
+      "id": "B1-T10-E10.5"
+    },
+    {
+      "numero": "10.6",
+      "titulo": "REPRESENTANTES PERSONALES DEL ALCALDE EN POBLADOS Y BARRIADAS (ART. 122 DEL RORJEL).",
+      "pagina_ini": 90,
+      "pagina_fin": 90,
+      "id": "B1-T10-E10.6"
+    },
+    {
+      "numero": "10.7",
+      "titulo": "LAS JUNTAS MUNICIPALES DE DISTRITO.",
+      "pagina_ini": 90,
+      "pagina_fin": 92,
+      "id": "B1-T10-E10.7"
+    },
+    {
+      "numero": "11",
+      "titulo": "OTRA FORMA DE ORGANIZACIÓN DESCONCENTRADA.",
+      "pagina_ini": 92,
+      "pagina_fin": 94,
+      "id": "B1-T10-E11"
+    },
+    {
+      "numero": "12",
+      "titulo": "REGÍMENES ESPECIALES MUNICIPALES.",
+      "pagina_ini": 94,
+      "pagina_fin": 94,
+      "id": "B1-T10-E12"
+    },
+    {
+      "numero": "12.1",
+      "titulo": "EL CONCEJO ABIERTO.",
+      "pagina_ini": 94,
+      "pagina_fin": 94,
+      "id": "B1-T10-E12.1"
+    },
+    {
+      "numero": "12.2",
+      "titulo": "REGÍMENES ESPECIALES.",
+      "pagina_ini": 94,
+      "pagina_fin": 96,
+      "id": "B1-T10-E12.2"
+    },
+    {
+      "numero": "13",
+      "titulo": "ORGANIZACIÓN DE LOS MUNICIPIOS DE GRAN POBLACIÓN.",
+      "pagina_ini": 96,
+      "pagina_fin": 97,
+      "id": "B1-T10-E13"
+    },
+    {
+      "numero": "13.1",
+      "titulo": "ÁMBITO DE APLICACIÓN DEL DEL RÉGIMEN DE ORGANIZACIÓN DE GRAN POBLACIÓN.",
+      "pagina_ini": 97,
+      "pagina_fin": 100,
+      "id": "B1-T10-E13.1"
+    },
+    {
+      "numero": "13.2",
+      "titulo": "LA ORGANIZACIÓN DEL PLENO.",
+      "pagina_ini": 100,
+      "pagina_fin": 102,
+      "id": "B1-T10-E13.2"
+    },
+    {
+      "numero": "13.3",
+      "titulo": "ATRIBUCIONES DEL PLENO.",
+      "pagina_ini": 102,
+      "pagina_fin": 105,
+      "id": "B1-T10-E13.3"
+    },
+    {
+      "numero": "14",
+      "titulo": "EL ALCALDE ATRIBUCIONES.",
+      "pagina_ini": 105,
+      "pagina_fin": 107,
+      "id": "B1-T10-E14"
+    },
+    {
+      "numero": "15",
+      "titulo": "LOS TENIENTES DE ALCALDE.",
+      "pagina_ini": 107,
+      "pagina_fin": 108,
+      "id": "B1-T10-E15"
+    },
+    {
+      "numero": "16",
+      "titulo": "ORGANIZACIÓN DE LA JUNTA DE GOBIERNO LOCAL.",
+      "pagina_ini": 108,
+      "pagina_fin": 110,
+      "id": "B1-T10-E16"
+    },
+    {
+      "numero": "16.1",
+      "titulo": "ATRIBUCIONES DE LA JUNTA DE GOBIERNO LOCAL.",
+      "pagina_ini": 110,
+      "pagina_fin": 112,
+      "id": "B1-T10-E16.1"
+    },
+    {
+      "numero": "17",
+      "titulo": "LOS DISTRITOS.",
+      "pagina_ini": 112,
+      "pagina_fin": 113,
+      "id": "B1-T10-E17"
+    },
+    {
+      "numero": "18",
+      "titulo": "LA ASESORÍA JURÍDICA.",
+      "pagina_ini": 113,
+      "pagina_fin": 114,
+      "id": "B1-T10-E18"
+    },
+    {
+      "numero": "19",
+      "titulo": "ÓRGANOS SUPERIORES Y DIRECTIVOS.",
+      "pagina_ini": 114,
+      "pagina_fin": 117,
+      "id": "B1-T10-E19"
+    },
+    {
+      "numero": "21",
+      "titulo": "LA COMISIÓN ESPECIAL DE SUGERENCIAS Y RECLAMACIONES.",
+      "pagina_ini": 117,
+      "pagina_fin": 118,
+      "id": "B1-T10-E21"
+    },
+    {
+      "numero": "22",
+      "titulo": "LAS COMPETENCIAS DE LAS ENTIDADES LOCALES.",
+      "pagina_ini": 118,
+      "pagina_fin": 122,
+      "id": "B1-T10-E22"
+    },
+    {
+      "numero": "23",
+      "titulo": "CONFLICTOS DE ATRIBUCIONES ENTRE ÓRGANOS Y ENTIDADES DE UNA MISMA CORPORACIÓN Y CONFLICTOS DE COMPETENCIAS ENTRES DISTINTAS ADMINISTRACIONES PÚBLICAS.",
+      "pagina_ini": 122,
+      "pagina_fin": 123,
+      "id": "B1-T10-E23"
+    },
+    {
+      "numero": "24",
+      "titulo": "LAS COMPETENCIA PROPIAS DE LOS MUNICIPIOS.",
+      "pagina_ini": 123,
+      "pagina_fin": 125,
+      "id": "B1-T10-E24"
+    },
+    {
+      "numero": "25",
+      "titulo": "LOS SERVICIOS MÍNIMOS QUE HAN DE PRESTAR LOS MUNICIPIOS.",
+      "pagina_ini": 125,
+      "pagina_fin": 126,
+      "id": "B1-T10-E25"
+    }
+  ]
+}

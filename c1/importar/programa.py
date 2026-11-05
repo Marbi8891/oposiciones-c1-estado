@@ -83,3 +83,37 @@ def importar(seguimiento: Path, progreso: Path, store: Store):
     store.write("estado_declarado.json", estado, accion="importar_estado_declarado", entidad="estado_declarado",
                 motivo="Estado del sistema anterior (PROGRESO.md, 30/08/2026), conservado como declaración, no como evidencia")
     return programa, estado
+
+
+def importar_estado(progreso: Path, store: Store, fecha_estado: str):
+    """Actualiza el estado declarado desde una versión nueva de PROGRESO.md.
+
+    Solo cuenta como «primera pasada» una fila con fecha; las versiones anteriores
+    quedan en el historial de Git y en la auditoría.
+    """
+    prog = parsear_tablas(progreso.read_text(encoding="utf-8"))
+    fuentes = store.read("fuentes.json", [])
+    fid = f"SRC-LEGACY-{len([f for f in fuentes if f['id'].startswith('SRC-LEGACY-')]) + 1:04d}"
+    fuentes.append({"id": fid, "tipo": "seguimiento_propio", "titulo": f"PROGRESO.md (sistema anterior, {fecha_estado})",
+                    "ruta": "legacy/sistema_anterior/PROGRESO.md", "sha256": _sha256(progreso), "fecha_registro": hoy(),
+                    "nota": "Estado declarado; el dominio 2/5 era provisional, sin test resuelto."})
+    store.write("fuentes.json", fuentes, accion="registrar_fuente", entidad=fid, motivo="Nueva versión de PROGRESO.md")
+    anterior = store.read("estado_declarado.json", {"temas": {}})
+    estado = {"fuente_id": fid, "fecha_estado": fecha_estado, "temas": {}}
+    for romano, (_, filas) in prog.items():
+        for t, _, resto in filas:
+            tid = f"B{ROMANOS[romano]}-{t}"
+            primera = _iso(resto[2]) if len(resto) > 2 else None
+            if not primera:
+                continue
+            estado["temas"][tid] = {
+                "estado_declarado": resto[0],
+                "dominio_declarado": int(resto[1]) if resto[1].isdigit() else None,
+                "primera_pasada": primera,
+                "repasos_referencia": [d for d in (_iso(x) for x in resto[3:6]) if d],
+                "test_resuelto": resto[6] if len(resto) > 6 else None,
+            }
+    nuevos = sorted(set(estado["temas"]) - set(anterior["temas"]))
+    store.write("estado_declarado.json", estado, accion="actualizar_estado_declarado", entidad="estado_declarado",
+                motivo=f"PROGRESO.md a {fecha_estado}: {len(estado['temas'])} temas con primera pasada; nuevos: {nuevos}")
+    return nuevos

@@ -16,6 +16,10 @@ Optimiza para: COMPRENSIÓN → RECUERDO → PRECISIÓN → VELOCIDAD → RETENC
 
 ---
 
+> **[STATED — 15/09/2026] Restricción de alcance del sistema.** Esta preparación se apoya en archivos de seguimiento en markdown y en el material de estudio (PDFs, resúmenes, tests) de esta carpeta. No conviertas la preparación en un proyecto de programación ni construyas o amplíes herramientas de software (apps, sitios web, artifacts) salvo petición explícita y puntual del alumno en ese momento. El desarrollo de la herramienta "Chuleta C1" referenciado en versiones anteriores de `PROGRESO.md` queda EN PAUSA por este motivo — ver DECISION REVIEW en `PROGRESO.md`.
+
+---
+
 # 1. ARCHIVOS DE ESTADO
 
 Antes de dirigir una sesión, consulta cuando existan:
